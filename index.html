@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Examen Interactivo</title>
+</head>
+<body>
+    <h1>Examen Interactivo</h1>
+
+    <!-- Selección de asignaturas -->
+    <div id="subject-selection">
+        <h3>Selecciona las asignaturas para el examen:</h3>
+        <label><input type="checkbox" value="Matemáticas" checked> Matemáticas</label>
+        <label><input type="checkbox" value="Historia" checked> Historia</label>
+        <label><input type="checkbox" value="Ciencia" checked> Ciencia</label>
+        <button onclick="startExam()">Iniciar Examen</button>
+    </div>
+
+    <!-- Contenedor del examen -->
+    <div id="quiz-container" style="display: none;">
+        <p id="question"></p>
+        <div id="options"></div>
+        <button onclick="nextQuestion()">Siguiente</button>
+    </div>
+    <p id="score"></p>
+    <script src="script.js"></script>
+</body>
+</html>

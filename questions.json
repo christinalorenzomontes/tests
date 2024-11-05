@@ -1,0 +1,56 @@
+[
+  {
+      "subject": "Matemáticas",
+      "question": "¿Cuánto es 8 + 5?",
+      "options": ["10", "12", "13", "15"],
+      "answer": "13"
+  },
+  {
+      "subject": "Matemáticas",
+      "question": "¿Cuál es el resultado de 7 * 6?",
+      "options": ["42", "36", "49", "54"],
+      "answer": "42"
+  },
+  {
+      "subject": "Historia",
+      "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "options": ["1914", "1939", "1945", "1950"],
+      "answer": "1939"
+  },
+  {
+      "subject": "Historia",
+      "question": "¿Quién fue el primer presidente de Estados Unidos?",
+      "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+      "answer": "George Washington"
+  },
+  {
+      "subject": "Ciencia",
+      "question": "¿Cuál es el elemento químico para el oro?",
+      "options": ["Au", "Ag", "O", "Gd"],
+      "answer": "Au"
+  },
+  {
+      "subject": "Ciencia",
+      "question": "¿Cuál es el planeta más cercano al sol?",
+      "options": ["Venus", "Marte", "Mercurio", "Tierra"],
+      "answer": "Mercurio"
+  },
+  {
+    "subject": "Historia",
+    "question": "¿Quién fue el primer presidente de Estados Unidos?",
+    "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+    "answer": "George Washington"
+},
+{
+    "subject": "Ciencia",
+    "question": "¿Cuál es el elemento químico para el oro?",
+    "options": ["Au", "Ag", "O", "Gd"],
+    "answer": "Au"
+},
+{
+    "subject": "Ciencia",
+    "question": "¿Cuál es el planeta más cercano al sol?",
+    "options": ["Venus", "Marte", "Mercurio", "Tierra"],
+    "answer": "Mercurio"
+}
+]
