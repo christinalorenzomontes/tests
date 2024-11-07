@@ -1,56 +1,99 @@
+
 [
   {
-      "subject": "Matemáticas",
-      "question": "¿Cuánto es 8 + 5?",
-      "options": ["10", "12", "13", "15"],
-      "answer": "13"
+    "question": "El medioambiente tiene la considración en la Constitución española de:",
+    "answer": "Principio rector de la política económica y social.",
+    "options": [
+      "Libertad pública.",
+      "Derecho fundamental.",
+      "Derecho ordinario",
+      "Principio rector de la política económica y social."
+    ],
+    "subject": "PP",
+    "topic": 3
   },
   {
-      "subject": "Matemáticas",
-      "question": "¿Cuál es el resultado de 7 * 6?",
-      "options": ["42", "36", "49", "54"],
-      "answer": "42"
+    "question": "De acuerdo con lo establecido en la Constitución Española, en materia medioambiental:",
+    "answer": "Se podrán imponer sanciones penales.",
+    "options": [
+      "Se podrán imponer sanciones penales.",
+      "Sólo se podrán imponer sanciones penales.",
+      "Prioritariamente se impondrán sanciones administrativas.",
+      "Se podrán imponer sanciones económicas."
+    ],
+    "subject": "PP",
+    "topic": 3
   },
   {
-      "subject": "Historia",
-      "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
-      "options": ["1914", "1939", "1945", "1950"],
-      "answer": "1939"
+    "question": "El recurso previo de inconstitucionalidad deberá ser resuelto por el Tribunal Constitucional en el plazo improrrogable de:",
+    "answer": "Seis meses desde su interposición",
+    "options": [
+      "Tres meses desde su interposición",
+      "Tres meses desde la publicación del texto en el Boletín de las CCGG",
+      "Seis meses desde su interposición",
+      "Seis meses desde la publicación del texto en el Boletín de las CCGG"
+    ],
+    "subject": "OE",
+    "topic": 3
   },
   {
-      "subject": "Historia",
-      "question": "¿Quién fue el primer presidente de Estados Unidos?",
-      "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
-      "answer": "George Washington"
+    "question": "Las decisiones de inadmisión inicial, desistimiento y caducidad, salvo que la LOTC disponga expresamente otra forma, adoptarán la forma de:",
+    "answer": "Autos",
+    "options": [
+      "Providencias",
+      "Autos",
+      "Declaraciones",
+      "Sentencias"
+    ],
+    "subject": "OE",
+    "topic": 3
   },
   {
-      "subject": "Ciencia",
-      "question": "¿Cuál es el elemento químico para el oro?",
-      "options": ["Au", "Ag", "O", "Gd"],
-      "answer": "Au"
+    "question": "Según establece Ley 47/2003, de 26 de noviembre, General Presupuestaria, la gestión del\nsector público estatal está sometida al régimen de presupuesto anual aprobado por:",
+    "answer": "Las Cortes Generales.",
+    "options": [
+      "Las Cortes Generales.",
+      "El Ministro de Hacienda.",
+      "El Congreso de los Diputados.",
+      "El Gobierno."
+    ],
+    "subject": "GF",
+    "topic": 1.2
   },
   {
-      "subject": "Ciencia",
-      "question": "¿Cuál es el planeta más cercano al sol?",
-      "options": ["Venus", "Marte", "Mercurio", "Tierra"],
-      "answer": "Mercurio"
+    "question": "Los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos:",
+    "answer": "Por su importe íntegro.",
+    "options": [
+      "Por su importe íntegro.",
+      "Por su importe bruto.",
+      "Por su importe liquidado.",
+      "Por su importe exacto."
+    ],
+    "subject": "GF",
+    "topic": 1.2
   },
   {
-    "subject": "Historia",
-    "question": "¿Quién fue el primer presidente de Estados Unidos?",
-    "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
-    "answer": "George Washington"
-},
-{
-    "subject": "Ciencia",
-    "question": "¿Cuál es el elemento químico para el oro?",
-    "options": ["Au", "Ag", "O", "Gd"],
-    "answer": "Au"
-},
-{
-    "subject": "Ciencia",
-    "question": "¿Cuál es el planeta más cercano al sol?",
-    "options": ["Venus", "Marte", "Mercurio", "Tierra"],
-    "answer": "Mercurio"
-}
+    "question": "La Oficina de Coordinación y Calidad Normativa depende del:",
+    "answer": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.",
+    "options": [
+      "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.",
+      "Ministerio del Interior.",
+      "Ministerio de Hacienda.",
+      "Ministerio de la Transformación Digital y Función Pública."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Según el artículo 27 de la Ley del Gobierno, la tramitación urgente de iniciativas normativas (señale la falsa):",
+    "answer": "Se podrá prescindir de la Memoria de Análisis de Impacto Normativo (MAIN).",
+    "options": [
+      "Será acordada cuando fuera necesario para que la norma entre en vigor en el plazo exigido para la trasposición de directivas comunitarias.",
+      "Será acordada por el Consejo de Ministros.",
+      "Se podrá prescindir de la Memoria de Análisis de Impacto Normativo (MAIN).",
+      "Los plazos se reducirán a la mitad."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  }
 ]

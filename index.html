@@ -4,26 +4,53 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Examen Interactivo</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Examen Interactivo</h1>
 
-    <!-- Selección de asignaturas -->
-    <div id="subject-selection">
-        <h3>Selecciona las asignaturas para el examen:</h3>
-        <label><input type="checkbox" value="Matemáticas" checked> Matemáticas</label>
-        <label><input type="checkbox" value="Historia" checked> Historia</label>
-        <label><input type="checkbox" value="Ciencia" checked> Ciencia</label>
-        <button onclick="startExam()">Iniciar Examen</button>
+    <div id="quizContainer">
+        <h1>Examen Interactivo</h1>
+        <h3>Selecciona las asignaturas que deseas incluir:</h3>
+        <div id="subjectsContainer">
+            <label><input type="checkbox" class="subject" value="PP"> PP</label>
+            <label><input type="checkbox" class="subject" value="OE"> OE</label>
+            <label><input type="checkbox" class="subject" value="GF"> GF</label>
+            <label><input type="checkbox" class="subject" value="DA"> DA</label>
+        </div>
+
+        <h3>Selecciona el número de preguntas:</h3>
+        <label>
+            <input type="radio" name="questionCount" value="5"> 5 preguntas
+        </label>
+        <label>
+            <input type="radio" name="questionCount" value="10"> 10 preguntas
+        </label>
+        <label>
+            <input type="radio" name="questionCount" value="20"> 20 preguntas
+        </label>
+        <label>
+            <input type="radio" name="questionCount" value="40"> 40 preguntas
+        </label>
+
+        <button id="startBtn" onclick="startQuiz()">Iniciar Examen</button>
     </div>
 
-    <!-- Contenedor del examen -->
-    <div id="quiz-container" style="display: none;">
-        <p id="question"></p>
-        <div id="options"></div>
-        <button onclick="nextQuestion()">Siguiente</button>
+    <div id="questionContainer" style="display: none;">
+        <h3 id="questionTitle"></h3>
+        <div id="optionsContainer"></div>
+        <div class="button-container">
+            <button id="nextBtn" onclick="nextQuestion()">Siguiente</button>
+            <button id="skipBtn" onclick="skipQuestion()">Saltar</button>
+        </div>
     </div>
-    <p id="score"></p>
+
+    <div id="resultContainer" style="display: none;">
+        <h3>Resultados</h3>
+        <div id="resultList"></div>
+        <p id="score">Tu puntuación: 0</p>
+        <button onclick="restartQuiz()">Reiniciar examen</button>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>

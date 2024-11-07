@@ -1,93 +1,122 @@
-let questions = [];
-let selectedQuestions = [];
-let currentQuestion = 0;
+let currentQuestionIndex = 0;
 let score = 0;
-let incorrectCount = 0;
+let questions = [];
+let selectedSubjects = [];
+let questionCount = 0;
+let userAnswers = [];
 
-// Función para cargar todas las preguntas desde el archivo JSON
-async function loadQuestions() {
-    const response = await fetch('questions.json');
-    questions = await response.json();
+function startQuiz() {
+    selectedSubjects = Array.from(document.querySelectorAll('.subject:checked')).map(input => input.value);
+    questionCount = parseInt(document.querySelector('input[name="questionCount"]:checked')?.value);
+
+    if (selectedSubjects.length === 0 || isNaN(questionCount)) {
+        alert("Por favor selecciona asignaturas y número de preguntas.");
+        return;
+    }
+
+    fetch('questions.json')
+        .then(response => response.json())
+        .then(data => {
+            // Filtramos las preguntas según las asignaturas seleccionadas
+            questions = data.filter(q => selectedSubjects.includes(q.subject));
+            // Seleccionamos un número aleatorio de preguntas
+            questions = shuffleArray(questions).slice(0, questionCount);
+            userAnswers = new Array(questions.length).fill(null);
+            showQuestion();
+            document.getElementById('quizContainer').style.display = 'none';
+            document.getElementById('questionContainer').style.display = 'block';
+        });
 }
 
-// Función para iniciar el examen según la selección del usuario
-function startExam() {
-    // Obtener las asignaturas seleccionadas
-    const checkboxes = document.querySelectorAll('#subject-selection input[type="checkbox"]');
-    const selectedSubjects = Array.from(checkboxes)
-                                 .filter(checkbox => checkbox.checked)
-                                 .map(checkbox => checkbox.value);
+function showQuestion() {
+    const question = questions[currentQuestionIndex];
+    document.getElementById('questionTitle').textContent = question.question;
+    const optionsContainer = document.getElementById('optionsContainer');
+    optionsContainer.innerHTML = '';
 
-    // Filtrar las preguntas según las asignaturas seleccionadas
-    const filteredQuestions = questions.filter(q => selectedSubjects.includes(q.subject));
-
-    // Seleccionar aleatoriamente 20 preguntas de las seleccionadas
-    selectedQuestions = filteredQuestions.sort(() => 0.5 - Math.random()).slice(0, 20);
-
-    // Ocultar la selección de asignaturas y mostrar el examen
-    document.getElementById('subject-selection').style.display = 'none';
-    document.getElementById('quiz-container').style.display = 'block';
-
-    // Iniciar con la primera pregunta
-    currentQuestion = 0;
-    score = 0;
-    incorrectCount = 0;
-    displayQuestion();
-}
-
-// Función para mostrar la pregunta actual
-function displayQuestion() {
-    const questionElement = document.getElementById('question');
-    const optionsElement = document.getElementById('options');
-    
-    // Limpiar las opciones anteriores
-    optionsElement.innerHTML = '';
-
-    // Mostrar la pregunta actual
-    const question = selectedQuestions[currentQuestion];
-    questionElement.innerText = `[${question.subject}] ${question.question}`;
-    
-    // Mostrar las opciones de respuesta
     question.options.forEach((option, index) => {
-        const button = document.createElement('button');
-        button.innerText = option;
-        button.onclick = () => checkAnswer(option);
-        optionsElement.appendChild(button);
+        const label = document.createElement('label');
+        label.innerHTML = `
+            <input type="radio" name="option" value="${index}" onclick="selectAnswer(${index})">
+            ${option}
+        `;
+        optionsContainer.appendChild(label);
     });
 }
 
-// Función para verificar la respuesta del usuario
-function checkAnswer(selectedOption) {
-    const question = selectedQuestions[currentQuestion];
+function selectAnswer(index) {
+    userAnswers[currentQuestionIndex] = index;
+}
 
-    if (selectedOption === question.answer) {
-        alert("¡Correcto!");
-        score++;  // Incrementar puntuación por respuesta correcta
-    } else {
-        alert(`Incorrecto. La respuesta correcta era: ${question.answer}`);
-        incorrectCount++;  // Incrementar contador de respuestas incorrectas
-        
-        // Restar un punto cada tres respuestas incorrectas
-        if (incorrectCount === 3) {
-            score--;  // Restar un punto
-            incorrectCount = 0;  // Reiniciar el contador de incorrectas
-            alert("Has acumulado tres respuestas incorrectas, se te resta un punto.");
-        }
+function nextQuestion() {
+    const selectedAnswer = userAnswers[currentQuestionIndex];
+    if (selectedAnswer === null) {
+        return;
     }
-    
-    currentQuestion++;
-    if (currentQuestion < selectedQuestions.length) {
-        displayQuestion();
+
+    const correctAnswer = questions[currentQuestionIndex].options.indexOf(questions[currentQuestionIndex].answer);
+    if (selectedAnswer === correctAnswer) {
+        score++;
+    } else if (selectedAnswer !== null && selectedAnswer !== correctAnswer) {
+        if (score > 0) score--;
+    }
+
+    currentQuestionIndex++;
+
+    if (currentQuestionIndex < questions.length) {
+        showQuestion();
     } else {
-        showScore();
+        showResults();
     }
 }
 
-// Función para mostrar la puntuación final
-function showScore() {
-    document.getElementById('quiz-container').style.display = 'none';
-    document.getElementById('score').innerText = `Has terminado el examen. Puntuación final: ${score}/${selectedQuestions.length}`;
+function skipQuestion() {
+    currentQuestionIndex++;
+    if (currentQuestionIndex < questions.length) {
+        showQuestion();
+    } else {
+        showResults();
+    }
 }
 
-// Cargar las preguntas al iniciar la página
-loadQuestions();
+function showResults() {
+    document.getElementById('questionContainer').style.display = 'none';
+    document.getElementById('resultContainer').style.display = 'block';
+    document.getElementById('score').textContent = `Tu puntuación: ${score}`;
+
+    const resultList = document.getElementById('resultList');
+    resultList.innerHTML = '';
+
+    questions.forEach((question, index) => {
+        const result = document.createElement('div');
+        result.classList.add('question');
+        result.innerHTML = `
+            <h3>${question.question}</h3>
+            <div class="options">
+                ${question.options.map((option, i) => {
+                    let style = '';
+                    if (i === userAnswers[index]) {
+                        style = i === question.options.indexOf(question.answer) ? 'green' : 'red';
+                    } else if (i === question.options.indexOf(question.answer)) {
+                        style = 'green';
+                    }
+
+                    return `<label style="color: ${style}">${option}</label>`;
+                }).join('')}
+            </div>
+        `;
+        resultList.appendChild(result);
+    });
+}
+
+function restartQuiz() {
+    location.reload();
+}
+
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}

@@ -1,0 +1,137 @@
+/* Estilos generales */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+h1, h3 {
+  text-align: center;
+  color: #333;
+}
+
+#quizContainer {
+  width: 60%;
+  margin: 50px auto;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+#resultContainer {
+  width: 80%;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.question {
+  margin-bottom: 30px;
+}
+
+.options {
+  margin-top: 15px;
+}
+
+.options label {
+  display: block;
+  padding: 8px;
+  margin: 5px 0;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.options input[type="radio"] {
+  margin-right: 10px;
+}
+
+button, .options label {
+  transition: background-color 0.3s ease;
+}
+
+button:hover, .options label:hover {
+  background-color: #f0f0f0;
+}
+
+/* Estilos para resaltar respuestas */
+.options label[style*="green"] {
+  font-weight: bold;
+  color: green;
+}
+
+.options label[style*="red"] {
+  color: red;
+}
+
+.options label[style*="orange"] {
+  color: orange;
+}
+
+/* Estilos para los resultados */
+#resultContainer p {
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+#resultContainer .question {
+  margin-bottom: 20px;
+}
+
+#resultContainer h3 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+#resultContainer .options {
+  margin-left: 20px;
+}
+
+#resultContainer .options label {
+  font-weight: normal;
+  font-size: 16px;
+}
+
+/* Estilos para los botones de control */
+.button-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  margin: 10px;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Estilos para el selector de asignaturas */
+#subjectsContainer {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.subject {
+  margin-right: 10px;
+}
