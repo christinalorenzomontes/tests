@@ -1,137 +1,121 @@
-/* Estilos generales */
+/* Fondo azul degradado */
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #4facfe, #4fa3fe); /* Azul degradado */
+  color: #333;
   margin: 0;
   padding: 0;
-  background-color: #f0f0f0;
 }
 
-h1, h3 {
-  text-align: center;
-  color: #333;
-}
-
-#quizContainer {
-  width: 60%;
+/* Contenedor principal */
+.container {
+  max-width: 800px;
   margin: 50px auto;
-  background-color: #fff;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #f4f4f9; /* Color claro para el contenedor */
   padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+/* Título principal */
+h1 {
+  text-align: center;
+  color: #ff69b4; /* Color azul violeta para el título */
+  font-size: 32px;
+}
+
+/* Títulos de las preguntas */
+h3 {
+  color: #ff69b4; /* Rosa para los subtítulos */
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+/* Botón de inicio */
 button {
-  padding: 10px 20px;
-  background-color: #4CAF50;
+  background-color: #ff69b4; /* Rosa claro para los botones */
   color: white;
+  padding: 10px 20px;
   border: none;
-  border-radius: 5px;
+  border-radius: 50px; /* Botón redondeado */
   cursor: pointer;
   font-size: 16px;
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #ff1493; /* Rosa más oscuro al pasar el mouse */
 }
 
-#resultContainer {
-  width: 80%;
-  margin: 50px auto;
-  padding: 20px;
-  background-color: #fff;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.question {
-  margin-bottom: 30px;
-}
-
-.options {
-  margin-top: 15px;
-}
-
-.options label {
+/* Etiquetas para las opciones de asignaturas */
+label {
   display: block;
-  padding: 8px;
-  margin: 5px 0;
-  font-size: 16px;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.options input[type="radio"] {
-  margin-right: 10px;
-}
-
-button, .options label {
-  transition: background-color 0.3s ease;
-}
-
-button:hover, .options label:hover {
-  background-color: #f0f0f0;
-}
-
-/* Estilos para resaltar respuestas */
-.options label[style*="green"] {
-  font-weight: bold;
-  color: green;
-}
-
-.options label[style*="red"] {
-  color: red;
-}
-
-.options label[style*="orange"] {
-  color: orange;
-}
-
-/* Estilos para los resultados */
-#resultContainer p {
-  font-weight: bold;
-  font-size: 18px;
-  margin-top: 10px;
-}
-
-#resultContainer .question {
-  margin-bottom: 20px;
-}
-
-#resultContainer h3 {
-  font-size: 18px;
   margin: 10px 0;
-}
-
-#resultContainer .options {
-  margin-left: 20px;
-}
-
-#resultContainer .options label {
-  font-weight: normal;
   font-size: 16px;
 }
 
-/* Estilos para los botones de control */
-.button-container {
+/* Opciones de las preguntas */
+#questionOptions label {
+  margin: 5px 0;
+  display: inline-flex;  /* Cambiado a inline-flex */
+  align-items: center;  /* Alineación vertical */
+  gap: 10px;  /* Espacio entre el radio button y la respuesta */
+}
+
+#questionOptions input[type="radio"] {
+  vertical-align: middle; /* Alinea verticalmente el radio button */
+  margin: 0;  /* Elimina margen extra del radio button */
+}
+
+/* Contenedor de resultados */
+#resultContainer {
   text-align: center;
-  margin-top: 20px;
+  font-weight: bold;
 }
 
-button {
-  margin: 10px;
-}
-
-button:disabled {
-  background-color: #ccc;
-  cursor: not-allowed;
-}
-
-/* Estilos para el selector de asignaturas */
-#subjectsContainer {
+/* Estilo de las preguntas */
+.question {
   margin-bottom: 20px;
-  text-align: center;
 }
 
-.subject {
-  margin-right: 10px;
+.question p {
+  margin: 5px 0;
+  font-size: 18px; /* Tamaño de fuente para las preguntas */
+}
+
+/* Respuestas más pequeñas que las preguntas */
+.question div p {
+  font-size: 14px; /* Tamaño de fuente reducido para las respuestas */
+}
+
+/* Respuestas correctas, incorrectas y no respondidas */
+.question p.correct {
+  color: green;
+  font-weight: bold;
+}
+
+.question p.incorrect {
+  color: red;
+  font-weight: bold;
+}
+
+.question p.no-answer {
+  color: gray;
+  font-style: italic;
+}
+
+/* Estilo de las opciones seleccionadas */
+#questionOptions input[type="radio"]:checked + label {
+  font-weight: bold;
+}
+
+/* Ajustes para cuando el examen está en progreso */
+#quizContainer {
+  display: none;
+}
+
+/* Estilo para las opciones de asignaturas y número de preguntas */
+#quizSetup {
+  display: block;
+  margin-bottom: 20px;
 }

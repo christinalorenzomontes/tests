@@ -95,5 +95,413 @@
     ],
     "subject": "DA",
     "topic": "1-2"
+  },
+  {
+    "question": "Según la Constitución Española, las normas adicionales de protección en materia medioambiental son dictadas por:",
+    "answer": "Las Comunidades Autónomas.",
+    "options": [
+      "No se prevé esta figura.",
+      "Las Comunidades Autónomas o el Estado, indistintamente.",
+      "El Estado.",
+      "Las Comunidades Autónomas."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "¿Qué Tratado incorporó la política medio ambiental a la UE?",
+    "answer": "AUE",
+    "options": [
+      "AUE",
+      "TUE.",
+      "TCEE.",
+      "T. Ámsterdam"
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "De acuerdo con lo establecido en el artículo 191 de TFUE, no es uno de los objetivos de la política medioambiental:",
+    "answer": "el fomento de medidas a escala nacional destinadas a hacer frente a los problemas del medio ambiente. y en particular a luchar contra el cambio climático.",
+    "options": [
+      "la conservación, la protección y la mejora de la calidad del medio ambiente.",
+      "el fomento de medidas a escala nacional destinadas a hacer frente a los problemas del medio ambiente. y en particular a luchar contra el cambio climático.",
+      "la protección de la salud de las personas.",
+      "la utilización prudente y racional de los recursos naturales."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "El programa LIFE es:",
+    "answer": "Un instrumento financiero de la UE destinado a la protección del medioambiente.",
+    "options": [
+      "El principal instrumento comunitario para la protección de la biodiversidad.",
+      "Un instrumento financiero de la UE destinado a la protección del medioambiente.",
+      "Un programa comunitario para lucha contra el cambio climático.",
+      "Un programa de Naciones Unidas para la protección de la biodiversidad."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "La 26/2007, de 23 de octubre, de responsabilidad medioambiental, se aplicará a los daños medioambientales y a las amenazas inminentes de que tales daños ocurran, cuando hayan sido causados por las actividades económicas o profesionales enumeradas:",
+    "answer": "En el anexo III, aunque no exista dolo, culpa o negligencia.",
+    "options": [
+      "En el anexo III, aunque no exista dolo, culpa o negligencia.",
+      "En el anexo III, siempre que exista dolo, culpa o negligencia.",
+      "En el anexo I, siempre que exista dolo, culpa o negligencia.",
+      "En el anexo I, aunque no exista dolo, culpa o negligencia."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "La responsabilidad medioambiental no será exigible transcurridos:",
+    "answer": "30 años desde que cesó la emisión o suceso causante del daño.",
+    "options": [
+      "99 años desde que cesó la emisión o suceso causante del daño.",
+      "50 años desde que cesó la emisión o suceso causante del daño.",
+      "Siempre será exigible.",
+      "30 años desde que cesó la emisión o suceso causante del daño."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "En relación con la Evalucación Ambiental regulada en la Ley 21/2023, de 9 de diciembre, señala la respuesta incorrecta:",
+    "answer": "La evaluación ambiental es el proceso a través del cual se analizan los efectos significativos que tienen o pueden tener los planes, programas y proyectos, tras su adopción, aprobación o autorización sobre el medio ambiente.",
+    "options": [
+      "La evaluación ambiental es el proceso a través del cual se analizan los efectos significativos que tienen o pueden tener los planes, programas y proyectos, tras su adopción, aprobación o autorización sobre el medio ambiente.",
+      "La evaluación ambiental tendrá carácter instrumental respecto del procedimiento administrativo de aprobación o de adopción de planes y programas, y de autorización de proyectos.",
+      "La evaluación ambiental incluye tanto la evaluación ambiental estratégica, que procede respecto de los planes o programas, como la evaluación de impacto ambiental, que procede respecto de los proyectos.",
+      "En ambos casos, la evaluación ambiental podrá ser ordinaria o simplificada."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "De acuerdo con lo establecido en dicha Ley, que carácter tienen los pronunciamientos medioabientales:",
+    "answer": "Preceptivos y determinantes.",
+    "options": [
+      "Preceptivos y determinantes.",
+      "Preceptivos y vinculantes.",
+      "Facultativos y no vinculantes.",
+      "Facultativos y no determinantes."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "Los proyectos comprendidos en el Anexo I, de la Ley 21/2013, así como los proyectos que, presentándose fraccionados, alcancen los umbrales señalados en dicho Anexo, se someterán:",
+    "answer": "Evaluación de Impacto Ambiental ordinaria.",
+    "options": [
+      "Evaluación Ambiental Estratégica ordinaria.",
+      "Evaluación de Impacto Ambiental ordinaria.",
+      "Evaluación Ambiental Estratégica simplificada.",
+      "Evaluación de Impacto Ambiental simplificada."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "A quién corresponde aprobar el Plan Estratégico Estatal del Patrimonio Natural y la Biodiversidad:",
+    "answer": "Al Consejo de Ministros, por Real Decreto.",
+    "options": [
+      "Al Consejo de Ministros, mediante Acuerdo.",
+      "Al Consejo de Ministros, por Real Decreto.",
+      "Al Ministro de Agricultura, Alimentación y Medio Ambiente (en la actualidad, Ministerio para la Transición Ecológica y el Reto Demográfico), por Resolución.",
+      "Al Ministro de Agricultura, Alimentación y Medio Ambiente (en la actualidad, Ministerio para la Transición Ecológica y el Reto Demográfico), mediante Orden Ministerial."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "De acuerdo con lo establecido en la Ley, 42/2007, de 13 de diciembre, en relación con la Estrategia estatal de infraestructura verde y de la conectividad y restairación ecológicas, señale la respuesta incorrecta:",
+    "answer": "Será aprobada por Real Decreto del Consejo de Ministros.",
+    "options": [
+      "Será aprobada por Real Decreto del Consejo de Ministros.",
+      "Será elaborada por el Ministerio de Medio Ambiente (en la actualidad, Ministerio para la Transición Ecológica y el Reto Demográfico), con la colaboración de las comunidades autónomas y de otros ministerios implicados.",
+      "La Estrategia aprobada en 2020 tiene el objetivo de consolidar una red coherente de zonas naturales y seminaturales terrestres y marinas totalmente conectadas en España para el año 2050.",
+      "Incorporará una cartografía adecuada que permita visualizar gráficamente la misma."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "Corresponde a las Comunidades Autónomas aprobar:",
+    "answer": "Los Planes de Ordenación de los Recursos Naturales.",
+    "options": [
+      "Los Planes de Ordenación de los Recursos Naturales.",
+      "Las Directrices y Planes de Ordenación de los Recursos Naturales.",
+      "Las Directrices de Ordenación de los Recursos Naturales.",
+      "Las Directrices, una vez aprobados por el Estado los correspondientes Planes de Ordenación."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "De acuerdo con lo establecido en la Ley 42/2007. de 13 de diciembre, en relación con los Espacios Naturales Protegidos, corresponde a las CCAA:",
+    "answer": "Su declaración y gestión.",
+    "options": [
+      "Su gestión, correspondiendo al Estado su declaración.",
+      "Dictar la legislación básica en materia de protección de los espacios naturales.",
+      "Su declaración y gestión.",
+      "Su declaración, correspondiendo a los municipios respectivos su gestión."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "En cuantas categorías clasifica la Ley 42/2007 los Espacios Naturales protegidos:",
+    "answer": 5,
+    "options": [
+      5,
+      3,
+      6,
+      4
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "La Red Natura 2000, está integrada por:",
+    "answer": "Las Zonas Especiales de Conservación.",
+    "options": [
+      "Las Áreas Marinas Protegidas.",
+      "Los Lugares de Importancia Comunal.",
+      "Las Zonas Especiales de Conservación.",
+      "Los Humedales de Importancia Comunitaria."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "Cuál de las siguientes constiituye una de las dos categorías recogidas en el Catalógo Español de Especies Amenazadas:",
+    "answer": "Vulnerables.",
+    "options": [
+      "Vulnerables.",
+      "Frágiles.",
+      "Amenazadas.",
+      "Perecederas."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "Corresponde a las Cortes Generales declaras los Parques Nacionales:",
+    "answer": "Por Ley.",
+    "options": [
+      "La declaración de Parque Nacional se realiza Real Decreto del Consejo de Ministros, previa autorización de las Cortes Generales",
+      "Por Acuerdo de ambas Cámaras.",
+      "Por Ley.",
+      "Por Ley Orgánica."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "La gestión y organización de los Parques Nacionales corresponde:",
+    "answer": "A las CCAA en cuyos territorios estén situados, incluidos los marítimo-terrestres cuando exista continuidad ecológica del ecosistema terrestre con el marino.",
+    "options": [
+      "A las CCAA en cuyos territorios estén situados, incluidos los marítimo-terrestres cuando exista continuidad ecológica del ecosistema terrestre con el marino.",
+      "A las CCAA, excluidos en todo caso los marítimo-terrestres",
+      "A las CCAA, excluidos los marítimo-terrestres y aquellos que se extienda por el territorio de dos o más CCAA que serán gestionados por el Estado.",
+      "A las CCAA, correspondiéndoles asimismo gestionar las Red de Parques Nacionales."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "El Plan Director de la Red de Parques Nacionales será:",
+    "answer": "Aprobado por Real Decreto.",
+    "options": [
+      "Todas las respuestas son correctas.",
+      "Aprobado por Real Decreto.",
+      "Elaborado por el Consejo de la Red.",
+      "Informado por el Ministerio de Medio Ambiente (en la actualidad, Ministerio para la Transición Ecológica y el Reto Demográfico)."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "Será obligatorio recabar la Autorización ambental Integradaen el caso de las instalaciones que desarrollen alguna de las actividades relacionadas en:",
+    "answer": "El Anexo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación.",
+    "options": [
+      "El Anexo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación, cuando así lo decida el órgano ambiental por aplicación de los criterios del Anexo II.",
+      "El Anexo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación. cuando así lo decida el órgano ambiental por aplicación de los criterios del Anexo II.",
+      "El Anexo II del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación.",
+      "El Anexo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "¿En qué plazo deberá resolverse el procedimiento para el otorgamiento de la Autorización Ambiental Integrada?:",
+    "answer": "6 meses.",
+    "options": [
+      "3 meses, en el caso del procedimiento abreviado, y 6 meses, si se trata del procedimiento ordinario.",
+      "1 mes.",
+      "6 meses.",
+      "3 meses."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "De acuerdo con lo establecido en la Ley del Ruido – Ley 37/2003 - a quién le corresponde establecer los objetivos de calidad acústicas aplicables a cada área acústica:",
+    "answer": "Al Estado.",
+    "options": [
+      "Al Estado.",
+      "A las Comunidades Autónomas.",
+      "A la Conferencia Sectorial de Medio Ambiente.",
+      "A los Ayuntamientos."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "De acuerdo con lo establecido en la Ley del Ruido, no tienen la consideración de áreas acústicas:",
+    "answer": "Las Zonas de servidumbre acústica.",
+    "options": [
+      "Las Zonas de servidumbre acústica.",
+      "Las Reservas de sonidos de origen urbano.",
+      "Las Zonas periféricas de protección.",
+      "Las Áreas de desarrollo socioeconómico."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "Son principios rectores de la Ley 34/2007 de calidad del aire y protección de la atmósfera:",
+    "answer": "Todos son principios rectores de la Ley 34/2007.",
+    "options": [
+      "Todos son principios rectores de la Ley 34/2007.",
+      "Principio de quién contamina paga.",
+      "Principio de cautela y acción preventiva",
+      "Principio de corrección de la contaminación en la fuente misma."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "La Ley 34/2007 (de calidad del aire y protección de la atmósfera) recoge obligaciones para:",
+    "answer": "Los municipios con más de 100.000 habitantes.",
+    "options": [
+      "Los municipios con más de 100.000 habitantes.",
+      "Los municipios con más de 200.000 habitantes.",
+      "Los municipios con más de 250.000 habitantes",
+      "Todos los municipios independientemente de su población."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "En relación con el acuerdo de París, señale la respuesta correcta:",
+    "answer": "Entró en vigor el 4 de noviembre de 2016, siendo el Acuerdo de referencia en materia de lucha contra el cambio climático una vez finalizado el Protocolo de Kioto en 2020.",
+    "options": [
+      "Entró en vigor el 4 de noviembre de 2016, siendo el Acuerdo de referencia en materia de lucha contra el cambio climático una vez finalizado el Protocolo de Kioto en 2020.",
+      "Entró en vigor el 4 de noviembre de 2016 siendo el Acuerdo de referencia en materia de lucha contra el cambio climático desde esa fecha.",
+      "Entrará en vigor el 1 de enero de 2025..",
+      "Ha sido sustituido por el Protocolo de Kioto."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "¿Cuál es el objetivo a largo plazo relativo a la temperatura que recoge el Acuerdo de París?",
+    "answer": "Mantener el aumento de la temperatura media mundial muy por debajo de 2 ºC con respecto a los niveles preindustriales, y proseguir los esfuerzos para limitar ese aumento de la temperatura a 1,5 ºC con respecto a los niveles preindustriales.",
+    "options": [
+      "Mantener el aumento de la temperatura media mundial muy por debajo de 2 ºC con respecto a los niveles preindustriales, y proseguir los esfuerzos para limitar ese aumento de la temperatura a 1,5 ºC con respecto a los niveles preindustriales.",
+      "Mantener el aumento de la temperatura media mundial muy por debajo de 1,5 ºC con respecto a los niveles preindustriales, y proseguir los esfuerzos para limitar ese aumento de la temperatura a 1ºC con respecto a los niveles preindustriales.",
+      "Mantener el aumento de la temperatura media mundial muy por debajo de 5 ºC con respecto a 1990, y proseguir los esfuerzos para limitar ese aumento de la temperatura a 3 ºC con respecto a 1990.",
+      "Mantener el aumento de la temperatura media mundial muy por debajo de 3 ºC con respecto a los niveles preindustriales, y proseguir los esfuerzos para limitar ese aumento de la temperatura a 2,5 ºC con respecto a los niveles preindustriales."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "Qué compromiso de reducción de emisiones de Gases de Efecto Invernadero ha asumido la UE para 2030:",
+    "answer": "Al menos un 55% respecto a 1990.",
+    "options": [
+      "Al menos un 55% respecto a 1990.",
+      "Al menos, un 75% respecto a 1990.",
+      "Al menos un 55% respecto a 2005.",
+      "Al menos un 75% respecto a 2005."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "En relación con los objetivos en materia de lucha contra el cambio climático y transición energética que se han fijado para España y que se recogen en la Ley 7/2021, 20 de mayo, de Cambio Climático y Transición Energética, señale la respuesta correcta:",
+    "answer": "Para 2030 se establece un objetivo mínimo de mejora de la eficiencia energética del 39,5%.",
+    "options": [
+      "Para 2030 se establece un objetivo mínimo de mejora de la eficiencia energética del 39,5%.",
+      "Establece que, antes de 2040 y, en todo caso, en el más corto plazo posible se deberá alcanzar la neutralidad climática en España.",
+      "Las energías renovables deberán representar el 37,5% del consumo final de energía en 2030.",
+      "Establece un objetivo de reducción de emisiones del 32% respecto a 1990 para 2030."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "La Ley 7/2021, de 20 de mayo, de Cambio Climático y Transición Energética, regula diferentes planes y estrategias que deberán ser aprobados por el Gobierno, ¿cuál no es uno de ellos?:",
+    "answer": "El Plan de Energías Renovables y Eficiencia Energética",
+    "options": [
+      "La Estrategia de Descarbonización 2050.",
+      "El Plan Nacional Integrado de Energía y Clima.",
+      "La Estrategia de Transición Justa.",
+      "El Plan de Energías Renovables y Eficiencia Energética"
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "¿Qué plan o estrategia es definido por la Ley 7/2021 como el instrumento de planificación básico para promover la acción coordinada y coherente frente a los efectos del cambio climático?:",
+    "answer": "El Plan Nacional de Adaptación al Cambio Climático.",
+    "options": [
+      "La Estrategia de Descarbonización 2050.",
+      "La Estrategia de Transición Justa.",
+      "El Plan de Energías Renovables y Eficiencia Energética.",
+      "El Plan Nacional de Adaptación al Cambio Climático."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "De acuerdo con lo establecido en la Ley 7/2021, ¿en qué año deberán las AAPP alcanzar un parque de turismos y vehículos comerciales ligeros sin emisiones directas de CO2?",
+    "answer": "En 2050.",
+    "options": [
+      "En 2030.",
+      "En 2035.",
+      "En 2040.",
+      "En 2050."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "¿Cuál es el órgano de coordinación y colaboración entre la AGE y las CCAA para la aplicación del régimen de comercio de derechos de emisión y, en general, para todo lo relativo al seguimiento del cambio climático y adaptación a sus efectos?:",
+    "answer": "La Comisión de Coordinación de Políticas de Cambio Climático.",
+    "options": [
+      "La Comisión de Coordinación de Políticas de Cambio Climático.",
+      "La Agencia Nacional de Meteorología.",
+      "La Secretaría de Estado del Clima.",
+      "La Oficina Española de Cambio Climático."
+    ],
+    "subject": "PP",
+    "topic": 3
+  },
+  {
+    "question": "De acuerdo con lo establecido en la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión, señale la respuesta correcta:",
+    "answer": "El método básico de asignación de los derechos de emisión es la subasta.",
+    "options": [
+      "El derecho de emisión es definido como el derecho subjetivo a emitir una tonelada equivalente de dióxido de nitrógeno, desde una instalación o una aeronave que realiza una actividad de aviación incluida en el ámbito de aplicación de la Ley 1/2005, durante un período determinado.",
+      "El derecho de uso del derecho de emisión es transmisible, pero no su titularidad.",
+      "Todas las respuestas son correctas.",
+      "El método básico de asignación de los derechos de emisión es la subasta."
+    ],
+    "subject": "PP",
+    "topic": 3
   }
 ]

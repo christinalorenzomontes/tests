@@ -1,122 +1,145 @@
+let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
-let questions = [];
+let answeredQuestions = 0;
+let wrongAnswers = 0;
 let selectedSubjects = [];
 let questionCount = 0;
-let userAnswers = [];
+let answers = []; // Almacena las respuestas seleccionadas
+
+document.getElementById("startQuiz").addEventListener("click", startQuiz);
+document.getElementById("nextQuestion").addEventListener("click", nextQuestion);
+
+// Cargar preguntas del archivo JSON
+fetch('questions.json')
+    .then(response => response.json())
+    .then(data => {
+        questions = data;
+    })
+    .catch(error => console.error('Error al cargar el archivo JSON:', error));
 
 function startQuiz() {
-    selectedSubjects = Array.from(document.querySelectorAll('.subject:checked')).map(input => input.value);
-    questionCount = parseInt(document.querySelector('input[name="questionCount"]:checked')?.value);
+    // Selecciona asignaturas
+    selectedSubjects = [];
+    let subjectCheckboxes = document.querySelectorAll("input[name='subject']:checked");
+    subjectCheckboxes.forEach(checkbox => {
+        if (checkbox.value === "todas") {
+            selectedSubjects = ["PP", "OE", "GF", "DA"];
+        } else {
+            selectedSubjects.push(checkbox.value);
+        }
+    });
 
-    if (selectedSubjects.length === 0 || isNaN(questionCount)) {
-        alert("Por favor selecciona asignaturas y número de preguntas.");
+    // Selecciona número de preguntas
+    let questionCountRadio = document.querySelector("input[name='questionCount']:checked");
+    if (questionCountRadio) {
+        questionCount = parseInt(questionCountRadio.value);
+    }
+
+    if (selectedSubjects.length === 0 || !questionCount) {
+        alert("Por favor, selecciona las asignaturas y el número de preguntas.");
         return;
     }
 
-    fetch('questions.json')
-        .then(response => response.json())
-        .then(data => {
-            // Filtramos las preguntas según las asignaturas seleccionadas
-            questions = data.filter(q => selectedSubjects.includes(q.subject));
-            // Seleccionamos un número aleatorio de preguntas
-            questions = shuffleArray(questions).slice(0, questionCount);
-            userAnswers = new Array(questions.length).fill(null);
-            showQuestion();
-            document.getElementById('quizContainer').style.display = 'none';
-            document.getElementById('questionContainer').style.display = 'block';
-        });
+    // Filtra preguntas por asignaturas seleccionadas
+    let filteredQuestions = questions.filter(question => selectedSubjects.includes(question.subject));
+
+    // Si no hay suficientes preguntas, muestra un mensaje de error
+    if (filteredQuestions.length < questionCount) {
+        alert("No hay suficientes preguntas para las asignaturas seleccionadas.");
+        return;
+    }
+
+    // Selecciona preguntas aleatorias
+    let randomQuestions = [];
+    while (randomQuestions.length < questionCount) {
+        let randomIndex = Math.floor(Math.random() * filteredQuestions.length);
+        let randomQuestion = filteredQuestions[randomIndex];
+        if (!randomQuestions.includes(randomQuestion)) {
+            randomQuestions.push(randomQuestion);
+        }
+    }
+
+    // Prepara el cuestionario
+    questions = randomQuestions;
+    currentQuestionIndex = 0;
+    score = 0;
+    answeredQuestions = 0;
+    wrongAnswers = 0;
+    answers = []; // Reinicia las respuestas seleccionadas
+
+    document.getElementById("quizSetup").style.display = "none";
+    document.getElementById("quizContainer").style.display = "block";
+    loadQuestion();
 }
 
-function showQuestion() {
-    const question = questions[currentQuestionIndex];
-    document.getElementById('questionTitle').textContent = question.question;
-    const optionsContainer = document.getElementById('optionsContainer');
-    optionsContainer.innerHTML = '';
+function loadQuestion() {
+    let question = questions[currentQuestionIndex];
+    document.getElementById("questionNumber").innerText = `Pregunta ${currentQuestionIndex + 1}`;
+    document.getElementById("questionText").innerText = question.question;
 
+    let optionsHtml = "";
     question.options.forEach((option, index) => {
-        const label = document.createElement('label');
-        label.innerHTML = `
-            <input type="radio" name="option" value="${index}" onclick="selectAnswer(${index})">
-            ${option}
+        optionsHtml += `
+            <div>
+                <input type="radio" name="answer" value="${option}" id="option${index}">
+                <label for="option${index}">${option}</label>
+            </div>
         `;
-        optionsContainer.appendChild(label);
     });
-}
+    document.getElementById("questionOptions").innerHTML = optionsHtml;
 
-function selectAnswer(index) {
-    userAnswers[currentQuestionIndex] = index;
+    // Mostrar botón "Siguiente pregunta"
+    document.getElementById("nextQuestion").style.display = "inline-block";
 }
 
 function nextQuestion() {
-    const selectedAnswer = userAnswers[currentQuestionIndex];
-    if (selectedAnswer === null) {
-        return;
+    let selectedOption = document.querySelector("input[name='answer']:checked");
+    let answer = selectedOption ? selectedOption.value : "No respondida"; // Si no selecciona nada, marca como "No respondida"
+    
+    answers.push(answer); // Guarda la respuesta seleccionada o "No respondida"
+
+    if (answer !== "No respondida") {  // Solo si se respondió correctamente o incorrectamente, se evalúa la puntuación
+        let question = questions[currentQuestionIndex];
+        if (answer === question.answer) {
+            score++;
+        } else if (answer !== question.answer) {
+            wrongAnswers++;
+            if (wrongAnswers % 3 === 0) {
+                score--; // Resta puntuación cada 3 respuestas incorrectas
+            }
+        }
     }
 
-    const correctAnswer = questions[currentQuestionIndex].options.indexOf(questions[currentQuestionIndex].answer);
-    if (selectedAnswer === correctAnswer) {
-        score++;
-    } else if (selectedAnswer !== null && selectedAnswer !== correctAnswer) {
-        if (score > 0) score--;
-    }
-
+    answeredQuestions++;
     currentQuestionIndex++;
 
     if (currentQuestionIndex < questions.length) {
-        showQuestion();
-    } else {
-        showResults();
-    }
-}
-
-function skipQuestion() {
-    currentQuestionIndex++;
-    if (currentQuestionIndex < questions.length) {
-        showQuestion();
+        loadQuestion();
     } else {
         showResults();
     }
 }
 
 function showResults() {
-    document.getElementById('questionContainer').style.display = 'none';
-    document.getElementById('resultContainer').style.display = 'block';
-    document.getElementById('score').textContent = `Tu puntuación: ${score}`;
-
-    const resultList = document.getElementById('resultList');
-    resultList.innerHTML = '';
+    let resultText = `<p>Puntuación: ${score}</p>`;
+    resultText += "<h4>Respuestas:</h4>";
 
     questions.forEach((question, index) => {
-        const result = document.createElement('div');
-        result.classList.add('question');
-        result.innerHTML = `
-            <h3>${question.question}</h3>
-            <div class="options">
-                ${question.options.map((option, i) => {
-                    let style = '';
-                    if (i === userAnswers[index]) {
-                        style = i === question.options.indexOf(question.answer) ? 'green' : 'red';
-                    } else if (i === question.options.indexOf(question.answer)) {
-                        style = 'green';
-                    }
+        let userAnswer = answers[index] || "No respondida"; // Usa la respuesta guardada
+        let correctAnswer = question.answer;
 
-                    return `<label style="color: ${style}">${option}</label>`;
-                }).join('')}
+        let resultClass = userAnswer === correctAnswer ? "correct" : "incorrect";
+        resultText += `
+            <div class="question">
+                <p><strong>${index + 1}. ${question.question}</strong></p>
+                <p class="${resultClass}">Tu respuesta: ${userAnswer}</p>
+                <p class="correct">Respuesta correcta: ${correctAnswer}</p>
             </div>
         `;
-        resultList.appendChild(result);
     });
-}
 
-function restartQuiz() {
-    location.reload();
-}
-
-function shuffleArray(array) {
-    for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-    }
-    return array;
+    document.getElementById("resultText").innerHTML = resultText;
+    document.getElementById("quizContainer").style.display = "none";
+    document.getElementById("resultContainer").style.display = "block";
 }
