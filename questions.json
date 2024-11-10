@@ -1,11 +1,490 @@
-
 [
+  {
+    "question": "La población activa:",
+    "answer": "Es la suma de la población ocupada y la población desempleada.",
+    "options": [
+      "Población activa y población ocupada son expresiones sinónimas.",
+      "Es la población que tiene edad para trabajar.",
+      "Es la suma de la población ocupada y la población desempleada.",
+      "Es la población total de un país, menos las personas jubiladas."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "El desempleo friccional fluctúa entre:",
+    "answer": "El 3 y 5%.",
+    "options": [
+      "El 1 y 3%.",
+      "El 0,1 y 0,3%.",
+      "El 3 y 5%.",
+      "El 2 y 3%."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "Según los datos de la Encuesta de Población Activa (EPA) elaborada por el Instituto Nacional de Estadística (INE) correspondientes al cuarto trimestre del año 2023, ¿en qué porcentaje se situó la tasa de desempleo en dicho periodo?:",
+    "answer": "En torno al 11%.",
+    "options": [
+      "En torno al 11%.",
+      "En torno al 9%.",
+      "En torno al 14%",
+      "En torno al 17%"
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "En 2023, la población ocupada ascendía a:",
+    "answer": "En torno a 21 millones de personas.",
+    "options": [
+      "En torno a 27 millones de personas.",
+      "En torno a 25 millones de personas.",
+      "En torno a 23 millones de personas.",
+      "En torno a 21 millones de personas."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "El número de empleados públicos asciende a (2024):",
+    "answer": "Alrededor de 2.900.000 trabajadores.",
+    "options": [
+      "Alrededor de 3.500.000 trabajadores.",
+      "Alrededor de 2.300.000 trabajadores.",
+      "Alrededor de 4.000.000 trabajadores.",
+      "Alrededor de 2.900.000 trabajadores."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "De acuerdo con lo establecido en la Ley 3/2023, de 28 de febrero, de Empleo (Ley de Empleo), integran la política de empleo:",
+    "answer": "Las políticas activas de empleo y las políticas de protección frente al desempleo.",
+    "options": [
+      "Las políticas comunes de empleo y las políticas complementarias de empleo.",
+      "Las políticas activas de empleo, la intermediación laboral y las políticas complementarias de empleo.",
+      "Las políticas activas y las políticas pasivas de empleo.",
+      "Las políticas activas de empleo y las políticas de protección frente al desempleo."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "De acuerdo con lo establecido en la Ley de Empleo (Ley 3/2023, de 28 de febrero), no conforman las políticas activas de empleo:",
+    "answer": "El conjunto de decisiones, medidas, servicios y programas orientados a la protección económica de las situaciones de desempleo.",
+    "options": [
+      "El conjunto de decisiones, medidas, servicios y programas orientados a la protección económica de las situaciones de desempleo.",
+      "El conjunto de decisiones, medidas, servicios y programas orientados a la mejora de la empleabilidad.",
+      "El conjunto de decisiones, medidas, servicios y programas orientados a la reducción del desempleo.",
+      "El conjunto de decisiones, medidas, servicios y programas orientados a la generación de empleo decente."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "De acuerdo con lo establecido en la Ley de Empleo, no es un objetivo de la política de empleo:",
+    "answer": "Mantener la unidad del mercado de trabajo en todo el territorio estatal.",
+    "options": [
+      "El mantenimiento del empleo y la progresión profesional de las personas ocupadas, mediante la mejora y la actualización de sus cualificaciones a través de la formación en el trabajo.",
+      "El impulso a la creación de empleos de calidad y estables que faciliten la transición hacia un mercado de trabajo más eficiente que a su vez garantice niveles adecuados de bienestar económico para las personas trabajadoras.",
+      "Mantener la unidad del mercado de trabajo en todo el territorio estatal.",
+      "La anticipación a las necesidades de generación de empleo mediante la programación de actuaciones a medio y largo plazo."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "No es un principio rector de la política de empleo:",
+    "answer": "El principio de inclusividad en el diseño de los instrumentos de planificación de la política de empleo.",
+    "options": [
+      "El principio de inclusividad en el diseño de los instrumentos de planificación de la política de empleo.",
+      "El principio de transparencia en el funcionamiento del mercado de trabajo.",
+      "El principio de adecuación a las características del territorio.",
+      "Los principios de adaptación, acompañamiento y activación."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "De acuerdo con lo establecido en la Ley 3/2023, de 28 de octubre, de Empleo, no corresponde al Gobierno, a través o a propuesta del Ministerio de Trabajo y Economía Social:",
+    "answer": "La coordinación de la política de empleo.",
+    "options": [
+      "La gestión y control de las prestaciones por desempleo.",
+      "Aprobar los proyectos de normas con rango de Ley y las disposiciones reglamentarias que recojan la normativa en relación con la intermediación y colocación en el mercado de trabajo, fomento de empleo, protección por desempleo y formación en el trabajo.",
+      "La planificación de la política de empleo.",
+      "La coordinación de la política de empleo."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "El Sistema Nacional de Empleo está conformado por:",
+    "answer": "La Agencia Española de Empleo y los Servicios Públicos de Empleo de las Comunidades Autónomas.",
+    "options": [
+      "La Agencia Española de Empleo y los Servicios Públicos de Empleo de las Comunidades Autónomas.",
+      "La Agencia Española de Empleo, los Servicios Públicos de Empleo de las Comunidades Autónomas y las Entidades Locales que colaboren con los servicios públicos de empleo.",
+      "La Agencia Española de Empleo, los Servicios Públicos de Empleo de las Comunidades Autónomas y las entidades públicas colaboradoras de los servicios públicos de empleo.",
+      "El Ministerio de Trabajo y Economía Social, la Agencia Española de Empleo y los Servicios Públicos de Empleo de las Comunidades Autónomas."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "Es un órgano de gobernanza del Sistema Nacional de Empleo (SNE):",
+    "answer": "La Conferencia Sectorial de Empleo y Asuntos Laborales.",
+    "options": [
+      "La Conferencia Sectorial de Empleo y Asuntos Laborales.",
+      "La Agencia Española de Empleo.",
+      "El Consejo General del Servicio Público de Empleo Estatal.",
+      "La Secretaría de Estado de Empleo."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "De acuerdo con lo establecido en la Ley de Empleo, ¿cuál es el órgano consultivo y de participación institucional en materia de empleo del Sistema Nacional de Empleo?:",
+    "answer": "El Consejo General del Sistema Nacional de Empleo.",
+    "options": [
+      "La Conferencia Sectorial de Empleo y Asuntos Laborales.",
+      "La Secretaría de Estado de Empleo.",
+      "El Consejo Rector de los Servicios Públicos de Empleo.",
+      "El Consejo General del Sistema Nacional de Empleo."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "Es un instrumento de planificación y coordinación de la política de empleo:",
+    "answer": "El Sistema Público Integrado de Información de los Servicios de Empleo",
+    "options": [
+      "Las Directrices Integradas para el Empleo",
+      "El Plan Anual de Política de Empleo",
+      "La Estrategia Europea de Empleo",
+      "El Sistema Público Integrado de Información de los Servicios de Empleo"
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "La Estrategia Española de Apoyo Activo al Empleo se aprobará:",
+    "answer": "Por el Gobierno mediante Real Decreto.",
+    "options": [
+      "Por el Gobierno mediante Real Decreto.",
+      "Por las Cortes Generales.",
+      "Por Acuerdo del Consejo de Ministros.",
+      "Por Orden del titular del Ministerio de Trabajo y Economía Social."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "¿Cuál de los siguientes es uno de los ejes de políticas de activación para el empleo en torno a los cuales se articula la Estrategia Española de Apoyo Activo al Empleo?:",
+    "answer": "Oportunidades de empleo para personas con discapacidad.",
+    "options": [
+      "Oportunidades de empleo para mayores de 45 años.",
+      "Oportunidades de empleo para mujeres, colectivos LGTBI y personas trans.",
+      "Oportunidades de empleo para personas jóvenes.",
+      "Oportunidades de empleo para personas con discapacidad."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "La Estrategia Española de Apoyo Activo al Empleo:",
+    "answer": "Tendrá una duración cuatrienal.",
+    "options": [
+      "Podrá ser objeto de revisión a partir de los resultados de las evaluaciones que se hagan anualmente.",
+      "Tendrá una duración plurianual.",
+      "Podrá ser objeto de revisión a partir de los resultados de la evaluación ex ante que se realice previamente a su implementación.",
+      "Tendrá una duración cuatrienal."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "¿Qué instrumento de planificación del Sistema Nacional de Empleo (SNE) concretará, con carácter anual, las directrices necesarias para alcanzar en el conjunto del Estado y en cada una de las Comunidades Autónomas, los objetivos de la Estrategia?:",
+    "answer": "El Plan Anual para el Fomento del Empleo Digno.",
+    "options": [
+      "El Plan Anual para el Fomento del Empleo Digno.",
+      "El Plan Anual para el Impulso del Empleo Decente.",
+      "Las Directrices Anuales para el Impulso del Empleo Decente.",
+      "Las Directrices Anuales para el Fomento del Empleo Digno."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "A quién le corresponde informar la Estrategia Española de Apoyo Activo al Empleo y el instrumento de planificación al que hace referencia la pregunta anterior:",
+    "answer": "A la Conferencia Sectorial de Empleo y Asuntos Laborales y al Consejo General del Sistema Nacional de Empleo.",
+    "options": [
+      "A la Conferencia Sectorial de Empleo y Asuntos Laborales y al Consejo General del Sistema Nacional de Empleo.",
+      "A la Secretaría de Estado de Empleo y Economía Social.",
+      "A la Conferencia Sectorial de Empleo y Asuntos Laborales.",
+      "A la Secretaría de Estado de Empleo y Economía Social y a la Conferencia Sectorial de Empleo y Asuntos Laborales."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "De acuerdo con lo establecido en la Ley 3/2023, de 28 de febrero, de Empleo, tienen la consideración de servicios públicos de empleo:",
+    "answer": "La Agencia Española de Empleo y los Servicios Públicos de Empleo de las Comunidades Autónomas.",
+    "options": [
+      "Los Servicios Públicos de Empleo de las Comunidades Autónomas.",
+      "La Agencia Española de Empleo y los Servicios Públicos de Empleo de las Comunidades Autónomas.",
+      "La Agencia Española de Empleo, los Servicios Públicos de Empleo de las Comunidades Autónomas y las Entidades Locales que colaboren con los servicios públicos de empleo.",
+      "La Agencia Española de Empleo, los Servicios Públicos de Empleo de las Comunidades Autónomas y las entidades públicas colaboradoras de los servicios públicos de empleo."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "La Agencia Española de Empleo es:",
+    "answer": "Una Agencia Estatal.",
+    "options": [
+      "Un Organismo rector.",
+      "Una Entidad Gestora.",
+      "Una Agencia Estatal.",
+      "Un Organismo Autónomo."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "No es una competencia de la Agencia Española de Empleo:",
+    "answer": "Informar, conjuntamente con las Comunidades Autónomas, el proyecto de la Estrategia Española de Apoyo Activo al Empleo.",
+    "options": [
+      "La gestión y el control de las prestaciones por desempleo, sin perjuicio del cometido de vigilancia y exigencia del cumplimiento de la normativa que la legislación vigente atribuye a los funcionarios del Cuerpo Superior de Inspectores de Trabajo y Seguridad Social y del Cuerpo de Subinspectores Laborales.",
+      "Gestionar el Observatorio de las Ocupaciones.",
+      "Informar, conjuntamente con las Comunidades Autónomas, el proyecto de la Estrategia Española de Apoyo Activo al Empleo.",
+      "Elaborar y elevar al Ministerio de Trabajo y Economía Social las propuestas normativas de ámbito estatal en materia de empleo y protección por desempleo y formación en el trabajo que, dentro de su ámbito competencial, procedan."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "La prestación de servicios de empleo tiene naturaleza de:",
+    "answer": "Servicio público, con independencia de la entidad que la realice.",
+    "options": [
+      "Servicio público, si dicha prestación se realiza a través de los Servicios Públicos de Empleo.",
+      "Servicio público, con independencia de la entidad que la realice.",
+      "Servicio de interés general, si dicha prestación se realiza a través de los Servicios Públicos de Empleo.",
+      "Servicio de interés general, con independencia de la entidad que la realice."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "Podrán ser usuarios de los servicios públicos de empleo:",
+    "answer": "Las personas empleadoras.",
+    "options": [
+      "Las entidades empleadoras siempre y cuando sean personas jurídicas.",
+      "Las personas demandantes de servicios de empleo siempre y cuando estén desempleadas o, en el caso de estar ocupadas, si tienen baja cualificación.",
+      "Sólo las personas desempleadas demandantes de servicios de empleo.",
+      "Las personas empleadoras."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "No es uno de los servicios incluido en el catálogo de servicios garantizados a las personas demandantes de servicios de empleo:",
+    "answer": "La elaboración de un curriculum vitae digital.",
+    "options": [
+      "La elaboración de un curriculum vitae digital.",
+      "el establecimiento de un canal de recepción de los servicios presencial o digital alternativo.",
+      "La elaboración de un perfil individualizado.",
+      "la elaboración de un itinerario o plan personalizado."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "No es un compromiso de todas las personas demandantes de servicios de empleo:",
+    "answer": "aceptar ofertas de empleo adecuadas.",
+    "options": [
+      "comunicar los cambios de domicilio.",
+      "colaborar activamente en la elaboración del perfil individualizado.",
+      "cumplir, salvo causa justificada, con las acciones de formación",
+      "aceptar ofertas de empleo adecuadas."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "No es una de las categorías en las que se agruparán los servicios incluidos en la Cartera común de servicios del Sistema Nacional de Empleo:",
+    "answer": "Servicios de formación en el ámbito educativo.",
+    "options": [
+      "Servicios de asesoramiento para el autoempleo, el emprendimiento viable y la dinamización del desarrollo económico local.",
+      "Servicios de formación en el ámbito educativo.",
+      "Servicios de intermediación, colocación y asesoramiento a empresas.",
+      "Servicios de orientación para el empleo personalizada, integral e inclusiva."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "A efectos del Sistema Nacional de Empleo, la intermediación en el mercado de trabajo se realizará a través de:",
+    "answer": "Los servicios públicos de empleo.",
+    "options": [
+      "Todas las respuestas son correctas.",
+      "Los servicios públicos de empleo.",
+      "Las agencias de intermediación sean agencias de intermediación propiamente dichas o agencias especializadas en la recolocación o en la selección de personal.",
+      "Aquellos otros servicios que reglamentariamente se determinen para las personas extranjeras."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "De acuerdo con la Ley de Empleo se entiende por intermediación laboral:",
+    "answer": "El conjunto de acciones destinadas a proporcionar a las personas trabajadoras un empleo adecuado a sus características y facilitar a las entidades empleadoras las\npersonas trabajadoras más apropiadas a sus requerimientos y necesidades desde un enfoque integral.",
+    "options": [
+      "La colocación en la profesión demandada por la persona trabajadora, de acuerdo con su formación, características profesionales, experiencia previa o intereses laborales y también aquella que se corresponda con su profesión habitual o cualquier otra que se ajuste a sus aptitudes físicas y formativas.",
+      "El acuerdo documentado mediante el que se establecen derechos y obligaciones entre la persona demandante de los servicios públicos de empleo y el correspondiente Servicio Público de Empleo para incrementar la empleabilidad de aquella, atendiendo, en su caso, a las necesidades de los colectivos prioritarios.",
+      "El conjunto de acciones destinadas a proporcionar a las personas trabajadoras un empleo adecuado a sus características y facilitar a las entidades empleadoras las\npersonas trabajadoras más apropiadas a sus requerimientos y necesidades desde un enfoque integral.",
+      "El conjunto de acciones a realizar por las personas demandantes de los servicios públicos de empleo, con apoyo del personal de estos últimos, a fin de mejorar su empleabilidad o conseguir un puesto de trabajo de calidad y sostenible a lo largo del tiempo."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "En relación con la empleabilidad, señale la respuesta correcta:",
+    "answer": "Corresponde al Sistema Nacional de Empleo velar por el mantenimiento y mejora de la empleabilidad para lo cual deberá mantener y actualizar un catálogo de instrumentos de empleabilidad.",
+    "options": [
+      "Corresponde al Sistema Nacional de Empleo velar por el mantenimiento y mejora de la empleabilidad para lo cual deberá mantener y actualizar un catálogo de instrumentos de empleabilidad.",
+      "Es un derecho y un deber de las personas demandantes de los servicios de empleo, como desarrollo del artículo 37 de la Constitución Española.",
+      "La empleabilidad debe producir un ajuste dinámico entre las competencias propias y las demandadas por el sistema educativo.",
+      "La cuantificación de la mejora de la empleabilidad se realizará a través de una encuesta anual que se definirá reglamentariamente."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "De acuerdo con lo establecido en el artículo 50 no se considera colectivo vulnerable de atención prioritaria a los efectos de la Ley de Empleo:",
+    "answer": "Mujeres del entorno rural.",
+    "options": [
+      "Personas LGTBI, en particular trans.",
+      "Personas afectadas por drogodependencias y otras adicciones.",
+      "Personas gitanas.",
+      "Mujeres del entorno rural."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "En qué artículo de la Constitución se indica que los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo:",
+    "answer": "Artículo 41.",
+    "options": [
+      "Artículo 43.",
+      "Artículo 40.",
+      "Artículo 42.",
+      "Artículo 41."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "Para tener derecho a la prestación por desempleo, en la modalidad contributiva, será necesario haber cotizado un mínimo de:",
+    "answer": "De 360 días en los últimos 6 años.",
+    "options": [
+      "De 360 días en los últimos 6 años.",
+      "De 180 días en los últimos 6 años.",
+      "De 360 días en los últimos 3 años.",
+      "De 180 días en los últimos 3 años."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "La cuantía de la prestación por desempleo a partir del día 181 será igual al:",
+    "answer": "60% de las bases reguladoras.",
+    "options": [
+      "50% de las bases reguladoras.",
+      "80% de las bases reguladoras.",
+      "60% de las bases reguladoras.",
+      "70% de las bases reguladoras."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "De acuerdo con lo establecido en el artículo 274.1 de la Ley General de la Seguridad Social serán beneficiarios del subsidio los desempleados que se encuentren en alguna de las siguientes situaciones:",
+    "answer": "Haber agotado la prestación por desempleo. En caso de ser menor de 45 años sin responsabilidades familiares se exigirá, además, que la prestación por desempleo agotada haya tenido una duración igual o superior a trescientos sesenta días.",
+    "options": [
+      "Haber agotado la prestación por desempleo. En caso de ser menor de 55 años sin responsabilidades familiares se exigirá, además, que la prestación por desempleo agotada haya tenido una duración igual o superior a noventa días.",
+      "Haber agotado la prestación por desempleo. En caso de ser menor de 45 años sin responsabilidades familiares se exigirá, además, que la prestación por desempleo agotada haya tenido una duración igual o superior a noventa días.",
+      "Haber agotado la prestación por desempleo. En caso de ser menor de 55 años sin responsabilidades familiares se exigirá, además, que la prestación por desempleo agotada haya tenido una duración igual o superior a trescientos sesenta días.",
+      "Haber agotado la prestación por desempleo. En caso de ser menor de 45 años sin responsabilidades familiares se exigirá, además, que la prestación por desempleo agotada haya tenido una duración igual o superior a trescientos sesenta días."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "Entre otros requisitos, se les exigirá además carecer de rentas propias. Se entiende cumplido el requisito de carencia de rentas propias en la fecha de la solicitud del alta inicial o de las prórrogas o reanudaciones del subsidio cuando las rentas de cualquier naturaleza de la persona solicitante o beneficiaria durante el mes natural anterior a dichas fechas no superen:",
+    "answer": "El 75% del del salario mínimo interprofesional (SMI), excluida la parte proporcional de dos pagas extraordinarias.",
+    "options": [
+      "El 75% del del indicador público de rentas de efectos múltiples (IPREM), excluida la parte proporcional de dos pagas extraordinarias.",
+      "El 85% del del salario mínimo interprofesional (SMI), excluida la parte proporcional de dos pagas extraordinarias.",
+      "El 75% del del salario mínimo interprofesional (SMI), excluida la parte proporcional de dos pagas extraordinarias.",
+      "El 85% del del indicador público de rentas de efectos múltiples (IPREM), excluida la parte proporcional de dos pagas extraordinarias."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "Durante los primeros 180 días, la cuantía del subsidio por desempleo será equivalente al:",
+    "answer": "95% del IPREM.",
+    "options": [
+      "90% del IPREM.",
+      "75% del IPREM.",
+      "95% del IPREM.",
+      "80% del IPREM."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "En cumplimiento de la Ley de Empleo, en la actualidad, cuál es la Estrategia en materia de Empleo de referencia:",
+    "answer": "La Estrategia Española de Apoyo Activo al Empleo (2021 - 2024)",
+    "options": [
+      "La Estrategia Española de Activación para el Empleo (2021 – 2030).",
+      "La Estrategia Española de Activación para el Empleo (2018 - 2022)",
+      "La Estrategia Española de Apoyo Activo al Empleo (2020 - 2030)",
+      "La Estrategia Española de Apoyo Activo al Empleo (2021 - 2024)"
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "No es uno de los objetivos estratégicos:",
+    "answer": "Reducir el desempleo.",
+    "options": [
+      "Reducir el desempleo.",
+      "Gobernanza y cohesión del SNE.",
+      "Orientación a resultados.",
+      "Coherencia con la transformación productiva."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
+  {
+    "question": "Es uno de los objetivos específicos que recoge el objetivo estratégico relativo a mejorar las capacidades de los servicios públicos de empleo de la Estrategia de Empleo:",
+    "answer": "Impulsar la transformación digital y la modernización de los servicios públicos de empleo.",
+    "options": [
+      "Mejorar la coordinación operativa de los distintos niveles administrativos que intervienen en las políticas activas de empleo.",
+      "Acompañar, con el conjunto de políticas activas de empleo, las estrategias públicas dirigidas al cambio de modelo productivo, su modernización y digitalización.",
+      "Impulsar la transformación digital y la modernización de los servicios públicos de empleo.",
+      "Consolidar un modelo integrado de evaluación de las políticas activas de empleo."
+    ],
+    "subject": "PP",
+    "topic": 5
+  },
   {
     "question": "El medioambiente tiene la considración en la Constitución española de:",
     "answer": "Principio rector de la política económica y social.",
     "options": [
-      "Libertad pública.",
       "Derecho fundamental.",
+      "Libertad pública.",
       "Derecho ordinario",
       "Principio rector de la política económica y social."
     ],
@@ -17,93 +496,21 @@
     "answer": "Se podrán imponer sanciones penales.",
     "options": [
       "Se podrán imponer sanciones penales.",
+      "Se podrán imponer sanciones económicas.",
       "Sólo se podrán imponer sanciones penales.",
-      "Prioritariamente se impondrán sanciones administrativas.",
-      "Se podrán imponer sanciones económicas."
+      "Prioritariamente se impondrán sanciones administrativas."
     ],
     "subject": "PP",
     "topic": 3
   },
   {
-    "question": "El recurso previo de inconstitucionalidad deberá ser resuelto por el Tribunal Constitucional en el plazo improrrogable de:",
-    "answer": "Seis meses desde su interposición",
-    "options": [
-      "Tres meses desde su interposición",
-      "Tres meses desde la publicación del texto en el Boletín de las CCGG",
-      "Seis meses desde su interposición",
-      "Seis meses desde la publicación del texto en el Boletín de las CCGG"
-    ],
-    "subject": "OE",
-    "topic": 3
-  },
-  {
-    "question": "Las decisiones de inadmisión inicial, desistimiento y caducidad, salvo que la LOTC disponga expresamente otra forma, adoptarán la forma de:",
-    "answer": "Autos",
-    "options": [
-      "Providencias",
-      "Autos",
-      "Declaraciones",
-      "Sentencias"
-    ],
-    "subject": "OE",
-    "topic": 3
-  },
-  {
-    "question": "Según establece Ley 47/2003, de 26 de noviembre, General Presupuestaria, la gestión del\nsector público estatal está sometida al régimen de presupuesto anual aprobado por:",
-    "answer": "Las Cortes Generales.",
-    "options": [
-      "Las Cortes Generales.",
-      "El Ministro de Hacienda.",
-      "El Congreso de los Diputados.",
-      "El Gobierno."
-    ],
-    "subject": "GF",
-    "topic": 1.2
-  },
-  {
-    "question": "Los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos:",
-    "answer": "Por su importe íntegro.",
-    "options": [
-      "Por su importe íntegro.",
-      "Por su importe bruto.",
-      "Por su importe liquidado.",
-      "Por su importe exacto."
-    ],
-    "subject": "GF",
-    "topic": 1.2
-  },
-  {
-    "question": "La Oficina de Coordinación y Calidad Normativa depende del:",
-    "answer": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.",
-    "options": [
-      "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.",
-      "Ministerio del Interior.",
-      "Ministerio de Hacienda.",
-      "Ministerio de la Transformación Digital y Función Pública."
-    ],
-    "subject": "DA",
-    "topic": "1-2"
-  },
-  {
-    "question": "Según el artículo 27 de la Ley del Gobierno, la tramitación urgente de iniciativas normativas (señale la falsa):",
-    "answer": "Se podrá prescindir de la Memoria de Análisis de Impacto Normativo (MAIN).",
-    "options": [
-      "Será acordada cuando fuera necesario para que la norma entre en vigor en el plazo exigido para la trasposición de directivas comunitarias.",
-      "Será acordada por el Consejo de Ministros.",
-      "Se podrá prescindir de la Memoria de Análisis de Impacto Normativo (MAIN).",
-      "Los plazos se reducirán a la mitad."
-    ],
-    "subject": "DA",
-    "topic": "1-2"
-  },
-  {
     "question": "Según la Constitución Española, las normas adicionales de protección en materia medioambiental son dictadas por:",
     "answer": "Las Comunidades Autónomas.",
     "options": [
-      "No se prevé esta figura.",
-      "Las Comunidades Autónomas o el Estado, indistintamente.",
+      "Las Comunidades Autónomas.",
       "El Estado.",
-      "Las Comunidades Autónomas."
+      "Las Comunidades Autónomas o el Estado, indistintamente.",
+      "No se prevé esta figura."
     ],
     "subject": "PP",
     "topic": 3
@@ -112,10 +519,10 @@
     "question": "¿Qué Tratado incorporó la política medio ambiental a la UE?",
     "answer": "AUE",
     "options": [
-      "AUE",
+      "T. Ámsterdam",
       "TUE.",
       "TCEE.",
-      "T. Ámsterdam"
+      "AUE"
     ],
     "subject": "PP",
     "topic": 3
@@ -124,10 +531,10 @@
     "question": "De acuerdo con lo establecido en el artículo 191 de TFUE, no es uno de los objetivos de la política medioambiental:",
     "answer": "el fomento de medidas a escala nacional destinadas a hacer frente a los problemas del medio ambiente. y en particular a luchar contra el cambio climático.",
     "options": [
-      "la conservación, la protección y la mejora de la calidad del medio ambiente.",
-      "el fomento de medidas a escala nacional destinadas a hacer frente a los problemas del medio ambiente. y en particular a luchar contra el cambio climático.",
+      "la utilización prudente y racional de los recursos naturales.",
       "la protección de la salud de las personas.",
-      "la utilización prudente y racional de los recursos naturales."
+      "la conservación, la protección y la mejora de la calidad del medio ambiente.",
+      "el fomento de medidas a escala nacional destinadas a hacer frente a los problemas del medio ambiente. y en particular a luchar contra el cambio climático."
     ],
     "subject": "PP",
     "topic": 3
@@ -136,10 +543,10 @@
     "question": "El programa LIFE es:",
     "answer": "Un instrumento financiero de la UE destinado a la protección del medioambiente.",
     "options": [
+      "Un programa de Naciones Unidas para la protección de la biodiversidad.",
       "El principal instrumento comunitario para la protección de la biodiversidad.",
-      "Un instrumento financiero de la UE destinado a la protección del medioambiente.",
       "Un programa comunitario para lucha contra el cambio climático.",
-      "Un programa de Naciones Unidas para la protección de la biodiversidad."
+      "Un instrumento financiero de la UE destinado a la protección del medioambiente."
     ],
     "subject": "PP",
     "topic": 3
@@ -161,9 +568,9 @@
     "answer": "30 años desde que cesó la emisión o suceso causante del daño.",
     "options": [
       "99 años desde que cesó la emisión o suceso causante del daño.",
+      "30 años desde que cesó la emisión o suceso causante del daño.",
       "50 años desde que cesó la emisión o suceso causante del daño.",
-      "Siempre será exigible.",
-      "30 años desde que cesó la emisión o suceso causante del daño."
+      "Siempre será exigible."
     ],
     "subject": "PP",
     "topic": 3
@@ -173,9 +580,9 @@
     "answer": "La evaluación ambiental es el proceso a través del cual se analizan los efectos significativos que tienen o pueden tener los planes, programas y proyectos, tras su adopción, aprobación o autorización sobre el medio ambiente.",
     "options": [
       "La evaluación ambiental es el proceso a través del cual se analizan los efectos significativos que tienen o pueden tener los planes, programas y proyectos, tras su adopción, aprobación o autorización sobre el medio ambiente.",
-      "La evaluación ambiental tendrá carácter instrumental respecto del procedimiento administrativo de aprobación o de adopción de planes y programas, y de autorización de proyectos.",
       "La evaluación ambiental incluye tanto la evaluación ambiental estratégica, que procede respecto de los planes o programas, como la evaluación de impacto ambiental, que procede respecto de los proyectos.",
-      "En ambos casos, la evaluación ambiental podrá ser ordinaria o simplificada."
+      "En ambos casos, la evaluación ambiental podrá ser ordinaria o simplificada.",
+      "La evaluación ambiental tendrá carácter instrumental respecto del procedimiento administrativo de aprobación o de adopción de planes y programas, y de autorización de proyectos."
     ],
     "subject": "PP",
     "topic": 3
@@ -186,8 +593,8 @@
     "options": [
       "Preceptivos y determinantes.",
       "Preceptivos y vinculantes.",
-      "Facultativos y no vinculantes.",
-      "Facultativos y no determinantes."
+      "Facultativos y no determinantes.",
+      "Facultativos y no vinculantes."
     ],
     "subject": "PP",
     "topic": 3
@@ -197,9 +604,9 @@
     "answer": "Evaluación de Impacto Ambiental ordinaria.",
     "options": [
       "Evaluación Ambiental Estratégica ordinaria.",
-      "Evaluación de Impacto Ambiental ordinaria.",
+      "Evaluación de Impacto Ambiental simplificada.",
       "Evaluación Ambiental Estratégica simplificada.",
-      "Evaluación de Impacto Ambiental simplificada."
+      "Evaluación de Impacto Ambiental ordinaria."
     ],
     "subject": "PP",
     "topic": 3
@@ -208,9 +615,9 @@
     "question": "A quién corresponde aprobar el Plan Estratégico Estatal del Patrimonio Natural y la Biodiversidad:",
     "answer": "Al Consejo de Ministros, por Real Decreto.",
     "options": [
-      "Al Consejo de Ministros, mediante Acuerdo.",
-      "Al Consejo de Ministros, por Real Decreto.",
       "Al Ministro de Agricultura, Alimentación y Medio Ambiente (en la actualidad, Ministerio para la Transición Ecológica y el Reto Demográfico), por Resolución.",
+      "Al Consejo de Ministros, por Real Decreto.",
+      "Al Consejo de Ministros, mediante Acuerdo.",
       "Al Ministro de Agricultura, Alimentación y Medio Ambiente (en la actualidad, Ministerio para la Transición Ecológica y el Reto Demográfico), mediante Orden Ministerial."
     ],
     "subject": "PP",
@@ -220,10 +627,10 @@
     "question": "De acuerdo con lo establecido en la Ley, 42/2007, de 13 de diciembre, en relación con la Estrategia estatal de infraestructura verde y de la conectividad y restairación ecológicas, señale la respuesta incorrecta:",
     "answer": "Será aprobada por Real Decreto del Consejo de Ministros.",
     "options": [
-      "Será aprobada por Real Decreto del Consejo de Ministros.",
-      "Será elaborada por el Ministerio de Medio Ambiente (en la actualidad, Ministerio para la Transición Ecológica y el Reto Demográfico), con la colaboración de las comunidades autónomas y de otros ministerios implicados.",
+      "Incorporará una cartografía adecuada que permita visualizar gráficamente la misma.",
       "La Estrategia aprobada en 2020 tiene el objetivo de consolidar una red coherente de zonas naturales y seminaturales terrestres y marinas totalmente conectadas en España para el año 2050.",
-      "Incorporará una cartografía adecuada que permita visualizar gráficamente la misma."
+      "Será elaborada por el Ministerio de Medio Ambiente (en la actualidad, Ministerio para la Transición Ecológica y el Reto Demográfico), con la colaboración de las comunidades autónomas y de otros ministerios implicados.",
+      "Será aprobada por Real Decreto del Consejo de Ministros."
     ],
     "subject": "PP",
     "topic": 3
@@ -232,9 +639,9 @@
     "question": "Corresponde a las Comunidades Autónomas aprobar:",
     "answer": "Los Planes de Ordenación de los Recursos Naturales.",
     "options": [
-      "Los Planes de Ordenación de los Recursos Naturales.",
-      "Las Directrices y Planes de Ordenación de los Recursos Naturales.",
       "Las Directrices de Ordenación de los Recursos Naturales.",
+      "Las Directrices y Planes de Ordenación de los Recursos Naturales.",
+      "Los Planes de Ordenación de los Recursos Naturales.",
       "Las Directrices, una vez aprobados por el Estado los correspondientes Planes de Ordenación."
     ],
     "subject": "PP",
@@ -244,10 +651,10 @@
     "question": "De acuerdo con lo establecido en la Ley 42/2007. de 13 de diciembre, en relación con los Espacios Naturales Protegidos, corresponde a las CCAA:",
     "answer": "Su declaración y gestión.",
     "options": [
-      "Su gestión, correspondiendo al Estado su declaración.",
-      "Dictar la legislación básica en materia de protección de los espacios naturales.",
       "Su declaración y gestión.",
-      "Su declaración, correspondiendo a los municipios respectivos su gestión."
+      "Su gestión, correspondiendo al Estado su declaración.",
+      "Su declaración, correspondiendo a los municipios respectivos su gestión.",
+      "Dictar la legislación básica en materia de protección de los espacios naturales."
     ],
     "subject": "PP",
     "topic": 3
@@ -256,9 +663,9 @@
     "question": "En cuantas categorías clasifica la Ley 42/2007 los Espacios Naturales protegidos:",
     "answer": 5,
     "options": [
-      5,
       3,
       6,
+      5,
       4
     ],
     "subject": "PP",
@@ -268,10 +675,10 @@
     "question": "La Red Natura 2000, está integrada por:",
     "answer": "Las Zonas Especiales de Conservación.",
     "options": [
+      "Los Humedales de Importancia Comunitaria.",
       "Las Áreas Marinas Protegidas.",
       "Los Lugares de Importancia Comunal.",
-      "Las Zonas Especiales de Conservación.",
-      "Los Humedales de Importancia Comunitaria."
+      "Las Zonas Especiales de Conservación."
     ],
     "subject": "PP",
     "topic": 3
@@ -292,10 +699,10 @@
     "question": "Corresponde a las Cortes Generales declaras los Parques Nacionales:",
     "answer": "Por Ley.",
     "options": [
-      "La declaración de Parque Nacional se realiza Real Decreto del Consejo de Ministros, previa autorización de las Cortes Generales",
+      "Por Ley Orgánica.",
       "Por Acuerdo de ambas Cámaras.",
-      "Por Ley.",
-      "Por Ley Orgánica."
+      "La declaración de Parque Nacional se realiza Real Decreto del Consejo de Ministros, previa autorización de las Cortes Generales",
+      "Por Ley."
     ],
     "subject": "PP",
     "topic": 3
@@ -304,10 +711,10 @@
     "question": "La gestión y organización de los Parques Nacionales corresponde:",
     "answer": "A las CCAA en cuyos territorios estén situados, incluidos los marítimo-terrestres cuando exista continuidad ecológica del ecosistema terrestre con el marino.",
     "options": [
+      "A las CCAA, correspondiéndoles asimismo gestionar las Red de Parques Nacionales.",
       "A las CCAA en cuyos territorios estén situados, incluidos los marítimo-terrestres cuando exista continuidad ecológica del ecosistema terrestre con el marino.",
       "A las CCAA, excluidos en todo caso los marítimo-terrestres",
-      "A las CCAA, excluidos los marítimo-terrestres y aquellos que se extienda por el territorio de dos o más CCAA que serán gestionados por el Estado.",
-      "A las CCAA, correspondiéndoles asimismo gestionar las Red de Parques Nacionales."
+      "A las CCAA, excluidos los marítimo-terrestres y aquellos que se extienda por el territorio de dos o más CCAA que serán gestionados por el Estado."
     ],
     "subject": "PP",
     "topic": 3
@@ -316,8 +723,8 @@
     "question": "El Plan Director de la Red de Parques Nacionales será:",
     "answer": "Aprobado por Real Decreto.",
     "options": [
-      "Todas las respuestas son correctas.",
       "Aprobado por Real Decreto.",
+      "Todas las respuestas son correctas.",
       "Elaborado por el Consejo de la Red.",
       "Informado por el Ministerio de Medio Ambiente (en la actualidad, Ministerio para la Transición Ecológica y el Reto Demográfico)."
     ],
@@ -328,8 +735,8 @@
     "question": "Será obligatorio recabar la Autorización ambental Integradaen el caso de las instalaciones que desarrollen alguna de las actividades relacionadas en:",
     "answer": "El Anexo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación.",
     "options": [
-      "El Anexo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación, cuando así lo decida el órgano ambiental por aplicación de los criterios del Anexo II.",
       "El Anexo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación. cuando así lo decida el órgano ambiental por aplicación de los criterios del Anexo II.",
+      "El Anexo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación, cuando así lo decida el órgano ambiental por aplicación de los criterios del Anexo II.",
       "El Anexo II del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación.",
       "El Anexo I del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación."
     ],
@@ -340,9 +747,9 @@
     "question": "¿En qué plazo deberá resolverse el procedimiento para el otorgamiento de la Autorización Ambiental Integrada?:",
     "answer": "6 meses.",
     "options": [
-      "3 meses, en el caso del procedimiento abreviado, y 6 meses, si se trata del procedimiento ordinario.",
       "1 mes.",
       "6 meses.",
+      "3 meses, en el caso del procedimiento abreviado, y 6 meses, si se trata del procedimiento ordinario.",
       "3 meses."
     ],
     "subject": "PP",
@@ -352,10 +759,10 @@
     "question": "De acuerdo con lo establecido en la Ley del Ruido – Ley 37/2003 - a quién le corresponde establecer los objetivos de calidad acústicas aplicables a cada área acústica:",
     "answer": "Al Estado.",
     "options": [
-      "Al Estado.",
-      "A las Comunidades Autónomas.",
+      "A los Ayuntamientos.",
       "A la Conferencia Sectorial de Medio Ambiente.",
-      "A los Ayuntamientos."
+      "A las Comunidades Autónomas.",
+      "Al Estado."
     ],
     "subject": "PP",
     "topic": 3
@@ -365,8 +772,8 @@
     "answer": "Las Zonas de servidumbre acústica.",
     "options": [
       "Las Zonas de servidumbre acústica.",
-      "Las Reservas de sonidos de origen urbano.",
       "Las Zonas periféricas de protección.",
+      "Las Reservas de sonidos de origen urbano.",
       "Las Áreas de desarrollo socioeconómico."
     ],
     "subject": "PP",
@@ -388,10 +795,10 @@
     "question": "La Ley 34/2007 (de calidad del aire y protección de la atmósfera) recoge obligaciones para:",
     "answer": "Los municipios con más de 100.000 habitantes.",
     "options": [
-      "Los municipios con más de 100.000 habitantes.",
       "Los municipios con más de 200.000 habitantes.",
-      "Los municipios con más de 250.000 habitantes",
-      "Todos los municipios independientemente de su población."
+      "Todos los municipios independientemente de su población.",
+      "Los municipios con más de 100.000 habitantes.",
+      "Los municipios con más de 250.000 habitantes"
     ],
     "subject": "PP",
     "topic": 3
@@ -400,10 +807,10 @@
     "question": "En relación con el acuerdo de París, señale la respuesta correcta:",
     "answer": "Entró en vigor el 4 de noviembre de 2016, siendo el Acuerdo de referencia en materia de lucha contra el cambio climático una vez finalizado el Protocolo de Kioto en 2020.",
     "options": [
-      "Entró en vigor el 4 de noviembre de 2016, siendo el Acuerdo de referencia en materia de lucha contra el cambio climático una vez finalizado el Protocolo de Kioto en 2020.",
-      "Entró en vigor el 4 de noviembre de 2016 siendo el Acuerdo de referencia en materia de lucha contra el cambio climático desde esa fecha.",
       "Entrará en vigor el 1 de enero de 2025..",
-      "Ha sido sustituido por el Protocolo de Kioto."
+      "Ha sido sustituido por el Protocolo de Kioto.",
+      "Entró en vigor el 4 de noviembre de 2016 siendo el Acuerdo de referencia en materia de lucha contra el cambio climático desde esa fecha.",
+      "Entró en vigor el 4 de noviembre de 2016, siendo el Acuerdo de referencia en materia de lucha contra el cambio climático una vez finalizado el Protocolo de Kioto en 2020."
     ],
     "subject": "PP",
     "topic": 3
@@ -414,8 +821,8 @@
     "options": [
       "Mantener el aumento de la temperatura media mundial muy por debajo de 2 ºC con respecto a los niveles preindustriales, y proseguir los esfuerzos para limitar ese aumento de la temperatura a 1,5 ºC con respecto a los niveles preindustriales.",
       "Mantener el aumento de la temperatura media mundial muy por debajo de 1,5 ºC con respecto a los niveles preindustriales, y proseguir los esfuerzos para limitar ese aumento de la temperatura a 1ºC con respecto a los niveles preindustriales.",
-      "Mantener el aumento de la temperatura media mundial muy por debajo de 5 ºC con respecto a 1990, y proseguir los esfuerzos para limitar ese aumento de la temperatura a 3 ºC con respecto a 1990.",
-      "Mantener el aumento de la temperatura media mundial muy por debajo de 3 ºC con respecto a los niveles preindustriales, y proseguir los esfuerzos para limitar ese aumento de la temperatura a 2,5 ºC con respecto a los niveles preindustriales."
+      "Mantener el aumento de la temperatura media mundial muy por debajo de 3 ºC con respecto a los niveles preindustriales, y proseguir los esfuerzos para limitar ese aumento de la temperatura a 2,5 ºC con respecto a los niveles preindustriales.",
+      "Mantener el aumento de la temperatura media mundial muy por debajo de 5 ºC con respecto a 1990, y proseguir los esfuerzos para limitar ese aumento de la temperatura a 3 ºC con respecto a 1990."
     ],
     "subject": "PP",
     "topic": 3
@@ -424,10 +831,10 @@
     "question": "Qué compromiso de reducción de emisiones de Gases de Efecto Invernadero ha asumido la UE para 2030:",
     "answer": "Al menos un 55% respecto a 1990.",
     "options": [
-      "Al menos un 55% respecto a 1990.",
+      "Al menos un 75% respecto a 2005.",
       "Al menos, un 75% respecto a 1990.",
       "Al menos un 55% respecto a 2005.",
-      "Al menos un 75% respecto a 2005."
+      "Al menos un 55% respecto a 1990."
     ],
     "subject": "PP",
     "topic": 3
@@ -437,9 +844,9 @@
     "answer": "Para 2030 se establece un objetivo mínimo de mejora de la eficiencia energética del 39,5%.",
     "options": [
       "Para 2030 se establece un objetivo mínimo de mejora de la eficiencia energética del 39,5%.",
-      "Establece que, antes de 2040 y, en todo caso, en el más corto plazo posible se deberá alcanzar la neutralidad climática en España.",
+      "Establece un objetivo de reducción de emisiones del 32% respecto a 1990 para 2030.",
       "Las energías renovables deberán representar el 37,5% del consumo final de energía en 2030.",
-      "Establece un objetivo de reducción de emisiones del 32% respecto a 1990 para 2030."
+      "Establece que, antes de 2040 y, en todo caso, en el más corto plazo posible se deberá alcanzar la neutralidad climática en España."
     ],
     "subject": "PP",
     "topic": 3
@@ -448,10 +855,10 @@
     "question": "La Ley 7/2021, de 20 de mayo, de Cambio Climático y Transición Energética, regula diferentes planes y estrategias que deberán ser aprobados por el Gobierno, ¿cuál no es uno de ellos?:",
     "answer": "El Plan de Energías Renovables y Eficiencia Energética",
     "options": [
-      "La Estrategia de Descarbonización 2050.",
-      "El Plan Nacional Integrado de Energía y Clima.",
+      "El Plan de Energías Renovables y Eficiencia Energética",
       "La Estrategia de Transición Justa.",
-      "El Plan de Energías Renovables y Eficiencia Energética"
+      "La Estrategia de Descarbonización 2050.",
+      "El Plan Nacional Integrado de Energía y Clima."
     ],
     "subject": "PP",
     "topic": 3
@@ -460,10 +867,10 @@
     "question": "¿Qué plan o estrategia es definido por la Ley 7/2021 como el instrumento de planificación básico para promover la acción coordinada y coherente frente a los efectos del cambio climático?:",
     "answer": "El Plan Nacional de Adaptación al Cambio Climático.",
     "options": [
-      "La Estrategia de Descarbonización 2050.",
+      "El Plan Nacional de Adaptación al Cambio Climático.",
       "La Estrategia de Transición Justa.",
       "El Plan de Energías Renovables y Eficiencia Energética.",
-      "El Plan Nacional de Adaptación al Cambio Climático."
+      "La Estrategia de Descarbonización 2050."
     ],
     "subject": "PP",
     "topic": 3
@@ -473,8 +880,8 @@
     "answer": "En 2050.",
     "options": [
       "En 2030.",
-      "En 2035.",
       "En 2040.",
+      "En 2035.",
       "En 2050."
     ],
     "subject": "PP",
@@ -485,9 +892,9 @@
     "answer": "La Comisión de Coordinación de Políticas de Cambio Climático.",
     "options": [
       "La Comisión de Coordinación de Políticas de Cambio Climático.",
-      "La Agencia Nacional de Meteorología.",
       "La Secretaría de Estado del Clima.",
-      "La Oficina Española de Cambio Climático."
+      "La Oficina Española de Cambio Climático.",
+      "La Agencia Nacional de Meteorología."
     ],
     "subject": "PP",
     "topic": 3
@@ -496,12 +903,2484 @@
     "question": "De acuerdo con lo establecido en la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión, señale la respuesta correcta:",
     "answer": "El método básico de asignación de los derechos de emisión es la subasta.",
     "options": [
-      "El derecho de emisión es definido como el derecho subjetivo a emitir una tonelada equivalente de dióxido de nitrógeno, desde una instalación o una aeronave que realiza una actividad de aviación incluida en el ámbito de aplicación de la Ley 1/2005, durante un período determinado.",
-      "El derecho de uso del derecho de emisión es transmisible, pero no su titularidad.",
       "Todas las respuestas son correctas.",
-      "El método básico de asignación de los derechos de emisión es la subasta."
+      "El método básico de asignación de los derechos de emisión es la subasta.",
+      "El derecho de uso del derecho de emisión es transmisible, pero no su titularidad.",
+      "El derecho de emisión es definido como el derecho subjetivo a emitir una tonelada equivalente de dióxido de nitrógeno, desde una instalación o una aeronave que realiza una actividad de aviación incluida en el ámbito de aplicación de la Ley 1/2005, durante un período determinado."
     ],
     "subject": "PP",
     "topic": 3
+  },
+  {
+    "question": "¿Qué día entró en vigor la Constitución Española de 1978?",
+    "answer": "El 29 de diciembre de 1978.",
+    "options": [
+      "El 6 de diciembre de 1978.",
+      "El 29 de diciembre de 1978.",
+      "El 31 de octubre de 1978.",
+      "El 27 de diciembre de 1978."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "Según la Constitución de 1978, la forma política del Estado español es",
+    "answer": "La Monarquía Parlamentaria",
+    "options": [
+      "La Monarquía Limitada",
+      "La Monarquía",
+      "La Monarquía Constitucional.",
+      "La Monarquía Parlamentaria"
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "Las primeras elecciones democráticas celebradas en España tras la muerte de Franco tuvieron lugar en",
+    "answer": "1977",
+    "options": [
+      "1977",
+      "1975",
+      "1976",
+      "1978"
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "El referéndum en el que se aprobó popularmente la Constitución se llevó a efecto el",
+    "answer": "6 de diciembre de 1978",
+    "options": [
+      "6 de diciembre de 1978",
+      "27 de diciembre de 1978",
+      "31 de octubre de 1978",
+      "29 de diciembre de 1979"
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "La Constitución de 1978 consta de",
+    "answer": "Las un preámbulo, 169 artículos, 4 disposiciones adicionales, 9 disposiciones transitorias, 1 disposición derogatoria y 1 disposición final.",
+    "options": [
+      "Un preámbulo, 169 artículos, 14 disposiciones adicionales, 8 disposiciones transitorias, 1 disposición derogatoria y 1 disposición final.",
+      "Un preámbulo, 169 artículos, 4 disposiciones adicionales, 8 disposiciones transitorias, disposiciones derogatorias y 1 disposición final.",
+      "Un preámbulo, 169 artículos, 4 disposiciones adicionales, 8 disposiciones transitorias, 1 disposición derogatoria y disposición final.",
+      "Las un preámbulo, 169 artículos, 4 disposiciones adicionales, 9 disposiciones transitorias, 1 disposición derogatoria y 1 disposición final."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "El Título II de la Constitución de 1978 está dedicado a",
+    "answer": "La Corona.",
+    "options": [
+      "Los Derechos y Deberes Fundamentales.",
+      "El Gobierno.",
+      "Las Cortes Generales.",
+      "La Corona."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "La Constitución de 1978 se fundamenta",
+    "answer": "En la indisoluble unidad de la Nación Española.",
+    "options": [
+      "En el compromiso de unidad de todos los pueblos y nacionalidades integrantes de la Nación Española.",
+      "En la pluralidad de pueblos integrantes de la Nación Española.",
+      "En la solidaridad de todos los españoles.",
+      "En la indisoluble unidad de la Nación Española."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "El Título VII de la Constitución Española se denomina",
+    "answer": "Economía y Hacienda.",
+    "options": [
+      "Del Gobierno y de la Administración",
+      "Del Poder Judicial.",
+      "Organización Territorial del Estado",
+      "Economía y Hacienda."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "Son valores superiores del ordenamiento, según la Constitución Española de 1978",
+    "answer": "Pluralismo político, justicia, libertad e igualdad.",
+    "options": [
+      "Pluralismo político, justicia, libertad e igualdad.",
+      "Libertad, justicia, solidaridad, pluralismo político.",
+      "Legalidad, libertad, igualdad y justicia",
+      "Pluralismo político, solidaridad, igualdad y seguridad jurídica."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "¿Qué denominación recibe el Capítulo III del Título I de la Constitución Española?",
+    "answer": "“De los principios rectores de la política social y económica”.",
+    "options": [
+      "“De los derechos fundamentales y de las libertades públicas”",
+      "“Derechos y libertades”.",
+      "“De los principios rectores de la política social y económica”.",
+      "“De los derechos y deberes de los ciudadanos”."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "¿Qué artículos de la Constitución Española han sido objeto de reforma?",
+    "answer": "El 13.2, el 135 y el 49",
+    "options": [
+      "El 13.2, el 135 y el 49",
+      "El 48",
+      "El 13.1, el 137 y el 50",
+      "El 35."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "Conforme a lo establecido en el artículo 116 de la Constitución, la declaración del estado de excepción corresponde",
+    "answer": "Al Gobierno mediante Real Decreto, previa autorización del Congreso.",
+    "options": [
+      "Al Gobierno mediante Real Decreto, previa autorización del Congreso.",
+      "Al Rey a propuesta del Presidente del Gobierno.",
+      "Al Presidente del Gobierno mediante Real Decreto, previa autorización de las Cortes Generales.",
+      "Al Congreso de los Diputados, a propuesta del Gobierno."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "Según el artículo 1.2 de la Constitución, la Soberanía Nacional reside",
+    "answer": "En el pueblo español",
+    "options": [
+      "En las Cortes Generales.",
+      "En el Rey como Monarca.",
+      "En los poderes del Estado.",
+      "En el pueblo español"
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "El Título de la Constitución más extenso es",
+    "answer": "El Título I “De los derechos y deberes fundamentales”.",
+    "options": [
+      "El Título VIII “De la organización territorial del Estado”.",
+      "El Título IX “del Tribunal Constitucional”",
+      "El Título X “De la reforma constitucional”.",
+      "El Título I “De los derechos y deberes fundamentales”."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "¿Qué día fue aprobada por las CCGG la Constitución Española de 1978",
+    "answer": "El 31 de octubre de 1978",
+    "options": [
+      "El 29 de diciembre de 1978.",
+      "El 27 de diciembre de 1978.",
+      "El 6 de diciembre de 1978",
+      "El 31 de octubre de 1978"
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "El artículo 4 de la Constitución establece que",
+    "answer": "La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
+    "options": [
+      "El castellano es la lengua española oficial del Estado.",
+      "La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
+      "La capital del Estado es la villa de Madrid.",
+      "Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el ejército del Aire, tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "En relación con el Título Preliminar de la Constitución Española indique cuál de las siguientes afirmaciones es correcta",
+    "answer": "Reconoce que los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas",
+    "options": [
+      "Se compone de diez artículos",
+      "Fija la capitalidad del Estado en la Comunidad de Madrid.",
+      "Reconoce que los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas",
+      "Su reforma de realiza por la vía del artículo 167."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "La reforma constitucional del derecho a sindicarse libremente (artículo 28.1 CE), requiere",
+    "answer": "Aprobación por mayoría de dos tercios de cada una de las Cámaras.",
+    "options": [
+      "Sometimientos a referéndum si aí lo solicita una décima parte de los miembros de cualquiera de las Cámaras",
+      "Aprobación por mayoría de tres quintos de cada una de las Cámaras, y si no hay acuerdo, aprobación por Comisión paritaria de Diputados y Senadores.",
+      "Aprobación por mayoría de tres quintos de cada una de las Cámaras.",
+      "Aprobación por mayoría de dos tercios de cada una de las Cámaras."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "Señale a quién corresponde la iniciativa para la reforma constitucional:",
+    "answer": "Al Gobierno, al Congreso, al Senado ya las Asambleas Legislativas de las Comunidades Autónomas.",
+    "options": [
+      "Al Gobierno, al Congreso, al Senado ya las Asambleas Legislativas de las Comunidades Autónomas.",
+      "Al Presidente del Gobierno y al Congreso.",
+      "Al Gobierno y al Defensor del Pueblo.",
+      "Al Gobierno, al Congreso y al Senado y al pueblo"
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "Señale la respuesta correcta en relación con la reforma operada en el artículo 13.2 de la Constitución Española",
+    "answer": "Se tramitó por el procedimiento ordinario de reformar previsto en el artículo 167 CE.",
+    "options": [
+      "Se tramitó por el procedimiento ordinario de reformar previsto en el artículo 167 CE.",
+      "Supuso la ampliación del sufragio pasivo a los extranjeros en las elecciones autonómicas, en virtud de lo que, atendiendo a criterios de reciprocidad, pueda establecerse por Tratado o ley.",
+      "Se aprobó el 27 de septiembre de 2011.",
+      "La citada reforma exigió la celebración de referéndum preceptivo y vinculante."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "Se pretende reformar el artículo de la Constitución referido a la propiedad privada y a la herencia (artículo 33 CE). Señale la respuesta correcta en relación con el procedimiento de reforma del citado artículo",
+    "answer": "Aprobada la reforma por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+    "options": [
+      "Se procederá a la aprobación del principio de reforma por mayoría de dos tercios y a la disolución inmediata de Cortes.",
+      "Aprobada la reforma por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+      "Una vez disueltas las Cortes, las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de tres quintos de ambas Cámaras.",
+      "La reforma por iniciativa popular exigirá no menos de 500.000 firmas acreditadas"
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "De acuerdo con su Disposición Final, la Constitución entró en vigor",
+    "answer": "El día de su publicación en el BOE",
+    "options": [
+      "En el momento de la sanción real",
+      "Tras su aprobación por referéndum",
+      "Una vez aprobada por las Cortes Generales",
+      "El día de su publicación en el BOE"
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "El castellano es la lengua oficial del Estado y, de acuerdo con el Título Preliminar, todos los españoles tienen",
+    "answer": "El deber de conocerla y el derecho a usarla.",
+    "options": [
+      "El deber de conocerla y el derecho a usarla.",
+      "El deber de usarla y el derecho a conocerla.",
+      "El derecho a conocerla.",
+      "El deber de usarla"
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "El artículo 7 del Título Preliminar de la Constitución Española regula",
+    "answer": "Los sindicatos de trabajadores y asociaciones empresariales.",
+    "options": [
+      "Los partidos políticos.",
+      "Los sindicatos de trabajadores y asociaciones empresariales.",
+      "La capitalidad del Estado.",
+      "Las Fuerzas Armadas."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "Cuando se propusiere la reforma constitucional del derecho de reunión reconocido en el artículo 21, la aprobación de la reforma requerirá",
+    "answer": "Mayoría de dos tercios de ambas Cámaras.",
+    "options": [
+      "Mayoría absoluta de cada Cámara.",
+      "Mayoría de tres quintos del Congreso y mayoría absoluta del Senado.",
+      "Mayoría de tres quintos de ambas Cámaras.",
+      "Mayoría de dos tercios de ambas Cámaras."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "El artículo 166 CE remite el ejercicio de la iniciativa de reforma a los órganos previstos en:",
+    "answer": "El artículo 87 apartados 1 y 2 de la Constitución Española",
+    "options": [
+      "Los artículos 86 y 87 de la Constitución Española.",
+      "El artículo 87 apartados 1 y 2 de la Constitución Española",
+      "El artículo 87 apartados 1, 2 y 3 de la Constitución Española.",
+      "El artículo 87 apartado 1 de la Constitución Española"
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "En el procedimiento de reforma ordinaria de la Constitución de 1978, contemplado en el Art. 167 de ésta, los proyectos de reforma constitucional deberán ser aprobados",
+    "answer": "Por 3/5 de cada una de las Cámaras y, si no hubiera acuerdo entre ambas, se intentará obtenerlos mediante la creación de una Comisión de composición paritaria de Diputados y Senadores",
+    "options": [
+      "Por 3/5 de cada una de las Cámaras y, si no hubiera acuerdo entre ambas, se intentará obtenerlos mediante la creación de una Comisión de composición paritaria de Diputados y Senadores",
+      "Por 2/3 de cada una de las Cámaras y, si no hubiera acuerdo entre ambas, se intentará obtenerlo mediante la creación de una Comisión de composición paritaria de Diputados y Senadores.",
+      "Por acuerdo favorable del Congreso y mayoría absoluta del Senado y, si no hubiera acuerdo entre ambas, se intentará obtenerlo mediante la creación de una composición paritaria de Diputados y Senadores.",
+      "Por mayoría absoluta de cada una de las Cámaras y, si no hubiera acuerdo entre ambas, se intentará obtenerlo mediante la creación de una composición paritaria de Diputadores y Senadores."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "En caso de procederse a la reforma del artículo 18 de la CE que regula el derecho al honor, a la intimidad personal y familiar y a la propia imagen, será necesario el siguiente trámite",
+    "answer": "Aprobación del principio de reforma por mayoría de 2/3 de cada Cámara y disolución inmediata de Cortes.",
+    "options": [
+      "Aprobación del principio de reforma por mayoría de 2/3 de cada Cámara y disolución inmediata de Cortes.",
+      "Aprobación del principio de reforma por mayoría de 3/5 de cada Cámara.",
+      "Referéndum facultativo y vinculante, que se celebrará cuando así lo soliciten una décima pate de los miembros de cualquiera de las Cámaras.",
+      "Aprobación del texto por mayoría absoluta de cada Cámara."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "El referéndum en caso de reforma agravada de la Constitución de 1978",
+    "answer": "Es preceptivo y vinculante.",
+    "options": [
+      "Es preceptivo y vinculante.",
+      "Es preceptivo y no vinculante.",
+      "Es facultativo y no vinculante.",
+      "Es facultativo y vinculante."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "¿Quién debe solicitar la celebración de referéndum en caso de reforma ordinaria de la Constitución de 1978?",
+    "answer": "1/10 parte de los miembros de cualquier de las Cámaras.",
+    "options": [
+      "1/5 parte de los miembros de cada una de las Cámaras",
+      "La mayoría absoluta de miembros del Congreso y del Senado",
+      "No hay que solicitarlo, por ser preceptiva su celebración.",
+      "1/10 parte de los miembros de cualquier de las Cámaras."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "¿Qué plazo establece la Constitución de 1978 para solicitar la celebración de referéndum en caso de aprobación de una reforma constitucional del art. 167?:",
+    "answer": "Habrá de solicitarse dentro de los 15 días siguientes a su aprobación.",
+    "options": [
+      "Habrá de solicitarse dentro de los 15 días siguientes a su aprobación.",
+      "Deberá solicitarse dentro de los 20 días siguientes a su aprobación",
+      "Habrá de solicitarse dentro de los 10 días siguientes a su aprobación.",
+      "Habrá de solicitarse dentro de los 5 días siguientes a su aprobación."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "La iniciativa para la reforma constitucional debe ir suscrita, al menos, en el Congreso por:",
+    "answer": "2 grupos parlamentarios o 1/5 de los diputados.",
+    "options": [
+      "2 grupos parlamentarios o 1/5 de los diputados.",
+      "1 grupo parlamentario o 15 Diputados.",
+      "Mayoría absoluta de los Diputados.",
+      "50 diputados que pertenezcan a 2 grupos parlamentarios."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "¿Cuál/es de los siguientes estados de anomalía política regulados en el artículo 116 CE será declarado por el Gobierno previa autorización del Congreso?:",
+    "answer": "El estado de excepción",
+    "options": [
+      "El estado de excepción",
+      "Los estados de alarma y excepción.",
+      "El estado de alarma",
+      "Los estados de excepción y sitio."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "En caso de declaración del estado de alarma, el Gobierno podrá prorrogar el mismo:",
+    "answer": "Previa autorización del Congreso.",
+    "options": [
+      "Previa autorización del Congreso.",
+      "Dando cuenta al Congreso.",
+      "Dando cuenta a las Cortes Generales.",
+      "Previa autorización de las Cortes Generales."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "El artículo 169 de la Constitución Española dispone que:",
+    "answer": "No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de algunos de los estados previstos en el artículo 116",
+    "options": [
+      "No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de algunos de los estados previstos en el artículo 116",
+      "No podrá aprobarse la reforma constitucional en tiempo de guerra o de vigencia de algunos de los estados previstos en el artículo 166.",
+      "No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 166.",
+      "No podrá aprobarse la reforma constitucional en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116"
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "¿Quién aprobó la Constitución Española de 1978:",
+    "answer": "Las Cortes Generales.",
+    "options": [
+      "El Congreso de los Diputados.",
+      "Las Cortes Generales.",
+      "El Rey",
+      "El pueblo español."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "¿Cuáles son los tres Títulos de la Constitución Española que se subdividen en Capítulos?:",
+    "answer": "I, III y VIII.",
+    "options": [
+      "I, III y VIII.",
+      "II, IV y VIII.",
+      "I, V y VII",
+      "Preliminar, I y VIII"
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "“De las garantías de las libertades y derechos fundamentales” es el nombre de un Capítulo del Título I de la Constitución Española. Indique su número:",
+    "answer": "Cuarto",
+    "options": [
+      "Tercero",
+      "Primero",
+      "Segundo.",
+      "Cuarto"
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "El derecho a una vivienda digna (artículo 47 CE), para la Constitución española",
+    "answer": "Es un principio rector de la política social y económica.",
+    "options": [
+      "Es un derecho fundamental",
+      "No está regulado de manera expresa.",
+      "Es un valor superior de nuestro ordenamiento",
+      "Es un principio rector de la política social y económica."
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "El artículo 2 de la Constitución Española, establece que:",
+    "answer": "La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas",
+    "options": [
+      "El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla",
+      "La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas",
+      "La capital del Estado es la villa de Madrid",
+      "La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas"
+    ],
+    "subject": "OE",
+    "topic": 1
+  },
+  {
+    "question": "De acuerdo con el artículo 17.2 de la Constitución, la detención preventiva tendrá la siguiente duración:",
+    "answer": "El tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos",
+    "options": [
+      "El tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos",
+      "48 horas.",
+      "72 horas.",
+      "No existe límite máximo."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "Sobre el derecho de reunión responda la afirmación correcta:",
+    "answer": "Su desarrollo legislativo se efectúa por Ley Orgánica.",
+    "options": [
+      "Su desarrollo legislativo se efectúa por Ley Orgánica.",
+      "Precisa de autorización previa.",
+      "No puede ser objeto de recurso de amparo",
+      "Es un principio rector de la política social y económica"
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El derecho a la objeción de conciencia sobre el servicio militar:",
+    "answer": "Podrá ser objeto de recurso de amparo.",
+    "options": [
+      "Su desarrollo normativo se efectuará por ley orgánica.",
+      "Se regula en el artículo 31 de la Constitución.",
+      "Podrá ser objeto de recurso de amparo.",
+      "Es un derecho fundamental regulado en la Sección I, del Capítulo II del Título I."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "Se incluye entre los principios rectores de la política social y económica, cuyo reconocimiento, respeto y protección informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos:",
+    "answer": "El derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo",
+    "options": [
+      "El derecho de reunión pacífica y sin armas.",
+      "El derecho a la propiedad privada y a la herencia.",
+      "El derecho de fundación para fines de interés general.",
+      "El derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo"
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "Sobre el contenido de las Resoluciones del Defensor del Pueblo señale cuál de las siguientes afirmaciones no es correcta:",
+    "answer": "Si como consecuencia de sus investigaciones llegase al convencimiento de que el cumplimiento riguroso de la norma puede provocar situaciones injustas o perjudiciales para los administrados, podrá obligar al órgano legislativo competente o a la Administración la modificación de la misma.",
+    "options": [
+      "Si como consecuencia de sus investigaciones llegase al convencimiento de que el cumplimiento riguroso de la norma puede provocar situaciones injustas o perjudiciales para los administrados, podrá obligar al órgano legislativo competente o a la Administración la modificación de la misma.",
+      "Las autoridades y los funcionarios vendrán obligados a responder a las advertencias, recomendaciones, recordatorios y sugerencias por escrito en término no superior al de un mes.",
+      "Con ocasión de sus investigaciones, podrá formular a las autoridades y funcionarios de las Administraciones Públicas advertencias, recomendaciones, recordatorios de sus deberes legales y sugerencias para la adopción de nuevas medidas.",
+      "Está legitimado para interponer recurso de inconstitucionalidad."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El Defensor del Pueblo:",
+    "answer": "Es designado por las Cortes Generales, a las que dará cuenta.",
+    "options": [
+      "Es designado por el Gobierno de la nación, al que dará cuenta.",
+      "Es designado por el Congreso de los Diputados, dando cuenta de su actividad al Rey.",
+      "Es designado por las Cortes Generales, a las que dará cuenta.",
+      "Es designado por el Rey, dando cuenta de su actividad a las Cortes Generales."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El derecho de un hijo menor de edad a ser asistido en todos los órdenes por sus padres:",
+    "answer": "Informará la legislación positiva y la práctica judicial y la actuación de los poderes públicos.",
+    "options": [
+      "Informará la legislación positiva y la práctica judicial y la actuación de los poderes públicos.",
+      "Podrá ser recabado a través del recurso de amparo.",
+      "Podrá ser objeto de suspensión durante la vigencia del estado de sitio.",
+      "Podrá ser recabado a través del procedimiento basado en los principios de preferencia y sumariedad."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "Durante la vigencia de los estados de excepción y sitio:",
+    "answer": "El derecho reconocido en el art. 17.3 no podrá suspenderse durante la vigencia del estado de excepción, pero sí durante la vigencia del estado de sitio.",
+    "options": [
+      "El derecho reconocido en el art. 17.3 no podrá suspenderse durante la vigencia del estado de excepción, pero sí durante la vigencia del estado de sitio.",
+      "El derecho reconocido en el art. 17.3 no podrá suspenderse durante la vigencia de los estados de excepción y sitio.",
+      "El derecho reconocido en el art. 17.3 no podrá suspenderse durante la vigencia del estado de sitio, pero sí durante la vigencia de los estados de alarma y excepción.",
+      "El derecho reconocido en el art. 17.3 podrá suspenderse durante la vigencia de los estados de excepción y sitio."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "¿Cuáles de los siguientes derechos pueden suspenderse tanto en supuestos de declaración de estados de excepción y sitio como en investigaciones de bandas armadas o elementos terroristas?:",
+    "answer": "El plazo máximo de detención preventiva, la inviolabilidad del domicilio y el secreto de las comunicaciones.",
+    "options": [
+      "El plazo máximo de detención preventiva, la inviolabilidad del domicilio y el secreto de las comunicaciones.",
+      "El plazo máximo de detención preventiva, la inviolabilidad del domicilio y la asistencia de abogado al detenido.",
+      "La inviolabilidad del domicilio, la asistencia de abogado al detenido y el secreto de las comunicaciones.",
+      "El plazo máximo de detención preventiva, la inviolabilidad del domicilio, la asistencia de abogado al detenido y el secreto de las comunicaciones."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El plazo para presentar una queja ante el Defensor del Pueblo, será como máximo:",
+    "answer": "1 año contado a partir del momento en que tuviera conocimiento de los hechos objeto de la misma",
+    "options": [
+      "1 año contado a partir del momento en que tuviera conocimiento de los hechos objeto de la misma",
+      "2 años contados a partir del momento en que tuviera conocimiento de los hechos objeto de la misma.",
+      "1 año desde que se produjeran los hechos objeto de la misma",
+      "2 años desde que se produjeran los hechos objeto de la misma."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "¿Cuál de los siguientes derechos informará la práctica judicial:",
+    "answer": "El derecho a un régimen público de seguridad social",
+    "options": [
+      "El derecho a la propiedad privada.",
+      "El derecho a crear fundaciones para fines de interés general.",
+      "El derecho a un régimen público de seguridad social",
+      "El derecho a la adopción de medidas de conflicto colectivo."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "¿Cuál de los siguientes derechos podrá ser objeto de recurso de amparo ante el Tribunal Constitucional?:",
+    "answer": "El derecho de asociación",
+    "options": [
+      "El derecho a la libre elección de profesión u oficio.",
+      "El derecho a la propiedad privada y a la herencia.",
+      "El derecho de fundación",
+      "El derecho de asociación"
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El Defensor del Pueblo:",
+    "answer": "Está asistido por dos Adjuntos nombrados y separados por el propio Defensor del Pueblo, previa conformidad de las Cámaras",
+    "options": [
+      "Su ámbito se circunscribe en exclusiva a la defensa de los derechos regulados en la Sección 1ª. Capítulo II del Título I “Derechos Fundamentales y Libertades Públicas”.",
+      "Su mandato es de 4 años.",
+      "Es el Alto Comisionado del Congreso.",
+      "Está asistido por dos Adjuntos nombrados y separados por el propio Defensor del Pueblo, previa conformidad de las Cámaras"
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "¿Cuál de los siguientes derechos no puede suspenderse con la declaración de los Estados de Excepción y Sitio?:",
+    "answer": "Derecho al Trabajo.",
+    "options": [
+      "Libertad de Circulación por el territorio nacional.",
+      "Huelga.",
+      "Derecho al Trabajo.",
+      "Pueden suspenderse todos los indicados."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "En el procedimiento de elección del Defensor del Pueblo, la Ley Orgánica 3/1981 exige que el Congreso alcance la siguiente mayoría:",
+    "answer": "Mayoría de 3/5.",
+    "options": [
+      "Mayoría de votos.",
+      "Mayoría de 3/5.",
+      "Mayoría de 2/3.",
+      "Mayoría absoluta."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "¿Cuál de los derechos constitucionales podrá suspenderse únicamente durante la vigencia del estado de sitio?:",
+    "answer": "La asistencia de abogado al detenido regulada en el artículo 17.3 CE.",
+    "options": [
+      "La asistencia de abogado al detenido regulada en el artículo 17.3 CE.",
+      "El plazo máximo de detención preventiva regulado en el artículo 17.2 CE.",
+      "La inviolabilidad del domicilio regulada en el artículo 18.2 CE.",
+      "La adopción de medidas de conflicto colectivo regulada en el artículo 37.2 CE."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "Conforme al artículo 53 de la Constitución Española de 1978, pueden ser objeto de tutela ante los Tribunales ordinarios, por un procedimiento basado en los principios de preferencia y sumariedad:",
+    "answer": "Las libertades y derechos reconocidos en el artículo 14 y en la Sección 1ª Capítulo II del Título I de la Constitución",
+    "options": [
+      "Las libertades y derechos reconocidos en el artículo 14 y en la Sección 1ª Capítulo II del Título I de la Constitución",
+      "Las libertades y derechos reconocidos en el Capítulo II del Título I de la Constitución.",
+      "Las libertades y derechos reconocidos en el Capítulo III del Título I de la Constitución.",
+      "Las libertades y derechos reconocidos en la Sección 2ª Capítulo II del Título I de la Constitución."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "Son susceptibles de amparo constitucional:",
+    "answer": "Los derechos y libertades reconocidos en el artículo 14, en la sección 1ª capítulo II del título I y la objeción de conciencia regulada en el artículo 30.2.",
+    "options": [
+      "Los derechos y libertades reconocidos en el artículo 14, en la sección 1ª capítulo II del título I y la objeción de conciencia regulada en el artículo 30.2.",
+      "Los derechos y libertades reconocidos en los artículos 14 a 29 de la Constitución.",
+      "Los derechos del Capítulo II del Título I de la Constitución",
+      "Los derechos del título I de la Constitución"
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El cese del Defensor del Pueblo por actuar con notoria negligencia en el cumplimiento de las obligaciones y deberes del cargo:",
+    "answer": "Se decidirá, por mayoría de las tres quintas partes de los componentes de cada Cámara",
+    "options": [
+      "Se decidirá, por mayoría de las tres quintas partes de los componentes de cada Cámara",
+      "Se declarará por el Presidente del Congreso.",
+      "Se decidirá, por mayoría de las dos terceras partes de los componentes de cada Cámara.",
+      "Se declarará por los Presidentes de ambas Cámaras conjuntamente"
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El Defensor del Pueblo dará cuenta a las Cortes Generales de la gestión realizada, en un informe que presentará cuando se hallen reunidas en período ordinario de sesiones. ¿Con qué periodicidad emite este informe?:",
+    "answer": "Anual.",
+    "options": [
+      "Semestral.",
+      "Anual.",
+      "Trimestral",
+      "Mensual"
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El artículo 29 de la Constitución Española reconoce el siguiente derecho",
+    "answer": "El derecho de petición",
+    "options": [
+      "El derecho de petición",
+      "La libertad de empresa en el marco de la economía de mercado",
+      "El derecho a la educación.",
+      "El derecho a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El Defensor del Pueblo tiene un mandato de:",
+    "answer": "5 años.",
+    "options": [
+      "5 años pudiendo ser reelegido para un nuevo mandato una sola vez",
+      "5 años.",
+      "4 años pudiendo ser reelegido para un nuevo mandato una sola vez.",
+      "4 años"
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "¿Cuál de los siguientes derechos está protegido judicialmente por un procedimiento especial preferente y sumario?:",
+    "answer": "El derecho a la libertad de cátedra.",
+    "options": [
+      "El derecho a la protección de la salud.",
+      "El derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo",
+      "El derecho y deber de defender a España",
+      "El derecho a la libertad de cátedra."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "No está reservado a ley orgánica el desarrollo del siguiente derecho:",
+    "answer": "El derecho a la propiedad privada.",
+    "options": [
+      "El derecho de sindicación.",
+      "El derecho de petición.",
+      "El derecho de asociación",
+      "El derecho a la propiedad privada."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "Indique cómo se asegura el reconocimiento, el respecto y la protección de los principios rectores de la política social y económica:",
+    "answer": "Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos.",
+    "options": [
+      "Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos.",
+      "Están protegidos mediante el acceso al recurso de amparo.",
+      "No cabe la interposición de recurso de amparo, pero es posible la vía judicial sumaria y preferente.",
+      "Están sujetos a reserva de Ley Orgánica."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El derecho de sindicación:",
+    "answer": "Puede interponerse recurso de amparo para su defensa.",
+    "options": [
+      "Puede suspenderse durante la vigencia del estado de sitio.",
+      "Puede interponerse recurso de amparo para su defensa.",
+      "Queda regulado en el artículo 37 de la Constitución",
+      "Es objeto de desarrollo mediante ley ordinaria"
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El artículo 15 de la Constitución española reconoce:",
+    "answer": "El derecho a la vida y a la integridad física y moral",
+    "options": [
+      "El derecho de reunión pacífica y sin armas.",
+      "El derecho a la libertad ideológica y religiosa.",
+      "El derecho al trabajo.",
+      "El derecho a la vida y a la integridad física y moral"
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "Los miembros de las Fuerzas Armadas o de Cuerpos sometidos a disciplina militar, ¿pueden ejercer el derecho de petición?",
+    "answer": "Sí, pero solamente a título individual",
+    "options": [
+      "Sí, pero solamente a título individual",
+      "Sí, pero solo pueden hacerlo de forma colectiva.",
+      "No, en ningún caso.",
+      "Sí, en las mismas condiciones que los demás ciudadanos."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "Se prohíben los Tribunales de Honor, según el artículo 26 de la Constitución Española:",
+    "answer": "En el ámbito de la Administración Civil y de las organizaciones profesionales.",
+    "options": [
+      "En el ámbito de la Administración Institucional y de las organizaciones profesionales.",
+      "En el ámbito de la Administración Civil y de las organizaciones profesionales.",
+      "En el ámbito de la Administración Militar y de las organizaciones profesionales",
+      "En el ámbito de la Administración de Justicia y de las organizaciones profesionales."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "La igualdad regulada en el artículo 14 es objeto de las siguientes garantías (señale la falsa):",
+    "answer": "Procedimiento de reforma agravado (artículo 168 CE).",
+    "options": [
+      "Procedimiento de reforma agravado (artículo 168 CE).",
+      "Recurso de amparo ante el Tribunal Constitucional.",
+      "Desarrollo por Ley ordinaria.",
+      "Tutela a través de un procedimiento basado en los principios de preferencia y sumariedad"
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El artículo 22 de la Constitución:",
+    "answer": "Reconoce el derecho de asociación y es objeto de desarrollo mediante ley orgánica.",
+    "options": [
+      "Reconoce el derecho de asociación y su reforma seguirá los trámites del artículo 167 de la CE.",
+      "Reconoce el derecho de huelga y es objeto de desarrollo mediante ley orgánica.",
+      "Reconoce el derecho de huelga y su reforma seguirá los trámites del artículo 167 de la CE.",
+      "Reconoce el derecho de asociación y es objeto de desarrollo mediante ley orgánica."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "Siguiendo lo dispuesto en la Constitución Española, es una garantía común a la igualdad regulada en el artículo 14 y a la objeción de conciencia reconocida en el artículo 30.2:",
+    "answer": "Recurso de amparo.",
+    "options": [
+      "Las tres garantías mencionadas se aplican a los derechos de los artículos 14 y 30.2.",
+      "Recurso de amparo.",
+      "Procedimiento de reforma agravado regulado en el artículo 168 CE.",
+      "Desarrollo por ley orgánica"
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "Todos los siguientes derechos, menos uno, podrán ser suspendidos en caso de que se acuerde la declaración de estado de excepción o de sitio. Señale qué derecho no puede suspenderse:",
+    "answer": "Derecho al honor",
+    "options": [
+      "Derecho a la libertad y seguridad.",
+      "Derecho a la inviolabilidad del domicilio.",
+      "Derecho al honor",
+      "Derecho al secreto de las comunicaciones."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El art. 18.4 de nuestra Constitución, de cara a garantizar el honor y la intimidad personal y familiar de los ciudadanos, y el pleno ejercicio de sus derechos, limita:",
+    "answer": "El uso de la informática.",
+    "options": [
+      "El uso de la informática.",
+      "El uso de la libertad de prensa.",
+      "El uso de la libertad de expresión",
+      "El uso de la publicidad."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "De conformidad con el artículo 41 de la CE, los poderes públicos deberán mantener un régimen público de seguridad social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad y, especialmente:",
+    "answer": "En caso de desempleo",
+    "options": [
+      "En caso de crisis económica.",
+      "En caso de desempleo",
+      "En caso de enfermedad.",
+      "En caso de necesidad económica."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El artículo 24 de la Constitución Española, recoge:",
+    "answer": "El derecho a obtener la tutela judicial efectiva de jueces y tribunales",
+    "options": [
+      "El derecho a obtener la tutela judicial efectiva de jueces y tribunales",
+      "El derecho a la vida y a la integridad física y moral.",
+      "El derecho de Huelga.",
+      "El derecho al honor."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "¿Cuál de los siguientes derechos es un principio rector de la política social y económica?:",
+    "answer": "Derecho a la protección de la salud",
+    "options": [
+      "Derecho a la protección de la salud",
+      "El derecho de Huelga.",
+      "El derecho al trabajo.",
+      "El derecho de sindicación."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El derecho de reunión en lugares de tránsito público y manifestaciones, requiere según la Constitución",
+    "answer": "Requiere comunicación previa a la autoridad.",
+    "options": [
+      "La Constitución no establece ningún requisito, pero puede establecer reglamentariamente",
+      "No está sujeto a ningún requisito.",
+      "Requiere comunicación previa a la autoridad.",
+      "Está sujeto a control cuando supere un número de personas, que será establecido por ley."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "El derecho a entrar y salir libremente de España se realizará:",
+    "answer": "En los términos que la ley establezca",
+    "options": [
+      "En los términos que la ley establezca",
+      "Sin ninguna limitación",
+      "Con las limitaciones establecidas por Real Decreto.",
+      "Con las limitaciones establecidas por Orden del Ministro del Interior"
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "¿La Administración civil puede imponer sanciones que subsidiariamente impliquen privación de libertad?:",
+    "answer": "No.",
+    "options": [
+      "Si.",
+      "Si, cuando lo establezca la correspondiente ley orgánica de desarrollo.",
+      "Si, con los requisitos establecidos reglamentariamente.",
+      "No."
+    ],
+    "subject": "OE",
+    "topic": 2
+  },
+  {
+    "question": "Están legitimados para interponer el recurso de inconstitucionalidad, según el Art. 162 de la Constitución:",
+    "answer": "El Presidente del Gobierno, el Defensor del Pueblo, 50 diputados, 50 senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.",
+    "options": [
+      "El Presidente del Gobierno, el Defensor del Pueblo, 50 diputados y 50 senadores.",
+      "El Presidente del Gobierno, el Defensor del Pueblo, 50 diputados, 50 senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.",
+      "El Presidente del Gobierno, 50 diputados, 50 senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.",
+      "El Presidente del Gobierno, el Defensor del Pueblo, 50 diputados, 50 senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Están legitimados para interponer el recurso de amparo constitucional, según el Art. 162 de la Constitución:",
+    "answer": "Toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal.",
+    "options": [
+      "Toda persona natural o jurídica que invoque un interés legítimo, así como el Presidente del Tribunal Constitucional.",
+      "Toda persona natural o jurídica que invoque un interés legítimo, así como el Presidente del Gobierno.",
+      "Los mismos que para interponer el recurso de inconstitucionalidad.",
+      "Toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Las sentencias del Tribunal Constitucional, según el Art. 164 de la Constitución:",
+    "answer": "Se publicarán en el BOE, con los votos particulares si los hubiere.",
+    "options": [
+      "Se publicarán en Diario del Tribunal, con los votos particulares si los hubiere.",
+      "Se publicarán en el Diario Oficial de las Comunidades Europeas.",
+      "Se publicarán en el BOE y los Boletines Oficiales de las CCAA afectadas.",
+      "Se publicarán en el BOE, con los votos particulares si los hubiere."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "El Tribunal Constitucional, como intérprete supremo de la Constitución:",
+    "answer": "Es independiente de los demás órganos constitucionales y está sometido sólo a la Constitución y a su propia Ley Orgánica.",
+    "options": [
+      "Es independiente de los demás órganos constitucionales y está sometido sólo a la Constitución y a su propia Ley Orgánica.",
+      "Es independiente de los demás órganos del Estado y está sometido sólo a la Constitución y a la ley que lo regula.",
+      "Es independiente de los demás órganos del Estado y está sometido a la Constitución y a las leyes.",
+      "Es independiente de los demás órganos del Estado y está sometido a la Constitución y al imperio de la ley."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "El Tribunal en Pleno, elige de entre sus miembros:",
+    "answer": "Por votación secreta a su Presidente, y propone al Rey su nombramiento.",
+    "options": [
+      "Por votación secreta a su Presidente, y propone al Presidente del Gobierno su nombramiento.",
+      "Por votación pública a su Presidente, y propone al Presidente del Gobierno su nombramiento.",
+      "Por votación pública a su Presidente, y propone al Rey del Gobierno su nombramiento.",
+      "Por votación secreta a su Presidente, y propone al Rey su nombramiento."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "La sentencia del Tribunal Constitucional, en el caso del recurso de inconstitucionalidad:",
+    "answer": "Se dictará en el plazo de 10 días, salvo ampliación de plazo por un máximo de 30 días.",
+    "options": [
+      "Se dictará en el plazo de 15 días, salvo ampliación de plazo por un máximo de 30 días.",
+      "Se dictará en el plazo de 5 días, salvo ampliación de plazo por un máximo de 30 días.",
+      "Se dictará en el plazo de 10 días, salvo ampliación de plazo por un máximo de 30 días.",
+      "Se dictará en el plazo de 2 meses, salvo ampliación a 3 meses."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "La cuestión de inconstitucionalidad sólo podrá plantearse:",
+    "answer": "Una vez concluso el procedimiento y dentro del plazo para dictar sentencia.",
+    "options": [
+      "Cuando la sentencia judicial sea firma.",
+      "Cuando las partes lo soliciten en período de prueba.",
+      "Siempre que el proceso no esté concluso y antes de dictar sentencia.",
+      "Una vez concluso el procedimiento y dentro del plazo para dictar sentencia."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "La condición de miembro del Tribunal Constitucional es incompatible:",
+    "answer": "Con el ejercicio de las carrera Judicial y Fiscal y con cualquier actividad profesional o mercantil.",
+    "options": [
+      "Las tres afirmaciones anteriores son correctas.",
+      "Con el ejercicio de las carrera Judicial y Fiscal y con cualquier actividad profesional o mercantil.",
+      "Con todo mandato imperativo y con los cargos político y administrativos.",
+      "Con el desempeño de funciones en un partido político o en un sindicato y con el empleo al servicio de los mismos."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Los conflictos en defensa de la Autonomía Local:",
+    "answer": "Fueron introducidos en la LOTC, mediante LO 7/1999, de 21 de abril.",
+    "options": [
+      "Fueron introducidos en la LOTC, mediante LO 7/1999, de 21 de abril.",
+      "Figuraban en la redacción originaria de la LOTC 2/1979, de 3 de octubre.",
+      "Fueron introducidos en la LOTC, mediante la LO 7/ 1989, de 21 de abril.",
+      "Fueron introducidos en la LOTC, mediante LO 7/2000, de 21 de abril."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Podrán dar lugar al planteamiento de los conflictos en defensa de la Autonomía Local:",
+    "answer": "Las normas del Estado con rango de ley o las disposiciones con rango de ley de las CCAA que lesionen la autonomía local constitucionalmente garantizada.",
+    "options": [
+      "Las normas del Estado con rango reglamentario que lesionen la autonomía local constitucionalmente garantizada, pero no las de las CCAA.",
+      "Las normas del Estado con rango reglamentario o las disposiciones del mismo rango de las CCAA que lesionen la autonomía local constitucionalmente garantizada.",
+      "Las normas del Estado con rango de ley que lesionen la autonomía local constitucionalmente garantizada, pero no las de las CCAA.",
+      "Las normas del Estado con rango de ley o las disposiciones con rango de ley de las CCAA que lesionen la autonomía local constitucionalmente garantizada."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "La sentencia del recurso de amparo constitucional contendrá alguno de los siguientes pronunciamientos:",
+    "answer": "Otorgamiento del amparo o denegación del amparo.",
+    "options": [
+      "Afirmación del amparo o negación del amparo.",
+      "Estimación del amparo o desestimación del amparo.",
+      "Otorgamiento del amparo o desestimación del amparo.",
+      "Otorgamiento del amparo o denegación del amparo."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Preside la Sala Primera del TC:",
+    "answer": "El Presidente, y en su defecto el magistrado de mayor antigüedad.",
+    "options": [
+      "El Vicepresidente, y en su defecto el magistrado de mayor antigüedad.",
+      "El Presidente, y en su defecto el vicepresidente.",
+      "El Presidente, y en su defecto el magistrado de mayor edad.",
+      "El Presidente, y en su defecto el magistrado de mayor antigüedad."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "La elección del Presidente del TC requiere, en primera votación, mayoría:",
+    "answer": "Absoluta.",
+    "options": [
+      "Absoluta.",
+      "Simple.",
+      "De 3/5.",
+      "De 2/3."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "El Presidente del TC puede ser reelegido:",
+    "answer": "Una vez",
+    "options": [
+      "Tres veces",
+      "Dos veces",
+      "Una vez",
+      "La LOTC nada indica al respecto"
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "¿Cuál de estas afirmaciones en relación con el Tribunal Constitucional es falsa?:",
+    "answer": "En el plazo de 3 días desde la notificación de la sentencia, las partes podrán solicitar la aclaración de la misma.",
+    "options": [
+      "En el plazo de 3 días desde la notificación de la sentencia, las partes podrán solicitar la aclaración de la misma.",
+      "El quórum para la adopción de acuerdos es de 2/3 de los miembros que lo componen.",
+      "El procedimiento ante este Tribunal es gratuito, salvo que se aprecie temeridad o mala fe, en cuyo caso podrá condenarse en costas.",
+      "Apreciará de oficio o a instancia de parte su falta de jurisdicción o competencia."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "El recurso de inconstitucionalidad es conocido por:",
+    "answer": "El Pleno, excepto en los de mera aplicación de doctrina, que podrán atribuirse a las Salas.",
+    "options": [
+      "Las Salas, excepto en los de mera aplicación de doctrina, que serán competencia del Pleno.",
+      "El Pleno.",
+      "Las Salas.",
+      "El Pleno, excepto en los de mera aplicación de doctrina, que podrán atribuirse a las Salas."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "De los doce Magistrados del TC, el Senado debe proponer:",
+    "answer": "4 entre los candidatos propuestos por las Asambleas Legislativas de las Comunidades Autónomas.",
+    "options": [
+      "2 entre los candidatos propuestos por la Comisión General de Comunidades Autónomas del Senado.",
+      "2 entre los candidatos propuestos por las Asambleas Legislativas de las Comunidades Autónomas.",
+      "4 entre los candidatos propuestos por las Asambleas Legislativas de las Comunidades Autónomas.",
+      "4 entre los candidatos propuestos por la Comisión General de Comunidades Autónomas del Senado."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "En el supuesto de conflictos de competencias, el previo requerimiento es:",
+    "answer": "Obligatorio para las CCAA y potestativo para el Estado.",
+    "options": [
+      "Obligatorio para las CCAA y potestativo para el Estado.",
+      "Obligatorio en todo caso.",
+      "Potestativo en todo caso.",
+      "Obligatorio para el Estado y potestativo para las CCAA."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "El plazo para efectuar el previo requerimiento al que se refiere la pregunta anterior es de:",
+    "answer": "2 meses.",
+    "options": [
+      "15 días hábiles.",
+      "20 días hábiles.",
+      "1 mes.",
+      "2 meses."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "¿Qué plazo prevé la Ley Orgánica 2/1979, de 3 de octubre del Tribunal Constitucional para el planteamiento del recurso de amparo cuando la vulneración de los derechos objeto del mismo procede de decisiones o actos sin valor de ley de las Cortes Generales o cualquiera de sus órganos o de las Asambleas Legislativas de la Comunidades Autónomas o sus órganos?:",
+    "answer": "3 meses desde que con arreglo a sus normas internas sean firmes.",
+    "options": [
+      "30 días desde que con arreglo a sus normas internas sean firmes.",
+      "3 meses desde que con arreglo a sus normas internas sean firmes.",
+      "20 días desde la notificación del acto o decisión.",
+      "1 mes desde la notificación del acto o decisión."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Los miembros del Tribunal Constitucional elegidos a propuesta del Congreso y del Senado son:",
+    "answer": "8 elegidos por mayoría de 3/5.",
+    "options": [
+      "8 elegidos por mayoría de 3/5.",
+      "10 elegidos por mayoría de 3/5.",
+      "8 elegidos por mayoría de 2/3.",
+      "10 elegidos por mayoría de 2/3."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "De las siguientes competencias del Tribunal Constitucional, ¿cuál de ellas corresponde a las Salas?:",
+    "answer": "Recurso de amparo.",
+    "options": [
+      "Conflictos entre órganos constitucionales del estado.",
+      "Recurso previo de inconstitucionalidad.",
+      "Recurso de inconstitucionalidad.",
+      "Recurso de amparo."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "El requerimiento ante el Tribunal Constitucional para que se pronuncie sobre la existencia o inexistencia de contradicción entre la Constitución y las estipulaciones de un Tratado internacional, podrá hacerla:",
+    "answer": "El Gobierno o cualquiera de las Cámaras.",
+    "options": [
+      "El gobierno exclusivamente.",
+      "El Gobierno o cualquiera de las Cámaras.",
+      "El Gobierno o el Congreso, exclusivamente.",
+      "El Congreso o el Senado, exclusivamente."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Entre los legitimados para interponer el recurso previo de inconstitucionalidad se encuentra:",
+    "answer": "El Presidente del Gobierno",
+    "options": [
+      "La persona directamente afectada",
+      "El Presidente del Gobierno",
+      "El Ministerio Fiscal",
+      "El Consejo General del Poder Judicial."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "El Tribunal Constitucional consta de dos Salas. Señale la respuesta correcta:",
+    "answer": "El Presidente del Tribunal lo es también de la Sala Primera, que presidirá en su defecto, el Magistrado más antiguo y, en caso de igual antigüedad, el de mayor edad.",
+    "options": [
+      "El Presidente del Tribunal lo es también de la Sala Primera, que presidirá en su defecto, el Magistrado más antiguo y, en caso de igual antigüedad, el de mayor edad.",
+      "El Presidente del Tribunal lo es también de la Sala Primera, que presidirá en su defecto, el Magistrado de mayor edad y, en caso de igual edad, el más antiguo.",
+      "El Presidente del Tribunal lo es también de la Sala Segunda, que presidirá en su defecto, el Magistrado más antiguo y, en caso de igual antigüedad, el de mayor edad.",
+      "El Presidente del Tribunal lo es también de la Sala Segunda, que presidirá en su defecto, el Magistrado de mayor edad y, en caso de igual edad, el más antiguo."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Señale la respuesta correcta:",
+    "answer": "La admisión de un recurso o de una cuestión de inconstitucionalidad no suspenderá la vigencia ni la aplicación de la Ley, de la disposición normativa o del acto con fuerza de Ley, excepto en el caso en que el Gobierno se ampare en lo dispuesto por el artículo ciento sesenta y uno, dos, de la Constitución para impugnar, por medio de su Presidente, Leyes, disposiciones normativas o actos con fuerza de Ley de las Comunidades Autónomas.",
+    "options": [
+      "La admisión de un recurso o de una cuestión de inconstitucionalidad no suspenderá la vigencia ni la aplicación de la Ley, de la disposición normativa o del acto con fuerza de Ley, excepto en el caso en que el Gobierno se ampare en lo dispuesto por el artículo ciento sesenta y uno, dos, de la Constitución para impugnar, por medio de su Presidente, Leyes, disposiciones normativas o actos con fuerza de Ley de las Comunidades Autónomas.",
+      "La admisión de un recurso o de una cuestión de inconstitucionalidad suspenderá la vigencia y la aplicación de la Ley, de la disposición normativa o del acto con fuerza de Ley, excepto en el caso en que el Gobierno se ampare en lo dispuesto por el artículo ciento sesenta y uno, dos, de la Constitución para impugnar, por medio de su Presidente, Leyes, disposiciones normativas o actos con fuerza de Ley de las Comunidades Autónomas.",
+      "La admisión de un recurso o de una cuestión de inconstitucionalidad no suspenderá la vigencia ni la aplicación de la Ley, de la disposición normativa o del acto con fuerza de Ley, excepto en el caso en que el Congreso se ampare en lo dispuesto por el artículo ciento sesenta y uno, dos, de la Constitución para impugnar, por medio de su Presidente, Leyes, disposiciones normativas o actos con fuerza de Ley de las Comunidades Autónomas.",
+      "La admisión de un recurso o de una cuestión de inconstitucionalidad suspenderá la vigencia y la aplicación de la Ley, de la disposición normativa o del acto con fuerza de Ley, excepto en el caso en que el Congreso se ampare en lo dispuesto por el artículo ciento sesenta y uno, dos, de la Constitución para impugnar, por medio de su Presidente, Leyes, disposiciones normativas o actos con fuerza de Ley de las Comunidades Autónomas."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Los Magistrados del Tribunal Constitucional serán nombrados por el Rey, a propuesta de:",
+    "answer": "las Cámaras, del Gobierno y del Consejo General del Poder Judicial.",
+    "options": [
+      "las Cámaras, del Gobierno y del Tribunal Supremo.",
+      "las Cámaras y del Consejo General del Poder Judicial.",
+      "las Cámaras y del Gobierno.",
+      "las Cámaras, del Gobierno y del Consejo General del Poder Judicial."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "El Ministerio Fiscal está legitimado para plantear ante el Tribunal Constitucional:",
+    "answer": "El recurso de amparo.",
+    "options": [
+      "El recurso de amparo.",
+      "El recurso de inconstitucionalidad y el recurso de amparo.",
+      "El recurso de inconstitucionalidad y el recurso previo de inconstitucionalidad.",
+      "El recurso de amparo, el recurso de inconstitucionalidad y el recurso previo de inconstitucionalidad."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Señale la respuesta correcta en relación con lo dispuesto en el artículo 163 CE:",
+    "answer": "Cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en ningún caso serán suspensivos.",
+    "options": [
+      "Cuando un órgano judicial considere, en algún proceso, que una norma sin rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en ningún caso serán suspensivos.",
+      "Cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en todo caso serán suspensivos.",
+      "Cuando un órgano judicial considere, en algún proceso, que una norma sin rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en todo caso serán suspensivos.",
+      "Cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en ningún caso serán suspensivos."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Las Sentencias del Tribunal Constitucional, de conformidad con el artículo 164 CE:",
+    "answer": "Tienen el valor de cosa juzgada a partir del día siguiente de su publicación y contra las mismas no cabe recurso alguno.",
+    "options": [
+      "Tienen el valor de cosa juzgada a partir del día siguiente de su publicación y contra las mismas cabe recurso de súplica.",
+      "Tienen el valor de cosa juzgada desde el mismo día de su publicación y contra las mismas no cabe recurso alguno.",
+      "Tienen el valor de cosa juzgada desde el mismo día de su publicación y contra las mismas cabe recurso de súplica.",
+      "Tienen el valor de cosa juzgada a partir del día siguiente de su publicación y contra las mismas no cabe recurso alguno."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos:",
+    "answer": "cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial.",
+    "options": [
+      "cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial.",
+      "cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Tribunal Supremo.",
+      "cuatro a propuesta del Congreso por mayoría de dos tercios de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial.",
+      "cuatro a propuesta del Congreso por mayoría de dos tercios de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Tribunal Supremo."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "El Tribunal Constitucional consta de dos Salas. Cada Sala está compuesta por:",
+    "answer": "seis Magistrados nombrados por el Tribunal en Pleno.",
+    "options": [
+      "seis Magistrados nombrados por el Tribunal en Pleno.",
+      "seis Magistrados nombrados por el Presidente del Tribunal.",
+      "ocho Magistrados nombrados por el Tribunal en Pleno.",
+      "ocho Magistrados nombrados por el Presidente del Tribunal"
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "El Tribunal Constitucional entenderá de los conflictos en defensa de la autonomía local que planteen:",
+    "answer": "los municipios y provincias frente al Estado o a una Comunidad Autónoma.",
+    "options": [
+      "los municipios, provincias y entes de ámbito territorial inferior al municipio frente al Estado o a una Comunidad Autónoma.",
+      "los municipios y provincias frente al Estado.",
+      "los municipios y provincias frente al Estado o a una Comunidad Autónoma.",
+      "los municipios, provincias y entes de ámbito territorial inferior al municipio frente al Estado."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Los conflictos de competencia que opongan al Estado con una Comunidad Autónoma o a éstas entre sí, podrán ser suscitados por:",
+    "answer": "el Gobierno o por los órganos colegiados ejecutivos de las Comunidades Autónomas.",
+    "options": [
+      "el Presidente del Gobierno o por los órganos colegiados ejecutivos de las Comunidades Autónomas.",
+      "el Gobierno o por los órganos colegiados ejecutivos de las Comunidades Autónomas.",
+      "las Cortes Generales o por las asambleas legislativas de las Comunidades Autónomas.",
+      "el Congreso o por las asambleas legislativas de las Comunidades Autónomas."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Señale la respuesta correcta en relación con el control previo de constitucionalidad de los Tratados Internacionales:",
+    "answer": "El Gobierno o cualquiera de ambas Cámaras podrán requerir al Tribunal Constitucional para que se pronuncie sobre la existencia o inexistencia de contradicción entre la Constitución y las estipulaciones de un tratado internacional cuyo texto estuviera ya definitivamente fijado, pero al que no se hubiere prestado aún el consentimiento del Estado.",
+    "options": [
+      "El Gobierno o cualquiera de ambas Cámaras podrán requerir al Tribunal Constitucional para que se pronuncie sobre la existencia o inexistencia de contradicción entre la Constitución y las estipulaciones de un tratado internacional cuyo texto estuviera ya definitivamente fijado, una vez prestado el consentimiento del Estado.",
+      "El Gobierno o el Congreso de los Diputados podrán requerir al Tribunal Constitucional para que se pronuncie sobre la existencia o inexistencia de contradicción entre la Constitución y las estipulaciones de un tratado internacional cuyo texto estuviera ya definitivamente fijado, una vez prestado el consentimiento del Estado.",
+      "El Gobierno o cualquiera de ambas Cámaras podrán requerir al Tribunal Constitucional para que se pronuncie sobre la existencia o inexistencia de contradicción entre la Constitución y las estipulaciones de un tratado internacional cuyo texto estuviera ya definitivamente fijado, pero al que no se hubiere prestado aún el consentimiento del Estado.",
+      "El Gobierno o el Congreso de los Diputados podrán requerir al Tribunal Constitucional para que se pronuncie sobre la existencia o inexistencia de contradicción entre la Constitución y las estipulaciones de un tratado internacional cuyo texto estuviera ya definitivamente fijado, pero al que no se hubiere prestado aún el consentimiento del Estado."
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Para iniciar la tramitación de los conflictos en defensa de la autonomía local será necesario el acuerdo del órgano plenario de las Corporaciones Locales con el voto favorable de:",
+    "answer": "La mayoría absoluta del número legal de miembros de las mismas",
+    "options": [
+      "La mayoría de tres quintos de sus miembros",
+      "La mayoría de dos tercios de sus miembros",
+      "La mayoría simple de los miembros presentes",
+      "La mayoría absoluta del número legal de miembros de las mismas"
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Señale la respuesta correcta acerca del recurso de amparo:",
+    "answer": "Entre los legitimados para su interposición se encuentra el Defensor del Pueblo",
+    "options": [
+      "Protege a los ciudadanos frente a las violaciones de los derechos previstos en los artículo 14 a 30 de la Constitución",
+      "Entre los legitimados para su interposición se encuentra el Defensor del Pueblo",
+      "Su conocimiento se atribuye al Pleno, salvo los de mera aplicación de doctrina cuyo conocimiento podrá atribuirse a las Salas en el trámite de admisión",
+      "El plazo para su interposición será de seis meses desde la publicación de la norma o desde que se tenga conocimiento de ella"
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "La admisión del recurso de inconstitucionalidad contra una Ley:",
+    "answer": "Suspenderá su aplicación y vigencia si el Gobierno de la nación se ampara en lo dispuesto en el artículo 161.2 de la Constitución",
+    "options": [
+      "Suspende, en todo caso, su aplicación y vigencia",
+      "Suspenderá su aplicación y vigencia si el Gobierno de la nación se ampara en lo dispuesto en el artículo 161.2 de la Constitución",
+      "Suspenderá su aplicación y vigencia si el Gobierno de la nación y los órganos colegiados ejecutivos de las Comunidades Autónomas se amparan en lo dispuesto en el artículo 161.2 de la Constitución",
+      "En ningún caso suspende su aplicación y vigencia"
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "El recurso previo de inconstitucionalidad deberá ser resuelto por el Tribunal Constitucional en el plazo improrrogable de:",
+    "answer": "Seis meses desde su interposición",
+    "options": [
+      "Seis meses desde su interposición",
+      "Tres meses desde su interposición",
+      "Tres meses desde la publicación del texto en el Boletín de las CCGG",
+      "Seis meses desde la publicación del texto en el Boletín de las CCGG"
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "Las decisiones de inadmisión inicial, desistimiento y caducidad, salvo que la LOTC disponga expresamente otra forma, adoptarán la forma de:",
+    "answer": "Autos",
+    "options": [
+      "Autos",
+      "Sentencias",
+      "Providencias",
+      "Declaraciones"
+    ],
+    "subject": "OE",
+    "topic": 3
+  },
+  {
+    "question": "En el presupuesto por programas, la determinación del conjunto de los objetivos a alcanzar se encuadraría dentro de la etapa de:",
+    "answer": "Planificación.",
+    "options": [
+      "Planificación.",
+      "Control.",
+      "Ejecución.",
+      "Programación."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "¿En qué se fundamenta el presupuesto clásico?",
+    "answer": "En la liberalización económica y la ideología liberal.",
+    "options": [
+      "En la economía social y de mercado.",
+      "En la liberalización económica y la ideología liberal.",
+      "En la intervención económica.",
+      "En la expansión del gasto público."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "El presupuesto está formalmente equilibrado, consecuencia de:",
+    "answer": "Un equilibrio contable.",
+    "options": [
+      "Un equilibrio económico.",
+      "Un equilibrio económico-financiero.",
+      "Un equilibrio financiero.",
+      "Un equilibrio contable."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "El abandono del presupuesto clásico se debe a:",
+    "answer": "La crisis de las teorías de liberalización económica y la ideología liberal.",
+    "options": [
+      "La contracción del gasto público.",
+      "La limitación de la demanda.",
+      "A la no intervención económica.",
+      "La crisis de las teorías de liberalización económica y la ideología liberal."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "¿Cuál es una fase del presupuesto por programas?",
+    "answer": "Programación.",
+    "options": [
+      "Ordenación de paquetes de decisión.",
+      "Identificación de las unidades de decisión.",
+      "Análisis de los paquetes de decisión.",
+      "Programación."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "No es una fórmula presupuestaria de estabilización económica:",
+    "answer": "El presupuesto de las cuentas de renta nacional.",
+    "options": [
+      "El presupuesto de las cuentas de renta nacional.",
+      "El presupuesto compensatorio.",
+      "El presupuesto cíclico.",
+      "El presupuesto de estabilización automática."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "¿Cuál es el presupuesto que no admite como válido el nivel de gasto de años anteriores?",
+    "answer": "Presupuesto en base cero.",
+    "options": [
+      "Presupuesto de ejecución o por tareas.",
+      "Presupuesto por programas.",
+      "Presupuesto en base cero.",
+      "Presupuesto cíclico."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "El presupuesto que expone los programas de acción de cada unidad administrativa, indicando la dotación en unidades monetarias de los recursos humanos y materiales que cada una precisa, así como los indicadores de los medios físicos sobre los que actúa y los indicadores de resultado, se denomina:",
+    "answer": "Presupuesto por programas.",
+    "options": [
+      "Presupuesto en base cero.",
+      "Presupuesto de ejecución o por tareas.",
+      "Presupuesto cíclico.",
+      "Presupuesto por programas."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "En el presupuesto clásico NO es un principio económico:",
+    "answer": "Principio de presupuesto bruto.",
+    "options": [
+      "Principio de presupuesto bruto.",
+      "Deuda pública autoliquidable.",
+      "Neutralidad impositiva.",
+      "Equilibrio presupuestario."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "El principio del presupuesto clásico por que se establece que el presupuesto debe recoger la totalidad de gastos e ingresos del Estado, se corresponde con el principio de:",
+    "answer": "Universalidad.",
+    "options": [
+      "No afectación.",
+      "Universalidad.",
+      "Especialidad.",
+      "Unidad."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "Según el principio de Deuda pública autoliquidable para los seguidores de la teoría presupuestaria clásica:",
+    "answer": "Solo se justifica la emisión de deuda pública cuando con el producto obtenido por la inversión de la deuda se satisfacen los intereses correspondientes y la amortización del principal.",
+    "options": [
+      "Los ingresos ordinarios deben ser suficientes para financiar los gastos ordinarios, evitando el recurso al endeudamiento público.",
+      "No se justifica la emisión de deuda pública.",
+      "Solo se justifica la emisión de deuda pública cuando con el producto obtenido por la inversión de la deuda se satisfacen la amortización del principal.",
+      "Solo se justifica la emisión de deuda pública cuando con el producto obtenido por la inversión de la deuda se satisfacen los intereses correspondientes y la amortización del principal."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "Son fases del presupuesto por programas:",
+    "answer": "Planificación, programación, presupuestación y control.",
+    "options": [
+      "Elaboración, aprobación, ejecución y control.",
+      "Planificación, programación, presupuestación y control.",
+      "Planificación, presupuestación, ejecución y control.",
+      "Programación, presupuestación, ejecución y control."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "La fase del Presupuesto por programas por la que se traduce en términos físicos y monetarios el conjunto de programas , se corresponde con:",
+    "answer": "Presupuestación.",
+    "options": [
+      "Presupuestación.",
+      "Programación.",
+      "Planificación.",
+      "Control."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "Respecto a los ingresos, el presupuesto es un/una:",
+    "answer": "Cálculo aproximado.",
+    "options": [
+      "Límite cualitativo.",
+      "Límite cuantitativo.",
+      "Autorización.",
+      "Cálculo aproximado."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "Cuando se dice que solo se pueden contraer gastos hasta el importe que figura en el Presupuesto, nos estamos refiriendo al:",
+    "answer": "Principio de especialidad cuantitativa.",
+    "options": [
+      "Principio de especialidad cualitativa.",
+      "Principio de exactitud.",
+      "Principio de especialidad cuantitativa.",
+      "Principio de especialidad temporal."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "La regla de oro del presupuesto clásico es:",
+    "answer": "El equilibrio presupuestario anual.",
+    "options": [
+      "El desequilibrio contable autofinanciable.",
+      "El desequilibrio económico anual.",
+      "El equilibrio contable anual.",
+      "El equilibrio presupuestario anual."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "Cuando en el presupuesto clásico se hace referencia a la necesidad de que los gastos y los ingresos se imputen al presupuesto por su importe íntegro, sin minoraciones o descuentos por costes de recaudación o de cualquier otra naturaleza, nos estamos refiriendo al principio:",
+    "answer": "Presupuesto bruto.",
+    "options": [
+      "Presupuesto bruto.",
+      "Especialidad.",
+      "Presupuesto cerrado.",
+      "Universalidad."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "Dentro del presupuesto en base cero, el nivel que permite realizar las actividades del año anterior sin cambios importantes, se denomina:",
+    "answer": "Nivel corriente.",
+    "options": [
+      "Nivel corriente.",
+      "Nivel óptimo.",
+      "Nivel mínimo.",
+      "Nivel de mejora."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "Como la expresión contable del plan económico de la Hacienda Pública para un periodo de tiempo determinado se conoce al:",
+    "answer": "Presupuesto.",
+    "options": [
+      "Presupuesto.",
+      "Presupuesto cíclico.",
+      "Presupuesto base cero.",
+      "Ciclo presupuestario."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "¿Quiénes propugnan que el gasto público debe ser mínimo y solo atender aquellos gastos públicos imprescindibles?:",
+    "answer": "Los economistas clásicos.",
+    "options": [
+      "Los economistas de presupuesto compensatorio.",
+      "Los economistas keynesianos.",
+      "Los economistas clásicos.",
+      "Los economistas del presupuesto funcional."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "¿Cuál de los siguientes principios no se aplica actualmente al presupuesto?",
+    "answer": "Deuda pública autoliquidable.",
+    "options": [
+      "Deuda pública autoliquidable.",
+      "Universalidad.",
+      "Especialidad.",
+      "Unidad."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "La norma jurídica que reviste la aprobación del presupuesto será la de:",
+    "answer": "Ley.",
+    "options": [
+      "Real Decreto.",
+      "Ley orgánica.",
+      "Decreto Ley.",
+      "Ley."
+    ],
+    "subject": "GF",
+    "topic": 1.1
+  },
+  {
+    "question": "El ejercicio presupuestario coincidirá con el año natural y a él se imputarán:",
+    "answer": "Los derechos liquidados durante el mismo cualquiera que sea el periodo de que se\nderiven.",
+    "options": [
+      "Las obligaciones reconocidas hasta el fin del ejercicio.",
+      "Los derechos liquidados durante el mismo cualquiera que sea el periodo de que se\nderiven.",
+      "Los derechos liquidados hasta el fin del mes diciembre, exclusivamente.",
+      "Las obligaciones reconocidas hasta el fin del mes de enero siguiente."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "De conformidad con la Ley 47/2003, de 26 de noviembre, General Presupuestaria, el\ncontrol externo del sector público estatal, corresponderá:",
+    "answer": "Al Tribunal de Cuentas.",
+    "options": [
+      "Al Tribunal de Cuentas.",
+      "Al Tribunal Económico Administrativo Central.",
+      "Al Ministro de Hacienda.",
+      "A la Intervención General de la Administración General del Estado."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "Los créditos presupuestarios de la Administración General del Estado, sus organismos\nautónomos y de las entidades integrantes del sector público estatal con presupuesto\nlimitativo para gastos, se destinarán exclusivamente a la finalidad para la que hayan sido\nautorizados por:",
+    "answer": "La Ley de Presupuestos y las modificaciones presupuestarias realizadas conforme a esta",
+    "options": [
+      "La Ley de Presupuestos y las modificaciones presupuestarias realizadas conforme a esta",
+      "La Ley de Presupuestos.",
+      "Las modificaciones presupuestarias aprobadas conforme a esta Ley.",
+      "La Ley de Presupuestos y las modificaciones presupuestarias aprobadas con rango de Ley."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "Es función del Tesoro Público:",
+    "answer": "Servir el principio de unidad de caja mediante la centralización de todos los fondos y\nvalores generados por operaciones presupuestarias y no presupuestarias.",
+    "options": [
+      "Servir el principio de unidad de caja mediante la centralización de todos los fondos y\nvalores generados exclusivamente por operaciones presupuestarias.",
+      "Servir el principio de unidad presupuestaria mediante la centralización de todos los\nfondos y valores generados por operaciones presupuestarias y extrapresupuestarias.",
+      "Servir el principio de unidad patrimonial mediante la centralización de todos los fondos\ny valores generados por no presupuestarias.",
+      "Servir el principio de unidad de caja mediante la centralización de todos los fondos y\nvalores generados por operaciones presupuestarias y no presupuestarias."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "La Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad\nFinanciera:",
+    "answer": "Fija los procedimientos necesarios para la aplicación efectiva de los principios de\nestabilidad presupuestaria y de sostenibilidad financiera.",
+    "options": [
+      "Establece los límites de morosidad de la deuda comercial.",
+      "Fija los procedimientos necesarios para la aplicación efectiva de los principios de\nestabilidad presupuestaria y de sostenibilidad financiera.",
+      "Establece unos principios, sin carácter vinculante, que orientan la actuación de las\nAdministraciones Públicas.",
+      "Determina los límites de déficit y deuda sin que en ningún caso se puedan sobrepasar."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "¿Cuál de los siguientes principios NO es un principio recogido en la Ley Orgánica 2/2012,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera?",
+    "answer": "Anualidad.",
+    "options": [
+      "Anualidad.",
+      "Transparencia.",
+      "Responsabilidad.",
+      "Lealtad institucional."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "El Estado y CC.AA. podrán incurrir en déficit estructural:",
+    "answer": "En caso de catástrofe natural.",
+    "options": [
+      "En ningún caso.",
+      "En caso de catástrofe natural.",
+      "Pueden sobrepasarse en caso de situación de urgencia.",
+      "En épocas de crisis."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "El volumen de deuda pública no podrá superar el 60 % del PIB nacional con la siguiente\ndistribución:",
+    "answer": "La Administración Central (44%), las Comunidades Autónomas (13%) y las\nCorporaciones Locales (3%).",
+    "options": [
+      "La Administración Central (44%), las Comunidades Autónomas (13%) y las\nCorporaciones Locales (3%).",
+      "La Administración Central (25%), las Comunidades Autónomas (25%) y las\nCorporaciones Locales (10%).",
+      "La Administración Central y las Comunidades Autónomas a parte iguales.",
+      "La Administración Central (40%), las Comunidades Autónomas (15%) y las\nCorporaciones Locales (5%)."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "La Ley Orgánica 2/212, de Estabilidad Presupuestaria y Sostenibilidad Financiera\nestablece que:",
+    "answer": "La variación del gasto computable no podrá superar la tasa de referencia de crecimiento\ndel PIB a medio plazo de la economía española.",
+    "options": [
+      "En el primer semestre de cada año el Gobierno fijará el objetivo de estabilidad\npresupuestaria exclusivamente para el año siguiente.",
+      "El Estado responderá y asumirá los compromisos de las Comunidades Autónomas.",
+      "El límite de deuda pública de cada una de las Comunidades Autónomas no podrá\nsuperar el 13 % del PIB Nacional.",
+      "La variación del gasto computable no podrá superar la tasa de referencia de crecimiento\ndel PIB a medio plazo de la economía española."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "No podrán adquirirse compromisos de gasto ni adquirirse obligaciones por cuantía\nsuperior al importe de los créditos autorizados en los estados de gastos, siendo nulos de\npleno derecho:",
+    "answer": "Los actos administrativos y las disposiciones generales con rango inferior a ley que\nincumplan esta limitación.",
+    "options": [
+      "Los actos administrativos y disposiciones generales con rango de ley que incumplan\nesta limitación.",
+      "Los actos administrativos y las disposiciones generales que incumplan esta limitación.",
+      "Las normas con rango de ley que incumplan esta limitación.",
+      "Los actos administrativos y las disposiciones generales con rango inferior a ley que\nincumplan esta limitación."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "De conformidad con la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria\ny Sostenibilidad Financiera, ¿a qué principio corresponde que las Administraciones Públicas suministren toda la información necesaria para el cumplimiento de las\ndisposiciones de dicha Ley o de las normas y acuerdos que se adopten en su desarrollo, y\ngaranticen la coherencia de las normas y procedimientos contables, así como la integridad\nde los sistemas de recopilación y tratamiento de datos?",
+    "answer": "Transparencia.",
+    "options": [
+      "Responsabilidad.",
+      "Transparencia.",
+      "Eficiencia en la asignación y utilización de los recursos públicos.",
+      "Lealtad institucional."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "La aplicación de la dotación del Fondo de Contingencia de los Presupuestos Generales del\nEstado requerirá:",
+    "answer": "Aprobación del Consejo de Ministros a propuesta del Ministro de Hacienda.",
+    "options": [
+      "Aprobación del Consejo de Ministros a propuesta del Ministro de Hacienda.",
+      "No precisa aprobación, ya que aparece establecida en la Ley Orgánica de Estabilidad\nPresupuestaria y Sostenibilidad Financiera.",
+      "Aprobación del Consejo de Ministros a propuesta del titular del departamento.",
+      "Aprobación del Congreso de los Diputados."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "El límite de deuda pública de cada comunidad autónoma no podrá superar:",
+    "answer": "El 13 % de su PIB regional.",
+    "options": [
+      "El 13 % del PIB nacional.",
+      "El 3 % del PIB nacional.",
+      "El 13 % de su PIB regional.",
+      "El 3 % de su PIB regional."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "Según el artículo 5 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, por el\nque se regulan los conceptos que integran la Hacienda Pública estatal, ésta estará\nconstituida por:",
+    "answer": "El conjunto de derechos y obligaciones de contenido económico cuya titularidad\ncorresponde a la Administración General del Estado y a sus organismos autónomos.",
+    "options": [
+      "Los ingresos y gastos del Estado.",
+      "Los ingresos tanto de derecho público como de derecho privado percibidos por el\nEstado.",
+      "El conjunto de derechos y obligaciones de contenido económico cuya titularidad\ncorresponde al Estado.",
+      "El conjunto de derechos y obligaciones de contenido económico cuya titularidad\ncorresponde a la Administración General del Estado y a sus organismos autónomos."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "La dotación del Fondo de Contingencia en los Presupuestos Generales del Estado:",
+    "answer": "Está incluido en la sección 35 del presupuesto de gastos del Estado, cuya cuantía es del\n2 % del total de gastos para operaciones no financieras, excluidos los destinados a\nfinanciar a las comunidades autónomas y entidades locales en aplicación de sus\nrespectivos sistemas de financiación.",
+    "options": [
+      "Está incluido en la sección 35 del presupuesto de gastos del Estado, cuya cuantía es del\n2 % del total de gastos para operaciones no financieras, excluidos los destinados a\nfinanciar a las comunidades autónomas y entidades locales en aplicación de sus\nrespectivos sistemas de financiación.",
+      "Está incluido en la sección 35 del presupuesto de gastos del Estado, cuya cuantía es del\n0,2 % del total de gastos para operaciones no financieras, excluidos los destinados a\nfinanciar a las comunidades autónomas y entidades locales en aplicación de sus\nrespectivos sistemas de financiación.",
+      "Está incluido en la sección 35 del presupuesto de gastos del Estado, cuya cuantía es del\n2 % del total de gastos para operaciones financieras, excluidos los destinados a financiar\na las comunidades autónomas y entidades locales en aplicación de sus respectivos\nsistemas de financiación.",
+      "Está incluido en la sección 35 del presupuesto de gastos del Estado, cuya cuantía es del\n0,2 % del total de gastos para operaciones financieras y no financieras, excluidos los\ndestinados a financiar a las comunidades autónomas y entidades locales en aplicación de\nsus respectivos sistemas de financiación."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "El pago de los intereses y el capital de la deuda de las Administraciones públicas gozará de\nprioridad absoluta:",
+    "answer": "Frente a cualquier otro gasto.",
+    "options": [
+      "Pero esta prioridad está supeditada a la satisfacción de otros gastos más prioritarios,\ncomo la sanidad o la educación.",
+      "Frente a cualquier otro gasto, excluidos los gastos financieros.",
+      "Solo cuando se establezca en el Marco Financiero Plurianual.",
+      "Frente a cualquier otro gasto."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "El volumen de deuda pública, definida de acuerdo con el Protocolo sobre Procedimiento\nde déficit excesivo, del conjunto de Administraciones Públicas no podrá superar:",
+    "answer": "El 60 por ciento del Producto Interior Bruto nacional expresado en términos nominales,\no el que se establezca por la normativa europea.",
+    "options": [
+      "El 60 por ciento del Producto Interior Bruto nacional expresado en términos nominales,\no el que se establezca por la normativa europea.",
+      "El 60 por ciento del Producto Interior Bruto nacional expresado en términos nominales.",
+      "El 50 por ciento del Producto Interior Bruto nacional expresado en términos nominales,\no el que se establezca por la normativa europea.",
+      "El 40 por ciento del Producto Interior Bruto nacional expresado en términos nominales,\no el que se establezca por la normativa europea."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "El sector Administraciones Públicas, según establece la LOEPySF, está formado por:",
+    "answer": "Administración central, las CCAA, las Corporaciones Locales y Administraciones de\nSeguridad Social.",
+    "options": [
+      "Administración central, las CCAA, las Corporaciones Locales y Administraciones de\nSeguridad Social.",
+      "Sector público empresarial estatal.",
+      "Administración central, Administraciones de Seguridad Social, Sector público\nempresarial y Fundacional.",
+      "y por el Sector público Administrativo estatal y Fundacional."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "Respecto de las Corporaciones Locales, la LOEPySF dispone que:",
+    "answer": "Deberán mantener una posición de equilibrio o superávit presupuestario.",
+    "options": [
+      "Deberán mantener una posición de equilibrio o superávit presupuestario.",
+      "Excepcionalmente, podrán incurrir en déficit estructural.",
+      "Excepcionalmente, podrán incurrir en déficit estructural cuando incurran en él el Estado\no las Comunidades Autónomas.",
+      "Deberán mantener una posición de superávit presupuestario."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "¿A quién corresponde calcular la tasa de referencia de crecimiento del Producto Interior\nBruto de medio plazo de la economía española?",
+    "answer": "Al Ministro de Economía, Comercio y Empresa.",
+    "options": [
+      "Al Ministro de Economía, Comercio y Empresa.",
+      "Al Ministro de Economía, Comercio y Empresa conjuntamente con el Ministro de\nHacienda.",
+      "Al Ministro de Hacienda.",
+      "Al Consejo de Ministros."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "De acuerdo con la LOEPySF, las administraciones que incurran en déficit estructural\ndebido a catástrofes naturales, recesión económica grave o situaciones de emergencia\nextraordinaria, deberán elaborar un:",
+    "answer": "Plan de reequilibrio.",
+    "options": [
+      "Plan económico-financiero.",
+      "Plan de equilibrio presupuestario.",
+      "Plan de reequilibrio.",
+      "Plan de estabilidad financiera."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "Respecto del artículo 135 de la Constitución Española, señale la respuesta correcta:",
+    "answer": "El volumen de la deuda pública del conjunto de las Administraciones Públicas en\nrelación con el Producto Interior Bruto del Estado no podrá superar el valor de\nreferencia establecido en el TFUE.",
+    "options": [
+      "El volumen de la deuda pública del conjunto de las Administraciones Públicas en\nrelación con el Producto Interior Bruto del Estado no podrá superar el valor de\nreferencia establecido en el TFUE.",
+      "Todas las Administraciones Públicas adecuarán sus actuaciones al principio de\nSostenibilidad Financiera.",
+      "Las entidades locales deberán presentar superávit presupuestario.",
+      "Una ley orgánica fijará el déficit estructural mínimo permitido al Estado y a las\ncomunidades autónomas, en relación con su producto interior bruto."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "En el supuesto de que la liquidación presupuestaria se sitúe en superávit, este se destinará:",
+    "answer": "En el Estado, Comunidades Autónomas y Corporaciones Locales a reducir su\nendeudamiento neto.",
+    "options": [
+      "En el Estado, Comunidades Autónomas y Corporaciones Locales a reducir su\nendeudamiento neto.",
+      "En el Estado y Comunidades Autónomas a reducir su volumen de deuda, mientras que\nen las Corporaciones Locales al fondo de reserva.",
+      "En el Estado y Comunidades Autónomas a incrementar el fondo de reserva.",
+      "En el Estado y comunidades autónomas a reducir su déficit."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "Según establece Ley 47/2003, de 26 de noviembre, General Presupuestaria, los recursos del\nEstado ¿pueden estar afectados para fines determinados?",
+    "answer": "Sí, cuando así establezca una ley.",
+    "options": [
+      "Sí, cuando así establezca una ley.",
+      "No, en ningún caso.",
+      "Si, cuando así lo decida el Gobierno.",
+      "No, salvo excepciones."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "¿Por cuál de los siguientes principios NO se rige la programación presupuestaria según el\nartículo 26 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria?",
+    "answer": "Coordinación.",
+    "options": [
+      "Coordinación.",
+      "Estabilidad presupuestaria.",
+      "Transparencia.",
+      "Eficiencia en la asignación y utilización de los recursos públicos."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "No integran los PGE, los presupuestos de:",
+    "answer": "Comunidades Autónomas.",
+    "options": [
+      "Administración General del Estado.",
+      "Organismos autónomos estatales.",
+      "Comunidades Autónomas.",
+      "Fundaciones del Sector Público Estatal."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "De acuerdo con la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y\nSostenibilidad Financiera, los ingresos que se obtengan por encima de lo previsto, se\ndestinarán a:",
+    "answer": "Íntegramente a reducir el nivel de deuda pública.",
+    "options": [
+      "Íntegramente a reducir el nivel de deuda pública.",
+      "Incrementar el Fondo de contingencia.",
+      "A reducir el nivel de deuda pública y el déficit público.",
+      "A financiar inversiones."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "¿A quién corresponde la competencia para formular las propuestas de objetivos de\nestabilidad presupuestaria y deuda pública para cada una de las Comunidades Autónomas\nsegún está establecido en el art. 16 de la Ley Orgánica 2/2012, de 27 de abril, de\nEstabilidad Presupuestaria y Sostenibilidad Financiera?",
+    "answer": "Al Ministerio de Hacienda, previo informe de la Autoridad Independiente de\nResponsabilidad Fiscal.",
+    "options": [
+      "Al Ministerio de Hacienda, previo informe de la Autoridad Independiente de\nResponsabilidad Fiscal.",
+      "Al Gobierno.",
+      "Al Ministerio de Hacienda.",
+      "la Autoridad Independiente de Responsabilidad Fiscal."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "Según establece Ley 47/2003, de 26 de noviembre, General Presupuestaria, la gestión del\nsector público estatal está sometida al régimen de presupuesto anual aprobado por:",
+    "answer": "Las Cortes Generales.",
+    "options": [
+      "El Ministro de Hacienda.",
+      "El Congreso de los Diputados.",
+      "Las Cortes Generales.",
+      "El Gobierno."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "Los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos:",
+    "answer": "Por su importe íntegro.",
+    "options": [
+      "Por su importe liquidado.",
+      "Por su importe exacto.",
+      "Por su importe bruto.",
+      "Por su importe íntegro."
+    ],
+    "subject": "GF",
+    "topic": 1.2
+  },
+  {
+    "question": "En relación con las fuentes del Derecho previstas en el artículo 1 del Código Civil, señale la respuesta correcta:",
+    "answer": "Las normas jurídicas contenidas en los tratados internacionales no serán de aplicación directa en España en tanto no hayan pasado a formar parte del ordenamiento interno mediante su publicación íntegra en el BOE.",
+    "options": [
+      "La costumbre solamente regirá en defecto de ley y de principios generales del derecho y tiene carácter informador del ordenamiento jurídico.",
+      "La jurisprudencia es fuente del ordenamiento jurídico español junto con la ley, la costumbre y los principios generales del derecho.",
+      "Los principios generales del derecho solo se aplicarán en defecto de costumbre siempre que no sean contrarios a la moral o al orden público.",
+      "Las normas jurídicas contenidas en los tratados internacionales no serán de aplicación directa en España en tanto no hayan pasado a formar parte del ordenamiento interno mediante su publicación íntegra en el BOE."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Señale cuál no es una fuente del Derecho Administrativo:",
+    "answer": "Los recursos administrativos.",
+    "options": [
+      "Los principios generales del Derecho.",
+      "El Real Decreto 203/2021, de 30 de marzo por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos.",
+      "La Ley de Expropiación Forzosa.",
+      "Los recursos administrativos."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "En virtud del artículo 2 del Código Civil, las leyes entrarán en vigor:",
+    "answer": "A los veinte días naturales desde su completa publicación en el BOE si en ellas no se dispone otra cosa.",
+    "options": [
+      "A los veinte días naturales desde su completa publicación en el BOE si en ellas no se dispone otra cosa.",
+      "En todo caso, desde el mismo día de su completa publicación en el BOE.",
+      "A los treinta días naturales desde su completa publicación en el BOE si en ellas no se dispone otra cosa.",
+      "A los veinte días hábiles desde su aprobación."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Señale la respuesta correcta:",
+    "answer": "Las leyes solo se derogan por otras posteriores.",
+    "options": [
+      "Las leyes tendrán siempre efecto retractivo mientras no dispongan lo contrario.",
+      "Las leyes solo se derogan por otras posteriores.",
+      "Las leyes no se pueden derogar una vez que forman parte del ordenamiento jurídico.",
+      "Por la simple derogación de una ley recobran vigencia las leyes anteriores que esta hubiera derogado."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Según el artículo 23 de la Ley del Gobierno, sin perjuicio de lo previsto en el artículo 2.1 del Código Civil:",
+    "answer": "Las leyes cuya aprobación o propuesta corresponda al Gobierno, y que impongan nuevas obligaciones a las personas físicas o jurídicas que desempeñen una actividad económica o profesional, preverán el comienzo de su vigencia el 2 de enero o el 1 de julio siguientes a su aprobación.",
+    "options": [
+      "Las leyes cuya aprobación o propuesta corresponda al Gobierno, y que impongan nuevas obligaciones a las personas físicas o jurídicas que desempeñen una actividad económica o profesional, preverán el comienzo de su vigencia el 1 de enero o el 2 de julio siguientes a su aprobación.",
+      "Las leyes cuya aprobación o propuesta corresponda al Gobierno, y que impongan nuevas obligaciones a las personas físicas o jurídicas que desempeñen una actividad económica o profesional, preverán el comienzo de su vigencia el 2 de enero o el 1 de julio siguientes a su aprobación.",
+      "Las leyes cuya aprobación o propuesta corresponda al Gobierno, y que impongan únicamente obligaciones a personas jurídicas que desempeñen una actividad económica, preverán el comienzo de su vigencia el 2 de enero o el 1 de julio siguientes a su aprobación.",
+      "Solo las leyes que impongan nuevas obligaciones a las personas físicas preverán el comienzo de su vigencia el 2 de enero o el 1 de julio siguientes a su aprobación."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Según lo previsto en el artículo 149.1.8 de la Constitución, señale la respuesta correcta:",
+    "answer": "El Estado tiene competencia exclusiva sobre la determinación de las fuentes del Derecho con respeto a las normas de derecho foral o especial.",
+    "options": [
+      "El Estado tiene competencia exclusiva sobre la determinación de las fuentes del Derecho sin necesidad de atender a lo previsto en las normas de derecho foral.",
+      "Las Comunidades Autónomas tienen competencia exclusiva sobre la determinación de las fuentes del Derecho.",
+      "El Estado no tiene competencias en materia de fuentes del derecho.",
+      "El Estado tiene competencia exclusiva sobre la determinación de las fuentes del Derecho con respeto a las normas de derecho foral o especial."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Se quiere reformar el artículo de la Constitución en el que se dispone: “todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada”. Señale la respuesta correcta:",
+    "answer": "Aprobada la reforma, será sometida a referéndum para su ratificación cuando así lo soliciten una décima parte de los miembros de cualquiera de las Cámaras.",
+    "options": [
+      "Aprobada la reforma, será sometida a referéndum para su ratificación cuando así lo soliciten una décima parte de los miembros de cualquiera de las Cámaras.",
+      "El proyecto de reforma constitucional deberá ser aprobado por mayoría absoluta del Congreso.",
+      "Se acudirá al procedimiento de reforma agravada previsto en el artículo 168 de la Constitución.",
+      "La reforma constitucional podrá ser promovida a través de una iniciativa legislativa popular si se presenta con no menos de 500.000 firmas acreditadas."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Tienen iniciativa para la reforma constitucional (señale la falsa):",
+    "answer": "El Tribunal Constitucional.",
+    "options": [
+      "El Tribunal Constitucional.",
+      "El Gobierno.",
+      "El Congreso y el Senado.",
+      "Las Asambleas Legislativas de las Comunidades Autónomas."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Según la Constitución, ¿cuál de los siguientes derechos y libertades son desarrollados por ley orgánica?",
+    "answer": "El derecho a sindicarse libremente.",
+    "options": [
+      "El derecho a sindicarse libremente.",
+      "El derecho a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios.",
+      "El derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo.",
+      "La libertad de empresa en el marco de la economía de mercado."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Las leyes orgánicas (señale la falsa):",
+    "answer": "Desarrollan los deberes, derechos y libertades previstos en el Título I de la Constitución.",
+    "options": [
+      "Desarrollan los deberes, derechos y libertades previstos en el Título I de la Constitución.",
+      "Requieren mayoría absoluta en el Congreso.",
+      "Aprueban los Estatutos de Autonomía.",
+      "Regulan el régimen electoral general."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Señale cuál de los siguientes no se regula por ley orgánica:",
+    "answer": "Presupuestos Generales del Estado.",
+    "options": [
+      "Defensor del Pueblo.",
+      "Las bases de la organización militar.",
+      "Las formas y requisitos de la iniciativa legislativa popular.",
+      "Presupuestos Generales del Estado."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "No se podrá delegar en las Comisiones Legislativas Permanentes, entre otras:",
+    "answer": "Las cuestiones internacionales y las leyes de bases.",
+    "options": [
+      "Las cuestiones internacionales y las leyes de bases.",
+      "La reforma constitucional y las leyes ordinarias.",
+      "Los Presupuestos Generales del Estado y las proposiciones de ley.",
+      "Las leyes orgánicas y las leyes tributarias."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Según el artículo 87 de CE, la iniciativa legislativa corresponde:",
+    "answer": "Gobierno, Congreso y Senado.",
+    "options": [
+      "Gobierno, Congreso y Senado.",
+      "Gobierno, Consejo General del Poder Judicial y Defensor del Pueblo.",
+      "Congreso, Senado y Gobiernos de las Comunidades Autónomas.",
+      "Congreso, Ministerio Fiscal y el Rey."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "El artículo 87 CE establece que las Asambleas de las Comunidades Autónomas:",
+    "answer": "Podrán solicitar del Gobierno la adopción de un proyecto de ley o remitir a la Mesa del Congreso una proposición de ley.",
+    "options": [
+      "No disponen de iniciativa legislativa propia.",
+      "Solo podrán solicitar del Gobierno la adopción de un proyecto de ley.",
+      "Podrán únicamente remitir a la Mesa del Senado una proposición de ley para su posterior tramitación.",
+      "Podrán solicitar del Gobierno la adopción de un proyecto de ley o remitir a la Mesa del Congreso una proposición de ley."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "En virtud del artículo 90.2 de la Constitución, ¿con qué plazo cuenta el Senado para enmendar un proyecto normativo aprobado por el Congreso?",
+    "answer": "Dos meses desde el día de la recepción del texto.",
+    "options": [
+      "Dos meses desde el día de la recepción del texto.",
+      "Un mes desde el día de la remisión del texto.",
+      "Tres meses desde el día de la recepción del texto.",
+      "Quince días desde el día de la aprobación del texto."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "El plazo que dispone el Senado para vetar el proyecto se reducirá a:",
+    "answer": "Veinte días naturales en los proyectos declarados urgentes por el Gobierno o el Congreso.",
+    "options": [
+      "Treinta días naturales en los proyectos declarados urgentes por mayoría absoluta del Senado.",
+      "Treinta días hábiles en los proyectos declarados urgentes por cualquiera de las Cámaras.",
+      "Veinte días hábiles en los proyectos declarados urgentes por el Gobierno o cualquiera de las Cámaras.",
+      "Veinte días naturales en los proyectos declarados urgentes por el Gobierno o el Congreso."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "El veto introducido por el Senado deberá ser aprobado por:",
+    "answer": "Mayoría absoluta.",
+    "options": [
+      "Mayoría simple.",
+      "Mayoría de 3/5.",
+      "Mayoría de 2/3.",
+      "Mayoría absoluta."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Según el artículo 91 de la Constitución, el Rey sancionará las leyes aprobadas por las Cortes Generales en el plazo de:",
+    "answer": "Quince días.",
+    "options": [
+      "Veinte días.",
+      "Un mes.",
+      "Diez días.",
+      "Quince días."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "En virtud del artículo 150.1 de la CE, las leyes marco:",
+    "answer": "Permiten a las Comunidades Autónomas dictar, para sí mismas, normas legislativas bajo una serie de principios, bases y directrices establecidos por el Estado.",
+    "options": [
+      "Permiten a las Comunidades Autónomas dictar, para sí mismas, normas legislativas bajo una serie de principios, bases y directrices establecidos por el Estado.",
+      "Permiten al Estado transferir o delegar facultades sobre materias de competencia estatal a las Comunidades Autónomas.",
+      "No pueden prever más medidas de control que la ejercida por los Tribunales.",
+      "Requieren mayoría absoluta en el Congreso."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "De conformidad con el artículo 150.2 de la CE, las leyes de transferencia o delegación:",
+    "answer": "Son leyes orgánicas.",
+    "options": [
+      "Son decretos-leyes.",
+      "Son leyes ordinarias.",
+      "Son leyes orgánicas.",
+      "Son leyes autonómicas."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Se podrán dictar leyes de armonización cuando así lo exija:",
+    "answer": "El interés general.",
+    "options": [
+      "El interés general.",
+      "El interés económico y social.",
+      "El interés regional.",
+      "El interés institucional."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Según el artículo 150.3 de la Constitución, la apreciación de la necesidad de aprobación de una ley de armonización corresponde a:",
+    "answer": "A las Cortes Generales, por mayoría absoluta de cada Cámara.",
+    "options": [
+      "A las Cortes Generales, por mayoría absoluta de cada Cámara.",
+      "Al Congreso por mayoría de 3/5.",
+      "A las Cortes Generales por mayoría de 2/3 de cada Cámara.",
+      "El Gobierno."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de:",
+    "answer": "Decretos legislativos.",
+    "options": [
+      "Decretos legislativos.",
+      "Decretos-leyes.",
+      "Leyes orgánicas.",
+      "Leyes de bases."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Según el artículo 84 de la CE, cuando una proposición de ley o una enmienda fuere contraria a una delegación legislativa en vigor:",
+    "answer": "El Gobierno está facultado para oponerse a su tramitación.",
+    "options": [
+      "El Gobierno puede dictar la correspondiente norma antes de que se tramite esa proposición o esa enmienda.",
+      "Queda en suspenso la delegación hasta que se tramite esa proposición o esa enmienda.",
+      "El Gobierno debe suspender la delegación legislativa hasta que se tramite esa proposición o esa enmienda.",
+      "El Gobierno está facultado para oponerse a su tramitación."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Cuando se pretenda refundir varios textos legales en uno, la delegación legislativa se otorgará por:",
+    "answer": "Una ley ordinaria.",
+    "options": [
+      "Un decreto-ley.",
+      "Una ley ordinaria.",
+      "Una ley orgánica.",
+      "Una ley de bases."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Según el artículo 86 de la CE, las disposiciones legislativas provisionales dictadas por el Gobierno se denominan:",
+    "answer": "Decretos-leyes.",
+    "options": [
+      "Leyes orgánicas.",
+      "Leyes especiales.",
+      "Reglamentos.",
+      "Decretos-leyes."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Según la Constitución, el plazo máximo para que el Congreso se pronuncie expresamente sobre la convalidación o derogación de un decreto-ley aprobado por el Gobierno es de:",
+    "answer": "Treinta días siguientes a su promulgación.",
+    "options": [
+      "Treinta días siguientes a su promulgación.",
+      "Dos meses desde su publicación.",
+      "Tres meses desde su aprobación.",
+      "Veinte días siguientes a su publicación."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Por decreto-ley no podrá regularse:",
+    "answer": "El Derecho electoral general.",
+    "options": [
+      "Asuntos de carácter laboral.",
+      "El Derecho electoral general.",
+      "Las cuestiones ya reguladas por una ley ordinaria.",
+      "Materias de carácter económico."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "El procedimiento por el que el Congreso convalidará o derogará un decreto-ley, según prevé el artículo 86 de la Constitución, será:",
+    "answer": "Especial y sumario.",
+    "options": [
+      "Preferente y ordinario.",
+      "Urgente.",
+      "Preferente y sumario.",
+      "Especial y sumario."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "A tenor de lo dispuesto el artículo 26 de la Ley del Gobierno, podrá prescindirse del trámite de consulta pública (señale la falsa):",
+    "answer": "Cuando la propuesta tenga un impacto significativo en la actividad económica.",
+    "options": [
+      "Cuando no imponga obligaciones relevantes a los destinatarios.",
+      "Si se trata de tramitación urgente.",
+      "En caso de elaboración de normas presupuestarias.",
+      "Cuando la propuesta tenga un impacto significativo en la actividad económica."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Según Real Decreto 931/2017, de 27 de octubre, por el que se regula la Memoria del Análisis de Impacto Normativo, se incluirá una memoria abreviada:",
+    "answer": "En la tramitación de los proyectos de reales decretos leyes.",
+    "options": [
+      "En la tramitación de los proyectos de reales decretos leyes.",
+      "Siempre que la norma incluya impactos económicos significativos.",
+      "Únicamente cuando la norma tenga especial impacto climático.",
+      "Exclusivamente cuando se acuda al trámite de urgencia."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Se requerirá informe del Consejo de Estado:",
+    "answer": "En los proyectos de decretos legislativos.",
+    "options": [
+      "En los proyectos de decretos-leyes.",
+      "En todos los anteproyectos de ley.",
+      "En los proyectos de decretos legislativos.",
+      "Solo cuando así lo determine el Congreso."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "La Oficina de Coordinación y Calidad Normativa depende del:",
+    "answer": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.",
+    "options": [
+      "Ministerio de Hacienda.",
+      "Ministerio de la Transformación Digital y Función Pública.",
+      "Ministerio del Interior.",
+      "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
+  },
+  {
+    "question": "Según el artículo 27 de la Ley del Gobierno, la tramitación urgente de iniciativas normativas (señale la falsa):",
+    "answer": "Se podrá prescindir de la Memoria de Análisis de Impacto Normativo (MAIN).",
+    "options": [
+      "Será acordada cuando fuera necesario para que la norma entre en vigor en el plazo exigido para la trasposición de directivas comunitarias.",
+      "Los plazos se reducirán a la mitad.",
+      "Será acordada por el Consejo de Ministros.",
+      "Se podrá prescindir de la Memoria de Análisis de Impacto Normativo (MAIN)."
+    ],
+    "subject": "DA",
+    "topic": "1-2"
   }
 ]

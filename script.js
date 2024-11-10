@@ -1,11 +1,9 @@
 let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
-let answeredQuestions = 0;
-let wrongAnswers = 0;
+let answeredQuestions = [];
 let selectedSubjects = [];
 let questionCount = 0;
-let answers = []; // Almacena las respuestas seleccionadas
 
 document.getElementById("startQuiz").addEventListener("click", startQuiz);
 document.getElementById("nextQuestion").addEventListener("click", nextQuestion);
@@ -64,9 +62,7 @@ function startQuiz() {
     questions = randomQuestions;
     currentQuestionIndex = 0;
     score = 0;
-    answeredQuestions = 0;
-    wrongAnswers = 0;
-    answers = []; // Reinicia las respuestas seleccionadas
+    answeredQuestions = [];
 
     document.getElementById("quizSetup").style.display = "none";
     document.getElementById("quizContainer").style.display = "block";
@@ -81,7 +77,7 @@ function loadQuestion() {
     let optionsHtml = "";
     question.options.forEach((option, index) => {
         optionsHtml += `
-            <div>
+            <div class="option">
                 <input type="radio" name="answer" value="${option}" id="option${index}">
                 <label for="option${index}">${option}</label>
             </div>
@@ -95,23 +91,33 @@ function loadQuestion() {
 
 function nextQuestion() {
     let selectedOption = document.querySelector("input[name='answer']:checked");
-    let answer = selectedOption ? selectedOption.value : "No respondida"; // Si no selecciona nada, marca como "No respondida"
-    
-    answers.push(answer); // Guarda la respuesta seleccionada o "No respondida"
+    let answer = selectedOption ? selectedOption.value : null;
+    let question = questions[currentQuestionIndex];
 
-    if (answer !== "No respondida") {  // Solo si se respondió correctamente o incorrectamente, se evalúa la puntuación
-        let question = questions[currentQuestionIndex];
-        if (answer === question.answer) {
+    // Guardar respuesta y actualizar puntuación si es necesario
+    if (answer) {
+        let isCorrect = answer === question.answer;
+        answeredQuestions.push({ 
+            question: question.question, 
+            userAnswer: answer, 
+            correctAnswer: question.answer, 
+            isCorrect: isCorrect 
+        });
+        
+        // Actualizar puntuación solo si es correcta
+        if (isCorrect) {
             score++;
-        } else if (answer !== question.answer) {
-            wrongAnswers++;
-            if (wrongAnswers % 3 === 0) {
-                score--; // Resta puntuación cada 3 respuestas incorrectas
-            }
         }
+    } else {
+        // Guardar como no respondida
+        answeredQuestions.push({
+            question: question.question,
+            userAnswer: "No respondida",
+            correctAnswer: question.answer,
+            isCorrect: false
+        });
     }
 
-    answeredQuestions++;
     currentQuestionIndex++;
 
     if (currentQuestionIndex < questions.length) {
@@ -122,19 +128,18 @@ function nextQuestion() {
 }
 
 function showResults() {
-    let resultText = `<p>Puntuación: ${score}</p>`;
+    let resultText = `<p>Tu puntuación final es: ${score}</p>`;
     resultText += "<h4>Respuestas:</h4>";
 
-    questions.forEach((question, index) => {
-        let userAnswer = answers[index] || "No respondida"; // Usa la respuesta guardada
-        let correctAnswer = question.answer;
-
-        let resultClass = userAnswer === correctAnswer ? "correct" : "incorrect";
+    answeredQuestions.forEach((entry, index) => {
+        let resultClass = entry.isCorrect ? "correct" : "incorrect";
+        
+        // Solo mostrar la respuesta una vez en verde si es correcta
         resultText += `
             <div class="question">
-                <p><strong>${index + 1}. ${question.question}</strong></p>
-                <p class="${resultClass}">Tu respuesta: ${userAnswer}</p>
-                <p class="correct">Respuesta correcta: ${correctAnswer}</p>
+                <p><strong>${index + 1}. ${entry.question}</strong></p>
+                <p class="${resultClass}">Tu respuesta: ${entry.userAnswer}</p>
+                ${entry.isCorrect ? "" : `<p class="correct">Respuesta correcta: ${entry.correctAnswer}</p>`}
             </div>
         `;
     });
@@ -143,3 +148,70 @@ function showResults() {
     document.getElementById("quizContainer").style.display = "none";
     document.getElementById("resultContainer").style.display = "block";
 }
+
+
+// Fn for AppScripts to JSON
+// function exportToJSON() {
+//   const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+//   const rows = sheet.getDataRange().getValues();
+//   const data = [];
+
+//   // Recorre cada fila (empezando desde la segunda si tienes encabezados)
+//   for (let i = 1; i < rows.length; i++) {
+//       const row = rows[i];
+      
+//       // Construimos el objeto de pregunta con las columnas correspondientes
+//       const questionObject = {
+//           question: row[0],   // Pregunta
+//           answer: row[1],     // Respuesta correcta
+//           options: [
+//               row[1],          // Respuesta correcta
+//               row[2],          // Respuesta incorrecta 1
+//               row[3],          // Respuesta incorrecta 2
+//               row[4]           // Respuesta incorrecta 3
+//           ].sort(() => Math.random() - 0.5),  // Mezcla las opciones de forma aleatoria
+//           subject: row[5] || "General", // Asignatura (valor por defecto "General" si está vacío)
+//           topic: row[6] || "Sin tema"   // Tema (valor por defecto "Sin tema" si está vacío)
+//       };
+
+//       data.push(questionObject);
+//   }
+
+//   // Convertir el array a JSON
+//   const json = JSON.stringify(data, null, 2);
+
+//   // Descargar el archivo JSON
+//   function exportToJSON() {
+//     const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+//     const rows = sheet.getDataRange().getValues();
+//     const data = [];
+
+//     // Recorre cada fila (empezando desde la segunda si tienes encabezados)
+//     for (let i = 1; i < rows.length; i++) {
+//         const row = rows[i];
+        
+//         // Construimos el objeto de pregunta con las columnas correspondientes
+//         const questionObject = {
+//             question: row[0],   // Pregunta
+//             answer: row[1],     // Respuesta correcta
+//             options: [
+//                 row[1],          // Respuesta correcta
+//                 row[2],          // Respuesta incorrecta 1
+//                 row[3],          // Respuesta incorrecta 2
+//                 row[4]           // Respuesta incorrecta 3
+//             ].sort(() => Math.random() - 0.5),  // Mezcla las opciones de forma aleatoria
+//             subject: row[5] || "General", // Asignatura (valor por defecto "General" si está vacío)
+//             topic: row[6] || "Sin tema"   // Tema (valor por defecto "Sin tema" si está vacío)
+//         };
+
+//         data.push(questionObject);
+//     }
+
+//     // Convertir el array a JSON
+//     const json = JSON.stringify(data, null, 2);
+
+//     // Descargar el archivo JSON
+//     const blob = Utilities.newBlob(json, 'application/json', 'questions.json');
+//     const url = DriveApp.createFile(blob).getUrl();
+//     Logger.log(`Archivo JSON generado: ${url}`);
+// }
