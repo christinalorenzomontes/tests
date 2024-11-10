@@ -128,8 +128,8 @@ function nextQuestion() {
 }
 
 function showResults() {
-    let resultText = `<p>Tu puntuación final es: ${score}</p>`;
-    resultText += "<h4>Respuestas:</h4>";
+    let resultText = `<h3>El esfuerzo de hoy, serán las tocadas de chocho de mañana</h3>`;
+    resultText += "<h3>Respuestas:</h3>";
 
     answeredQuestions.forEach((entry, index) => {
         let resultClass = entry.isCorrect ? "correct" : "incorrect";

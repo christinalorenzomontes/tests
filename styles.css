@@ -90,7 +90,7 @@ label {
 
 /* Respuestas correctas, incorrectas y no respondidas */
 .question p.correct {
-  color: green;
+  color: rgb(47, 255, 161);
   font-weight: bold;
 }
 
