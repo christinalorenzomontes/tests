@@ -119,3 +119,8 @@ label {
   display: block;
   margin-bottom: 20px;
 }
+
+.signed {
+  text-align: end;
+  margin: 12px;
+}

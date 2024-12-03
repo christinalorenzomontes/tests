@@ -112,7 +112,7 @@ function nextQuestion() {
         // Guardar como no respondida
         answeredQuestions.push({
             question: question.question,
-            userAnswer: "No respondida",
+            userAnswer: "No respondida.",
             correctAnswer: question.answer,
             isCorrect: false
         });
