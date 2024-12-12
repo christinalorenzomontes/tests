@@ -6371,5 +6371,485 @@
     ],
     "subject": "PP",
     "topic": 6
+  },
+  {
+    "question": "¿Qué nombre reciben las disposiciones legislativas provisionales emanadas del Gobierno?:",
+    "answer": "Decreto Ley.",
+    "options": [
+      "Reglamento.",
+      "Decreto.",
+      "Decreto Ley.",
+      "Decreto Legislativo."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "¿Qué medio utilizan las Cortes Generales para delegar en el Gobierno la potestad de refundir varios textos legales en uno solo?:",
+    "answer": "Ley ordinaria.",
+    "options": [
+      "Decreto Ley.",
+      "Decreto Legislativo.",
+      "Ley de Bases.",
+      "Ley ordinaria."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "El esquema básico de la composición del Gobierno será, según la Constitución:",
+    "answer": "El Presidente, los Vicepresidentes en su caso, los Ministros y los demás miembros que establezca la ley.",
+    "options": [
+      "El Presidente, los Vicepresidentes en su caso, los Ministros y los demás miembros que establezca la ley.",
+      "El Presidente, el Vicepresidente, los Ministros y los demás miembros que establezca la ley.",
+      "El Presidente, los Vicepresidentes, los Ministros, en su caso, y los demás miembros que establezca la ley.",
+      "El Presidente, los Ministros, y los demás miembros que establezca la ley."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "En caso de que existan Ministros sin cartera:",
+    "answer": "Por Real Decreto se determinará el ámbito de sus competencias, la estructura administrativa, así como los medios materiales y personales que queden adscritos al mismo.",
+    "options": [
+      "Por Resolución del Secretario de Estado del Ministerio de Presidencia, Justicia y Relaciones con las Cortes y memoria democrática se determinará el ámbito de sus competencias, la estructura administrativa, así como los medios materiales y personales que queden adscritos al mismo.",
+      "Por Ley de las CCGG se determinará el ámbito de sus competencias, la estructura administrativa, así como los medios materiales y personales que queden adscritos al mismo.",
+      "Por Orden del Ministro de Presidencia, Justicia y Relaciones con las Cortes y memoria democrática se determinará el ámbito de sus competencias, la estructura administrativa, así como los medios materiales y personales que queden adscritos al mismo.",
+      "Por Real Decreto se determinará el ámbito de sus competencias, la estructura administrativa, así como los medios materiales y personales que queden adscritos al mismo."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "La acusación a miembros del Gobierno por delitos de traición o contra la seguridad del Estado sólo podrá ser planteada por iniciativa de:",
+    "answer": "La cuarta parte de los miembros del Congreso, y con aprobación de la mayoría absoluta del mismo.",
+    "options": [
+      "La cuarta parte de los miembros del Congreso, y con aprobación de la mayoría absoluta del Senado.",
+      "La tercera parte de los miembros del Congreso, y con aprobación de la mayoría absoluta del Senado.",
+      "La tercera parte de los miembros del Congreso, y con aprobación de la\nmayoría absoluta del mismo.",
+      "La cuarta parte de los miembros del Congreso, y con aprobación de la mayoría absoluta del mismo."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "La disolución de las Cámaras, por transcurso de dos meses desde la primera votación de investidura, sin obtención de la confianza por los candidatos, se refrenda por:",
+    "answer": "El Presidente del Congreso.",
+    "options": [
+      "No necesita refrendo.",
+      "El Presidente del Congreso.",
+      "El Rey.",
+      "Presidente del Gobierno."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "¿Cuál de las siguientes competencias puede desempeñar un Presidente del Gobierno en funciones?:",
+    "answer": "Resolver los conflictos de atribuciones entre los ministerios.",
+    "options": [
+      "Proponer al Rey la convocatoria de referéndum consultivo.",
+      "Plantear la cuestión de confianza.",
+      "Resolver los conflictos de atribuciones entre los ministerios.",
+      "Proponer al Rey la disolución de las Cámaras."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "Según la Ley 50/1997, de 27 de noviembre, ¿a quién corresponde la secretaría del Consejo de Ministros?:",
+    "answer": "Al Ministro de la Presidencia, Justicia y Relaciones con las Cortes.",
+    "options": [
+      "Al Ministro de la Presidencia, Justicia y Relaciones con las Cortes.",
+      "Al Presidente del Gobierno, en todo caso.",
+      "Al Ministro del Interior.",
+      "A un Vicepresidente, y en su defecto, al Ministro de la Presidencia, Justicia y Relaciones con las Cortes."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "Señale la respuesta falsa en relación con la Comisión General de Secretarios de Estado y Subsecretarios:",
+    "answer": "La Comisión podrá adoptar decisiones o acuerdos por delegación del Gobierno.",
+    "options": [
+      "La Presidencia de la Comisión General de Secretarios de Estado y Subsecretarios corresponde a un Vicepresidente del Gobierno o, en su defecto, al Ministro de la Presidencia, Justicia y Relaciones con las Cortes.",
+      "La Comisión podrá adoptar decisiones o acuerdos por delegación del Gobierno.",
+      "La Secretaría de la Comisión General de Secretarios de Estado y Subsecretarios será ejercida por el Subsecretario de la Presidencia, Justicia y Relaciones con las Cortes.",
+      "Las deliberaciones de la Comisión General de Secretarios de Estado y Subsecretarios serán reservadas."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "La cuestión de confianza prevista en el artículo 112 CE:",
+    "answer": "Se presentará por el Presidente del Gobierno sobre su programa o sobre\nuna declaración de política general.",
+    "options": [
+      "Podrá ser planteada por el Presidente del Gobierno en funciones.",
+      "Se presenta por el Presidente del Gobierno, previa deliberación del Consejo de Ministros, ante las Cortes Generales.",
+      "Se presentará por el Presidente del Gobierno sobre su programa o sobre\nuna declaración de política general.",
+      "La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría absoluta de los Diputados."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "Los Secretarios de Estado:",
+    "answer": "Son órganos de colaboración y apoyo al Gobierno.",
+    "options": [
+      "Son órganos de colaboración y apoyo al Gobierno.",
+      "Son miembros del Gobierno.",
+      "Son órganos directivos de la Administración.",
+      "Son miembros del gobierno y órganos superiores de la AGE."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "El Secretariado de Gobierno:",
+    "answer": "Se integra en la estructura orgánica del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.",
+    "options": [
+      "Se integra en la estructura orgánica del Ministerio Hacienda.",
+      "Se integra en la estructura orgánica de la Presidencia del Gobierno.",
+      "Se integra en la estructura orgánica del Ministerio de Hacienda.",
+      "Se integra en la estructura orgánica del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "De acuerdo con la Ley 50/1997, de 27 de noviembre, del Gobierno, señale qué competencia corresponde al Consejo de Ministros:",
+    "answer": "Adoptar programas, planes, y directrices vinculantes para todos los órganos de la AGE.",
+    "options": [
+      "Resolver los conflictos de atribuciones que puedan surgir entre los Ministerios.",
+      "Establecer el programa político del Gobierno y determinar las directrices de política interior y exterior y velar por su cumplimiento.",
+      "Crear, modificar y suprimir los Departamentos Ministeriales y las Secretarías de Estado.",
+      "Adoptar programas, planes, y directrices vinculantes para todos los órganos de la AGE."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "¿Cuál de las siguientes funciones no le corresponde ejercer al Presidente del Gobierno?:",
+    "answer": "Aprobar proyectos de ley.",
+    "options": [
+      "Proponer la disolución de las Cortes Generales.",
+      "Proponer al Rey la celebración de referéndum consultivo.",
+      "Interponer el recurso de inconstitucionalidad.",
+      "Aprobar proyectos de ley."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "¿Quién propone el candidato a la Presidencia del Gobierno?",
+    "answer": "El Rey.",
+    "options": [
+      "Las Cortes Generales.",
+      "El Congreso de los Diputados.",
+      "El pueblo español.",
+      "El Rey."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "¿Cuántos días deben transcurrir al menos desde que se presente una moción de censura hasta que pueda ser votada?:",
+    "answer": "Cinco días.",
+    "options": [
+      "Cinco días.",
+      "Tres días.",
+      "Cuatro días.",
+      "Dos días."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "¿A quién debe presentar el Gobierno su dimisión en el supuesto de que no obtenga la mayoría necesaria en una votación de cuestión de confianza?:",
+    "answer": "Ante el Rey.",
+    "options": [
+      "Ante el Rey.",
+      "Ante el Congreso de los Diputados.",
+      "Ante el Consejo de Ministros.",
+      "Ante las Cortes Generales."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "Para ser nombrado Ministro es necesario ostentar los siguientes requisitos:",
+    "answer": "Se requiere ser español, mayor de edad, disfrutar de los derechos de sufragio activo y pasivo, así como no estar inhabilitado para ejercer empleo o cargo público por sentencia judicial firme y reunir el resto de requisitos de idoneidad previstos en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado.",
+    "options": [
+      "Se requiere ser español, mayor de edad, disfrutar de los derechos de sufragio activo y pasivo, así como no estar inhabilitado para ejercer empleo o cargo público por sentencia judicial firme y reunir el resto de requisitos de idoneidad previstos en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado.",
+      "Mayor de edad, disfrutar de los derechos de sufragio activo y pasivo, así como no estar inhabilitado para ejercer empleo o cargo público por sentencia judicial firme y reunir el resto de requisitos de idoneidad previstos en la Ley 3/2015, de\n30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado.",
+      "Español, mayor de edad y disfrutar de los derechos de sufragio activo y pasivo.",
+      "Español, mayor de edad, así como no estar inhabilitado para ejercer empleo o cargo público por sentencia judicial firme."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "En los casos de vacante, ausencia o enfermedad, las funciones del Presidente del Gobierno serán asumidas por:",
+    "answer": "Los Vicepresidentes, de acuerdo con el correspondiente orden de prelación, y, en defecto de ellos, por los Ministros, según el orden de precedencia de los Departamentos.",
+    "options": [
+      "Los Vicepresidentes, de acuerdo con el correspondiente orden de prelación, y, en defecto de ellos, por los Secretarios de Estado, según el orden de precedencia de los Departamentos.",
+      "Los Ministros, según el orden de precedencia de los Departamentos y, en defecto de ellos, por los Vicepresidentes, de acuerdo con el correspondiente orden de prelación.",
+      "Los Vicepresidentes, de acuerdo con el correspondiente orden de prelación, y, en defecto de ellos, por los Ministros, según el orden de precedencia de los Departamentos.",
+      "Los Ministros, según el orden de precedencia de los Departamentos y, en defecto de ellos, por los Secretarios de Estado, según el orden de precedencia de los Departamentos."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "La suplencia de los Ministros, para el despacho ordinario de los asuntos de su competencia, será determinada por:",
+    "answer": "Real Decreto del Presidente del Gobierno.",
+    "options": [
+      "Orden del propio ministro.",
+      "Real Decreto del Consejo de Ministros.\n",
+      "Acuerdo del Consejo de Ministros.",
+      "Real Decreto del Presidente del Gobierno."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "Señale la falsa en relación con los órganos de colaboración y apoyo al Gobierno:",
+    "answer": "Los Gabinetes son órganos de apoyo político y técnico del Presidente del Gobierno, de los Vicepresidentes, de los Ministros, de los Secretarios de Estado y de los subsecretarios.",
+    "options": [
+      "Los Gabinetes son órganos de apoyo político y técnico del Presidente del Gobierno, de los Vicepresidentes, de los Ministros, de los Secretarios de Estado y de los subsecretarios.",
+      "Tienen esta consideración los secretarios de Estado, la Comisión General de Secretarios de Estado y Subsecretarios, el Secretariado del Gobierno y los Gabinetes.",
+      "El Secretariado del Gobierno se integra en la estructura orgánica del Ministerio\nde la Presidencia, Justicia y Relaciones con las Cortes.",
+      "La Presidencia de la Comisión General de Secretarios de Estado y Subsecretarios corresponde a un Vicepresidente del Gobierno o, en su defecto, al Ministro de la Presidencia, Justicia y Relaciones con las Cortes."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "Los Vicepresidentes son nombrados por:",
+    "answer": "El Rey.",
+    "options": [
+      "El Rey.",
+      "El Senado.",
+      "El presidente del Gobierno.",
+      "El Congreso."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "Señale la respuesta correcta en relación con las reuniones del Consejo de Ministros:",
+    "answer": "A las reuniones del Consejo de Ministros podrán asistir los Secretarios de Estado y excepcionalmente otros altos cargos, cuando sean convocados para ello.",
+    "options": [
+      "Las reuniones del Consejo de Ministros podrán tener carácter decisorio o consultivo.",
+      "A las reuniones del Consejo de Ministros podrán asistir los Secretarios de Estado y excepcionalmente otros altos cargos, cuando sean convocados para ello.",
+      "Actúa como Secretario el Ministro de Hacienda.",
+      "El orden del día de las reuniones del Consejo de Ministros se fijará por el Secretario."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "Al Consejo de Ministros, como órgano colegiado del Gobierno, le corresponde:",
+    "answer": "Crear, modificar y suprimir los órganos directivos de los Departamentos Ministeriales.",
+    "options": [
+      "Aprobar la Ley de Presupuestos Generales del Estado.",
+      "Declarar los estados de alarma, excepción y sitio.",
+      "Crear, modificar y suprimir los órganos directivos de los Departamentos Ministeriales.",
+      "Aprobar los Reales Decretos-Leyes y las leyes orgánicas."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "Señale la afirmación correcta sobre el Gobierno:",
+    "answer": "Dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado.",
+    "options": [
+      "Sus miembros se reúnen en Consejo de Ministros y en Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Responde solidariamente de su gestión política ante las CCGG.",
+      "Se compone del Presidente, los ministros, en su caso, y de los Vicepresidentes.",
+      "Dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "De acuerdo con el artículo 103.1 de la Constitución de 1978, La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de:",
+    "answer": "Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la Ley y al Derecho.",
+    "options": [
+      "Eficiencia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la Ley y al Derecho.",
+      "Eficacia, eficiencia, descentralización, desconcentración y cooperación, con sometimiento pleno a la Ley y al Derecho.",
+      "Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la Ley y al Derecho.",
+      "Eficacia, objetividad, jerarquía, descentralización, desconcentración y\ncoordinación, con sometimiento pleno al ordenamiento jurídico."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "El Presidente del Gobierno en funciones no puede:",
+    "answer": "Plantear la cuestión de confianza.",
+    "options": [
+      "Plantear un recurso de inconstitucionalidad.",
+      "Resolver los conflictos de atribuciones que puedan surgir entre distintos Ministerios.",
+      "Plantear la cuestión de confianza.",
+      "Convocar al Consejo de Ministros."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "En la elección del Presidente del Gobierno, será necesario que el Congreso de los Diputados otorgue su confianza:",
+    "answer": "Por mayoría absoluta de sus miembros, y de no alcanzarse dicha mayoría, por mayoría simple 48 horas después.",
+    "options": [
+      "Por mayoría absoluta de sus miembros, y de no alcanzarse dicha mayoría, por mayoría simple 48 horas después.",
+      "Por mayoría absoluta de sus miembros, y de no alcanzarse dicha mayoría, por mayoría simple 72 horas después.",
+      "Por mayoría absoluta de sus miembros, y de no alcanzarse dicha mayoría, por las 2/3 partes 48 horas después.",
+      "Por mayoría absoluta de sus miembros, y de no alcanzarse dicha mayoría, por las 2/3 partes 72 horas después."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "¿En cuál de estos supuestos no se produce el cese del gobierno?:",
+    "answer": "Por la convocatoria de elecciones generales.",
+    "options": [
+      "Por fallecimiento de su Presidente.",
+      "Por dimisión de su Presidente.",
+      "Por pérdida de la cuestión de confianza.",
+      "Por la convocatoria de elecciones generales."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "Según la Constitución, el Gobierno responderá solidariamente de su gestión:",
+    "answer": "Ante el Congreso de los Diputados.",
+    "options": [
+      "Ante el Rey y el Congreso de los Diputados.",
+      "Ante el Senado y el Congreso de los Diputados.",
+      "Ante el Senado.",
+      "Ante el Congreso de los Diputados."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "Según el artículo 101.2 de la Constitución, el Gobierno cesante continuará en funciones hasta:",
+    "answer": "La toma de posesión del nuevo Gobierno.",
+    "options": [
+      "El nombramiento de los Ministros.",
+      "El nombramiento del nuevo Presidente del Gobierno.",
+      "La toma de posesión del nuevo Gobierno.",
+      "La elección del nuevo Gobierno."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "El Director de Gabinete de un Secretario de Estado será nombrado por:",
+    "answer": "Orden Ministerial, previo conocimiento del Consejo de Ministros.",
+    "options": [
+      "Orden Ministerial, previa aprobación del Consejo de Ministros.",
+      "RD del Consejo de Ministros.",
+      "RD del Consejo de Ministros, a propuesta del Presidente del Gobierno.",
+      "Orden Ministerial, previo conocimiento del Consejo de Ministros."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "El Gabinete de la Presidencia del Gobierno se regulará por:",
+    "answer": "Real Decreto del Presidente del Gobierno.",
+    "options": [
+      "Ley.",
+      "Real Decreto del Consejo de Ministros.\n",
+      "Real Decreto del Presidente del Gobierno.",
+      "Acuerdo del Consejo de Ministros."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "El Subsecretario de la Presidencia:",
+    "answer": "Ejerce la secretaría de la Comisión General de Secretarios de Estado y Subsecretarios.",
+    "options": [
+      "Ejerce la presidencia de la Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Es el Secretario del Secretariado de Gobierno.",
+      "Es el Director del Secretariado de Gobierno.",
+      "Ejerce la secretaría de la Comisión General de Secretarios de Estado y Subsecretarios."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "¿Qué carácter tienen las deliberaciones del Consejo de Ministros?:",
+    "answer": "Secretas.",
+    "options": [
+      "Secretas.",
+      "Públicas.",
+      "Solemnes y privadas.",
+      "Reservadas."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "De acuerdo con el artículo 8 de la Ley Orgánica 3/1980, de 22 de abril, del Consejo de Estado, no tiene la condición de Consejero nato no vitalicio:",
+    "answer": "El Defensor del Pueblo.",
+    "options": [
+      "El Defensor del Pueblo.",
+      "El Fiscal General del Estado.",
+      "El Gobernador del Banco de España.",
+      "El Presidente del Consejo Económico y Social."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "Las Secciones del Consejo de Estado serán:",
+    "answer": "Ocho, como mínimo.",
+    "options": [
+      "Doce, como mínimo.",
+      "Ocho, como máximo.",
+      "Diez, en todo caso.",
+      "Ocho, como mínimo."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "El Consejo de Estado en Pleno deberá ser consultado en el siguiente asunto:",
+    "answer": "Proyectos de Decretos legislativos.",
+    "options": [
+      "Anteproyectos de Ley Orgánica de transferencias o delegación de competencias estatales a las Comunidades Autónomas.",
+      "Impugnación de las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas ante el Tribunal Constitucional, con carácter previo a la interposición del recurso.",
+      "Reglamentos o disposiciones de carácter general que se dicten en ejecución de las Leyes, así como sus modificaciones.",
+      "Proyectos de Decretos legislativos."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "A la vista de lo establecido en el artículo 9 de la Ley Orgánica 3/1980, de 22 de abril, del Consejo de Estado, responda cuál es la afirmación correcta sobre los Consejeros electivos del Consejo de Estado:",
+    "answer": "De entre ellos, dos deberán haber desempeñado el cargo de Presidente del Consejo Ejecutivo de Comunidad Autónoma por un período mínimo de ocho años.",
+    "options": [
+      "De entre ellos, dos deberán haber desempeñado el cargo de Presidente del Consejo Ejecutivo de Comunidad Autónoma por un período mínimo de ocho años.",
+      "Serán nombrados por el Pleno del Consejo de Estado, a propuesta de su Presidente.",
+      "Son un total de 8.",
+      "Su mandato es de 9 años."
+    ],
+    "subject": "OE",
+    "topic": 6
+  },
+  {
+    "question": "La Comisión de Estudios estará presidida por el Presidente del Consejo de Estado e integrada por:",
+    "answer": "Dos Consejeros permanentes, dos natos y dos electivos, designados por el Pleno a propuesta del Presidente, así como por el Secretario General.",
+    "options": [
+      "Los Consejeros permanentes, los Consejeros natos y el Secretario general.",
+      "Un Consejero permanente, un Letrado Mayor y los Letrados que sean necesarios según la importancia de los asuntos o el número de las consultas.",
+      "Los Consejeros permanentes y el Secretario general.",
+      "Dos Consejeros permanentes, dos natos y dos electivos, designados por el Pleno a propuesta del Presidente, así como por el Secretario General."
+    ],
+    "subject": "OE",
+    "topic": 6
   }
 ]
