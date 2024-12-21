@@ -250,7 +250,7 @@
       "Una Entidad Gestora."
     ],
     "subject": "PP",
-    "topic": 5
+    "topic": "5"
   },
   {
     "question": "No es una competencia de la Agencia Española de Empleo:",
@@ -2986,7 +2986,7 @@
       "La costumbre solamente regirá en defecto de ley y de principios generales del derecho y tiene carácter informador del ordenamiento jurídico."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Señale cuál no es una fuente del Derecho Administrativo:",
@@ -2998,7 +2998,7 @@
       "La Ley de Expropiación Forzosa."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "En virtud del artículo 2 del Código Civil, las leyes entrarán en vigor:",
@@ -3010,7 +3010,7 @@
       "A los veinte días naturales desde su completa publicación en el BOE si en ellas no se dispone otra cosa."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Señale la respuesta correcta:",
@@ -3022,7 +3022,7 @@
       "Las leyes tendrán siempre efecto retractivo mientras no dispongan lo contrario."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Según el artículo 23 de la Ley del Gobierno, sin perjuicio de lo previsto en el artículo 2.1 del Código Civil:",
@@ -3034,7 +3034,7 @@
       "Las leyes cuya aprobación o propuesta corresponda al Gobierno, y que impongan nuevas obligaciones a las personas físicas o jurídicas que desempeñen una actividad económica o profesional, preverán el comienzo de su vigencia el 1 de enero o el 2 de julio siguientes a su aprobación."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Según lo previsto en el artículo 149.1.8 de la Constitución, señale la respuesta correcta:",
@@ -3046,7 +3046,7 @@
       "El Estado no tiene competencias en materia de fuentes del derecho."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Se quiere reformar el artículo de la Constitución en el que se dispone: “todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada”. Señale la respuesta correcta:",
@@ -3058,7 +3058,7 @@
       "La reforma constitucional podrá ser promovida a través de una iniciativa legislativa popular si se presenta con no menos de 500.000 firmas acreditadas."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Tienen iniciativa para la reforma constitucional (señale la falsa):",
@@ -3070,7 +3070,7 @@
       "El Congreso y el Senado."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Según la Constitución, ¿cuál de los siguientes derechos y libertades son desarrollados por ley orgánica?",
@@ -3082,7 +3082,7 @@
       "La libertad de empresa en el marco de la economía de mercado."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Las leyes orgánicas (señale la falsa):",
@@ -3094,7 +3094,7 @@
       "Regulan el régimen electoral general."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Señale cuál de los siguientes no se regula por ley orgánica:",
@@ -3106,7 +3106,7 @@
       "Presupuestos Generales del Estado."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "No se podrá delegar en las Comisiones Legislativas Permanentes, entre otras:",
@@ -3118,7 +3118,7 @@
       "La reforma constitucional y las leyes ordinarias."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Según el artículo 87 de CE, la iniciativa legislativa corresponde:",
@@ -3130,7 +3130,7 @@
       "Gobierno, Congreso y Senado."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "El artículo 87 CE establece que las Asambleas de las Comunidades Autónomas:",
@@ -3142,7 +3142,7 @@
       "Podrán únicamente remitir a la Mesa del Senado una proposición de ley para su posterior tramitación."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "En virtud del artículo 90.2 de la Constitución, ¿con qué plazo cuenta el Senado para enmendar un proyecto normativo aprobado por el Congreso?",
@@ -3154,7 +3154,7 @@
       "Un mes desde el día de la remisión del texto."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "El plazo que dispone el Senado para vetar el proyecto se reducirá a:",
@@ -3166,7 +3166,7 @@
       "Treinta días naturales en los proyectos declarados urgentes por mayoría absoluta del Senado."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "El veto introducido por el Senado deberá ser aprobado por:",
@@ -3178,7 +3178,7 @@
       "Mayoría simple."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Según el artículo 91 de la Constitución, el Rey sancionará las leyes aprobadas por las Cortes Generales en el plazo de:",
@@ -3190,7 +3190,7 @@
       "Un mes."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "En virtud del artículo 150.1 de la CE, las leyes marco:",
@@ -3202,7 +3202,7 @@
       "No pueden prever más medidas de control que la ejercida por los Tribunales."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "De conformidad con el artículo 150.2 de la CE, las leyes de transferencia o delegación:",
@@ -3214,7 +3214,7 @@
       "Son leyes ordinarias."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Se podrán dictar leyes de armonización cuando así lo exija:",
@@ -3226,7 +3226,7 @@
       "El interés general."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Según el artículo 150.3 de la Constitución, la apreciación de la necesidad de aprobación de una ley de armonización corresponde a:",
@@ -3238,7 +3238,7 @@
       "A las Cortes Generales, por mayoría absoluta de cada Cámara."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de:",
@@ -3250,7 +3250,7 @@
       "Decretos legislativos."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Según el artículo 84 de la CE, cuando una proposición de ley o una enmienda fuere contraria a una delegación legislativa en vigor:",
@@ -3262,7 +3262,7 @@
       "El Gobierno está facultado para oponerse a su tramitación."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Cuando se pretenda refundir varios textos legales en uno, la delegación legislativa se otorgará por:",
@@ -3274,7 +3274,7 @@
       "Una ley ordinaria."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Según el artículo 86 de la CE, las disposiciones legislativas provisionales dictadas por el Gobierno se denominan:",
@@ -3286,7 +3286,7 @@
       "Decretos-leyes."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Según la Constitución, el plazo máximo para que el Congreso se pronuncie expresamente sobre la convalidación o derogación de un decreto-ley aprobado por el Gobierno es de:",
@@ -3298,7 +3298,7 @@
       "Veinte días siguientes a su publicación."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Por decreto-ley no podrá regularse:",
@@ -3310,7 +3310,7 @@
       "Materias de carácter económico."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "El procedimiento por el que el Congreso convalidará o derogará un decreto-ley, según prevé el artículo 86 de la Constitución, será:",
@@ -3322,7 +3322,7 @@
       "Preferente y ordinario."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "A tenor de lo dispuesto el artículo 26 de la Ley del Gobierno, podrá prescindirse del trámite de consulta pública (señale la falsa):",
@@ -3334,7 +3334,7 @@
       "Si se trata de tramitación urgente."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Según Real Decreto 931/2017, de 27 de octubre, por el que se regula la Memoria del Análisis de Impacto Normativo, se incluirá una memoria abreviada:",
@@ -3346,7 +3346,7 @@
       "Siempre que la norma incluya impactos económicos significativos."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Se requerirá informe del Consejo de Estado:",
@@ -3358,7 +3358,7 @@
       "En los proyectos de decretos-leyes."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "La Oficina de Coordinación y Calidad Normativa depende del:",
@@ -3370,7 +3370,7 @@
       "Ministerio de la Transformación Digital y Función Pública."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "Según el artículo 27 de la Ley del Gobierno, la tramitación urgente de iniciativas normativas (señale la falsa):",
@@ -3382,7 +3382,7 @@
       "Se podrá prescindir de la Memoria de Análisis de Impacto Normativo (MAIN)."
     ],
     "subject": "DA",
-    "topic": "2024-01-31T23:00:00.000Z"
+    "topic": "1-2"
   },
   {
     "question": "La potestad reglamentaria está atribuida por la CE al:",
@@ -7331,5 +7331,1265 @@
     ],
     "subject": "OE",
     "topic": "8.1"
+  },
+  {
+    "question": "Señale qué artículos se han reformado desde la publicación y entrada en vigor de la Constitución Española de 1978:",
+    "answer": "El artículo 13.2, el 135 y el 49.\n",
+    "options": [
+      "El artículo 13.2, el 135 y el 49.\n",
+      "El artículo 13.4, el 135 y el 49.",
+      "Únicamente el artículo 13.2 y el 135.",
+      "El artículo 13.3, el 135 y el 47."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el artículo 11.3 de la Constitución Española de 1978, en los países iberoamericanos podrán naturalizarse los españoles sin perder su nacionalidad de origen:",
+    "answer": "En los casos que la normativa de tales países lo permita para los ciudadanos españoles y europeos.",
+    "options": [
+      "En los casos que la normativa de tales países lo permita para los ciudadanos españoles y europeos.",
+      "Aún cuando no reconozcan a sus ciudadanos un derecho recíproco.",
+      "Siempre que tales países reconozcan a sus ciudadanos un derecho recíproco.",
+      "Aunque no hayan tenido o tengan una particular vinculación con España."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "El nombramiento del Defensor del Pueblo será acreditado, según el artículo 4.1 de la Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo:",
+    "answer": "Por el Rey con su firma.\n",
+    "options": [
+      "Por el Rey con su firma.\n",
+      "Conjuntamente por los Presidentes del Congreso y del Senado con sus firmas.",
+      "Por el Presidente del Gobierno, con su firma.",
+      "Solamente por el Presidente del Senado, con su firma"
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, en caso de cese en el cargo de Magistrado del Tribunal Constitucional, por haber sido declarado responsable civilmente por dolo:",
+    "answer": "Decidirá el Tribunal en Pleno, por mayoría de las tres cuartas partes de sus miembros.",
+    "options": [
+      "Decidirá el Tribunal en Pleno, por mayoría simple.",
+      "Decidirá el presidente del Tribunal Constitucional.\n",
+      "Decidirá el Tribunal en pleno, por mayoría de las tres quintas partes de sus miembros.",
+      "Decidirá el Tribunal en Pleno, por mayoría de las tres cuartas partes de sus miembros."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cuál es la respuesta correcta respecto al orden de sucesión a la Corona de España según la Constitución Española de 1978?",
+    "answer": "Primogenitura con preferencia del varón sobre la mujer.\n",
+    "options": [
+      "Sucesión determinada por el Consejo de Ministros.",
+      "Primogenitura con preferencia de la línea posterior a la anterior.",
+      "Primogenitura con preferencia del varón sobre la mujer.\n",
+      "Primogenitura con preferencia de la persona de menor edad.\n"
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con el artículo 59.4 de la Constitución Española de 1978, para ejercer la regencia es imprescindible ser:",
+    "answer": "Español y mayor de edad.",
+    "options": [
+      "Español de nacimiento y mayor de edad.",
+      "Únicamente español.\n",
+      "Español, mayor de edad y miembro de la Familia Real.",
+      "Español y mayor de edad."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cuál de las siguientes afirmaciones describe correctamente el procedimiento para la aprobación de una ley orgánica por las Cortes Generales según la Constitución Española de 1978?",
+    "answer": "Debe ser aprobada por mayoría absoluta del Congreso de los Diputados en una votación final sobre el conjunto del proyecto.",
+    "options": [
+      "Requiere la aprobación por mayoría absoluta en el Congreso de los Diputados y en el Senado.\n",
+      "Requiere mayoría simple en el Congreso de los Diputados y mayoría absoluta en el Senado.",
+      "Debe ser aprobada por mayoría absoluta del Senado en una votación final sobre el conjunto del proyecto.",
+      "Debe ser aprobada por mayoría absoluta del Congreso de los Diputados en una votación final sobre el conjunto del proyecto."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según la Ley Orgánica 3/1980, de 22 de abril, del Consejo de Estado, señale la afirmación correcta:",
+    "answer": "El Consejo de Estado emitirá dictamen sobre cuantos asuntos sometan a su consulta el Gobierno o sus miembros.",
+    "options": [
+      "La consulta al Consejo de Estado será facultativa cuando así lo establezcan las leyes, siendo los dictámenes que emite\nvinculantes.",
+      "El Consejo de Estado emitirá dictamen sobre cuantos asuntos sometan a su consulta el Gobierno o sus miembros.",
+      "Los asuntos en que hubiera dictaminado el Pleno del Consejo de Estado podrán remitirse a informe de otro órgano de la\nAdministración.",
+      "Los dictámenes del Consejo de Estado serán vinculantes, salvo que su Presidente disponga lo contrario."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cuál es la duración del mandato de los miembros del Consejo General del Poder Judicial según la Constitución Española de 1978?",
+    "answer": "5 años.",
+    "options": [
+      "5 años.",
+      "4 años.",
+      "6 años.",
+      "8 años."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De confomidad con el artículo 26 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, ejerce la potestad\njurisdiccional en nuestro Estado:",
+    "answer": "El Tribunal Supremo.",
+    "options": [
+      "El Tribunal Supremo.",
+      "Los Tribunales consuetudinarios y tradicionales.",
+      "El Tribunal de Cuentas.\n",
+      "El Tribunal de Constitucional.\n"
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según lo dispuesto en el artículo 57 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la\ndeterminación del número, la denominación y el ámbito de competencia respectivo de los Ministerios y las Secretarías de\nEstado se establecen por:",
+    "answer": "Real Decreto del Presidente del Gobierno.",
+    "options": [
+      "Acuerdo del Consejo de Ministros.",
+      "Real Decreto del Presidente del Gobierno.",
+      "Orden Ministerial.",
+      "Real Decreto del Consejo de Ministros."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De conformidad con la Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado, la creación y supresión\nde las Misiones Diplomáticas Permanentes y Representaciones Permanentes se realizará mediante:",
+    "answer": "Real decreto del Consejo de Ministros, a iniciativa del Ministerio de Asuntos Exteriores y de Cooperación, y a propuesta del\nMinisterio de Hacienda y Administraciones Públicas, previo informe del Consejo Ejecutivo de Política Exterior.",
+    "options": [
+      "Real decreto del Consejo de Ministros, a iniciativa del Ministerio de Asuntos Exteriores y de Cooperación, y a propuesta del\nMinisterio de Hacienda y Administraciones Públicas, previo informe del Consejo Ejecutivo de Política Exterior.",
+      "Ley de las Cortes Generales, previo informe del Consejo de Política Exterior.",
+      "Orden del Ministro de Asuntos Exteriores.",
+      "Real decreto del Consejo de Ministros, a iniciativa del Ministerio del Interior, y a propuesta del Ministerio de Asuntos Exteriores\ny de Cooperación, previo informe del Consejo Ejecutivo de Política Exterior."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la transformación de una entidad pública\nempresarial en agencia estatal deberá efectuarse:\n",
+    "answer": "Por Ley.",
+    "options": [
+      "Mediante Decreto, aunque suponga modificación de la Ley de creación.",
+      "Por Orden Ministerial.\n",
+      "Mediante Real Decreto, aunque suponga modificación de la Ley de creación.",
+      "Por Ley."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, señale la opción correcta en relación con\nlas Autoridades Administrativas Independientes de ámbito estatal:",
+    "answer": "Su desempeño requiere de independencia funcional o una especial autonomía respecto de la Administración General del\nEstado.",
+    "options": [
+      "Su desempeño requiere de independencia funcional o una especial autonomía respecto de la Administración General del\nEstado.",
+      "Carecen de personalidad jurídica propia aunque gozan de poderes especiales para la supervisión de carácter interno sobre\nsectores económicos.",
+      "No tienen atribuidas funciones de regulación o supervisión externa sobre un determinado sector o actividad económica.",
+      "Actuarán en el desarrollo de su actividad para el cumplimiento de sus fines con interés empresarial o comercial."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De conformidad con el artículo 84 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, señale qué\nentidades NO forman parte del sector público institucional estatal:\n",
+    "answer": "Las sociedades administrativas independientes.",
+    "options": [
+      "Las universidades públicas no transferidas.",
+      "Los consorcios.",
+      "Las fundaciones del sector público.",
+      "Las sociedades administrativas independientes."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según la Constitución Española de 1978, en los Estatutos aprobados por el procedimiento del artículo 151 de la\nConstitución, la organización institucional autonómica contará con un Presidente elegido por:",
+    "answer": "La Asamblea, de entre sus miembros.",
+    "options": [
+      "El Consejo de Gobierno, de entre sus miembros.\n",
+      "La Asamblea, de entre los miembros del Consejo de Gobierno.",
+      "El Consejo de Gobierno, de entre los miembros de la Asamblea.",
+      "La Asamblea, de entre sus miembros."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el artículo 149.1 de la Constitución Española de 1978, ¿qué competencias de las relacionadas a continuación NO\nson exclusivas del Estado y pueden asumirse por las Comunidades Autónomas?\n",
+    "answer": "Los montes y aprovechamientos forestales.",
+    "options": [
+      "Administración de Justicia.\n",
+      "Los montes y aprovechamientos forestales.",
+      "Defensa y Fuerzas Armadas.\n",
+      "Legislación sobre la propiedad intelectual e industrial."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con el artículo 141 de la Constitución Española de 1978, ¿quién tiene la competencia para la aprobación de una alteración de los límites provinciales en España?\n",
+    "answer": "Las Cortes Generales mediante ley orgánica.",
+    "options": [
+      "El Parlamento de la Comunidad Autónoma correspondiente mediante decreto-ley.",
+      "El Congreso de los Diputados mediante ley ordinaria.",
+      "Las Cortes Generales mediante ley orgánica.",
+      "El Consejo de Ministros mediante real decreto."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cuál de las siguientes competencias ejercerá el municipio en todo caso como competencia propia, según la Ley 7/1985,\nde 2 de abril, Reguladora de las Bases del Régimen Local?",
+    "answer": "Protección de la salubridad pública.",
+    "options": [
+      "Protección de la salubridad pública.",
+      "Legislación en materia de seguridad municipal.",
+      "Regulación del régimen jurídico de los partidos políticos con sede en el municipio.",
+      "Elaboración de acuerdos con los municipios colindantes."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con el artículo 44 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, en una\nmancomunidad de municipios podrán integrarse:",
+    "answer": "Municipios pertenecientes a distintas Comunidades Autónomas, siempre que lo permitan las normativas de las Comunidades\nAutónomas afectadas.\n",
+    "options": [
+      "Sólo municipios pertenecientes a la misma Comunidad Autónoma, siempre que lo autoricen las Diputaciones Provinciales\ncorrespondientes.",
+      "Sólo municipios pertenecientes a la misma provincia.",
+      "Sólo municipos limítrofes.",
+      "Municipios pertenecientes a distintas Comunidades Autónomas, siempre que lo permitan las normativas de las Comunidades\nAutónomas afectadas.\n"
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cuál de las siguientes instituciones fue reconocida por primera vez en el Tratado de Lisboa como institución de la Unión\nEuropea?\n",
+    "answer": "Banco Central Europeo.",
+    "options": [
+      "Parlamento Europeo.",
+      "Tribunal de Cuentas.",
+      "Comisión Europea.\n",
+      "Banco Central Europeo."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Indique en qué fecha entró en vigor el Tratado de Lisboa:",
+    "answer": "1 de diciembre de 2009.",
+    "options": [
+      "1 de diciembre de 2009.",
+      "3 de diciembre de 2007.",
+      "13 de diciembre de 2007.",
+      "3 de diciembre de 2009."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De conformidad con el artículo 20 del Tratado de la Unión Europea, la decisión de autorizar una cooperación reforzada\nserá adoptada:",
+    "answer": "Por el Consejo, como último recurso, cuando haya llegado a la conclusión de que los objetivos perseguidos por dicha\ncooperación no pueden ser alcanzados en un plazo razonable por la Unión en su conjunto, y a condición de que participen\nen ella al menos nueve estados miembros.",
+    "options": [
+      "Por el Consejo, como último recurso, cuando haya llegado a la conclusión de que los objetivos perseguidos por dicha\ncooperación no pueden ser alcanzados en un plazo razonable por la Unión en su conjunto, y a condición de que participen\nen ella al menos siete estados miembros.",
+      "Por la Comisión, como último recurso, cuando haya llegado a la conclusión de que los objetivos perseguidos por dicha\ncooperación no pueden ser alcanzados en un plazo razonable por la Unión en su conjunto, y a condición de que participen\nen ella al menos nueve estados miembros.",
+      "Por la Comisión, como último recurso, cuando haya llegado a la conclusión de que los objetivos perseguidos por dicha\ncooperación no pueden ser alcanzados en un plazo razonable por la Unión en su conjunto, y a condición de que participen\nen ella al menos siete estados miembros.",
+      "Por el Consejo, como último recurso, cuando haya llegado a la conclusión de que los objetivos perseguidos por dicha\ncooperación no pueden ser alcanzados en un plazo razonable por la Unión en su conjunto, y a condición de que participen\nen ella al menos nueve estados miembros."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Qué país ejerce la Presidencia del Consejo de la Unión Europea durante el segundo semestre de 2024?",
+    "answer": "Hungría.",
+    "options": [
+      "España.",
+      "Hungría.",
+      "Polonia.",
+      "Bélgica."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con la Decisión (UE) 2023/2061 del Consejo Europeo de 22 de septiembre de 2023, por la que se fija la\ncomposición del Parlamento Europeo, indique el número de representantes que tiene España para la legislatura 2024-2029:",
+    "answer": 61,
+    "options": [
+      59,
+      63,
+      60,
+      61
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con el Tratado de Funcionamiento de la Unión Europea, ¿quién fijará los sueldos de los miembros del Tribunal\nde Justicia de la Unión Europea?",
+    "answer": "El Consejo.",
+    "options": [
+      "El Tribunal de Justicia de la Unión Europea.",
+      "El Consejo Europeo.",
+      "El Parlamento Europeo.",
+      "El Consejo."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "En virtud del artículo 288 del Tratado de Funcionamiento de la Unión Europea, los reglamentos:",
+    "answer": "Tienen siempre alcance general, obligan en todos sus elementos y son directamente aplicables.",
+    "options": [
+      "Entran en vigor siempre a los veinte días de su publicación.",
+      "Se incluyen dentro del Derecho originario de la Unión Europea.",
+      "Podrán ser vinculantes.",
+      "Tienen siempre alcance general, obligan en todos sus elementos y son directamente aplicables."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con el Tratado de Funcionamiento de la Unión Europea, el número de miembros del Comité Económico y\nSocial no excederá de:",
+    "answer": 350,
+    "options": [
+      100,
+      400,
+      250,
+      350
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el Título II del Tratado de Funcionamiento de la Unión Europea, \"Disposiciones financieras\", el presupuesto de la\nUnión Europea:\n",
+    "answer": "Se establece por el Parlamento Europeo y el Consejo anualmente mediante un procedimiento legislativo especial.",
+    "options": [
+      "Debe respetar el marco financiero plurianual, que se establecerá para un periodo mínimo de cuatro años.\n",
+      "El Tribunal de Cuentas lleva a cabo un control interno del mismo.",
+      "No exige un equilibrio en cuanto a ingresos y gastos.",
+      "Se establece por el Parlamento Europeo y el Consejo anualmente mediante un procedimiento legislativo especial."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con el Tratado de Funcionamiento de la Unión Europea, ¿quién fijará los derechos del arancel aduanero común?",
+    "answer": "El Consejo, a propuesta de la Comisión.",
+    "options": [
+      "El Consejo, a propuesta de la Comisión.",
+      "El Parlamento Europeo, a propuesta del Consejo.",
+      "El Consejo Europeo, a propuesta del Consejo.\n",
+      "La Comisión, a propuesta del Consejo Europeo."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con el artículo 45 del Tratado de Funcionamiento de la Unión Europea, la libre circulación de trabajadores NO\nse refiere al siguiente derecho:",
+    "answer": "Residir en uno de los Estados miembros con objeto de acceder a prestaciones sanitarias.",
+    "options": [
+      "Permanecer en el territorio de un Estado miembro después de haber ejercido en él un empleo.",
+      "Residir en uno de los Estados miembros con objeto de acceder a prestaciones sanitarias.",
+      "Residir en uno de los Estados miembros con objeto de ejercer en él un empleo.",
+      "Responder a ofertas efectivas de trabajo."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Señale qué país NO pertenece al Espacio Schengen:",
+    "answer": "Irlanda.",
+    "options": [
+      "Irlanda.",
+      "Croacia.",
+      "Noruega.",
+      "Suiza."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Con base en el Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos, cuando ya existe constancia de la recepción de la notificación en la dirección electrónica, ¿cuál es el plazo que debe transcurrir sin acceder a su contenido para que la notificación se entienda como rechazada?",
+    "answer": "10 días naturales.",
+    "options": [
+      "15 días naturales.",
+      "10 días hábiles.",
+      "15 días hábiles.",
+      "10 días naturales."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De conformidad a lo establecido en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las Administraciones podrán declarar como fuentes abiertas las aplicaciones, desarrolladas por sus servicios o que hayan sido objeto de contratación y de cuyos derechos de propiedad intelectual sean titulares, salvo que la información a la que estén asociadas sea objeto de especial protección por una norma, cuando:\n",
+    "answer": "Se derive una mayor transparencia en el funcionamiento de la Administración Pública o se fomente con ello la incorporación\nde los ciudadanos a la Sociedad de la información.",
+    "options": [
+      "Se derive el pago de una cuota por parte del usuario de las mismas.",
+      "Se derive una contraprestación por parte de las personas que lo soliciten.",
+      "Se derive una mayor transparencia en el funcionamiento de la Administración Pública o se fomente con ello la incorporación\nde los ciudadanos a la Sociedad de la información.",
+      "Se derive una mayor agilidad en la prestación de los servicios y se suscriban los oportunos convenios entre las\nAdministraciones Públicas."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cuál es el órgano de cooperación administrativa encargado del seguimiento de la aplicación del contenido de la Ley\n20/2013, de 9 de diciembre, de garantía de la unidad de mercado?",
+    "answer": "La Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios.",
+    "options": [
+      "La Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios.",
+      "La Conferencia Sectorial para la Unidad de Mercado.",
+      "El Consejo para la Mejora Regulatoria y el Clima de Negocios.",
+      "El Consejo para la Unidad de Mercado."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "La Red de Parques Nacionales, con base en lo establecido en la Ley 30/2014, de 3 de diciembre, de Parques Nacionales,\nestá conformada por:",
+    "answer": "Aquellos espacios declarados parques nacionales, su marco normativo básico y el sistema de relaciones necesario para su\nfuncionamiento.",
+    "options": [
+      "Aquellos espacios declarados parques nacionales, su marco normativo básico y el sistema de relaciones necesario para su\nfuncionamiento.",
+      "Únicamente por aquellos espacios declarados parques nacionales y el sistema de relaciones necesario para su\nfuncionamiento.",
+      "Aquellos espacios declarados parques nacionales, su marco normativo básico y su estructura interna de funcionamiento.",
+      "Aquellos espacios declarados parques nacionales y su estructura interna de funcionamiento."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social, la gestión y administración de la Seguridad Social se efectuará, bajo la dirección y tutela de los respectivos departamentos ministeriales, con sujeción a los principios de:\n",
+    "answer": "Simplificación, racionalización, economía de costes, solidaridad financiera y unidad de caja, eficacia social y\ndescentralización.",
+    "options": [
+      "Eficiencia, racionalización de los recursos, agilización, caja única, eficacia, universalidad y solidaridad financiera.",
+      "Eficacia, economía procesal, solidaridad, universalidad, descentralización, reducción de gastos y simplificación.",
+      "Racionalización, eficiencia, solidaridad financiera, universalidad, eficacia institucional y desconcentración.",
+      "Simplificación, racionalización, economía de costes, solidaridad financiera y unidad de caja, eficacia social y\ndescentralización."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social, ¿a quién le corresponde la gestión y funcionamiento del Registro de Prestaciones Sociales Públicas?",
+    "answer": "Al Instituto Nacional de la Seguridad Social.",
+    "options": [
+      "Al Instituto de Salud Pública.",
+      "Al Instituto Nacional de la Seguridad Social.",
+      "Al Instituto de Mayores y Servicios Sociales.",
+      "Al Instituto Nacional de Gestión Sanitaria."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cómo se calcula la base reguladora de la prestación por desempleo?",
+    "answer": "Calculando el promedio de cotización durante los 180 días precedentes al día en que se haya producido la situación legal de\ndesempleo o al del que cesó la obligación de cotizar.",
+    "options": [
+      "Calculando el promedio de cotización durante los 365 días precedentes al día en que se haya producido la situación legal de\ndesempleo o al del que cesó la obligación de cotizar.\n",
+      "Calculando el promedio de cotización durante los 150 días precedentes al día en que se haya producido la situación legal de\ndesempleo o al del que cesó la obligación de cotizar.",
+      "Calculando el promedio de cotización durante los 90 días precedentes al día en que se haya producido la situación legal de\ndesempleo o al del que cesó la obligación de cotizar.",
+      "Calculando el promedio de cotización durante los 180 días precedentes al día en que se haya producido la situación legal de\ndesempleo o al del que cesó la obligación de cotizar."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "El próximo otoño de 2025 tendrá lugar la IX Cumbre Global de la Alianza para el Gobierno Abierto en España, que\norganizará por primera vez un evento de esta organización. ¿En qué ciudad se celebrará?\n",
+    "answer": "Vitoria-Gasteiz.",
+    "options": [
+      "Barcelona.",
+      "Valencia.",
+      "Madrid.",
+      "Vitoria-Gasteiz."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno,\n¿qué entidades privadas serán sujetos obligados a las disposiciones contenidas en el Capítulo II del Título I relativas a la\npublicidad activa?",
+    "answer": "Las que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 100.000 euros o\ncuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que\nalcancen como mínimo la cantidad de 5.000 euros.",
+    "options": [
+      "Las que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 100.000 euros o\ncuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que\nalcancen como mínimo la cantidad de 5.000 euros.",
+      "Las que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 100.000 euros o\ncuando al menos el 30 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que\nalcancen como mínimo la cantidad de 3.000 euros.",
+      "Las que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 100.000 euros o\ncuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que\nalcancen como mínimo la cantidad de 5.000 euros.",
+      "Las que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 50.000 euros o\ncuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que\nalcancen como mínimo la cantidad de 3.000 euros."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos\ndigitales, ¿cuál será la duración del mandato de la Presidencia y del Adjunto de la Agencia Española de Protección de\nDatos?",
+    "answer": "Será de cinco años y puede ser renovado para otro período de igual duración.",
+    "options": [
+      "Será de cinco años y puede ser renovado para otro período de igual duración.",
+      "Será de cinco y cuatro años para la Presidencia y Adjunto respectivamente, no renovables.\n",
+      "Será de cuatro años y puede ser renovado solo en el caso de la Presidencia.",
+      "Será de cuatro años no renovables."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI, ¿con qué periodicidad presentará el Consejo de Participación de las Personas LGTBI una memoria detallando su actividad, reuniones y actuaciones?\n",
+    "answer": "Cada seis meses.",
+    "options": [
+      "Cada seis meses.",
+      "Cada dos meses.",
+      "Anualmente.",
+      "Cada tres meses."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cómo se organizan las Oficinas de la cooperación española, según lo dispuesto en la Ley 1/2023, de 20 de febrero, de\nCooperación para el Desarrollo Sostenible y la Solidaridad Global?",
+    "answer": "Las Oficinas de la cooperación española son unidades adscritas orgánicamente a las Embajadas y Representaciones\nPermanentes bajo la dirección superior de su Jefatura de Misión y la dependencia funcional de la AECID.",
+    "options": [
+      "Las Oficinas de la cooperación española son unidades adscritas orgánicamente a las Embajadas y Representaciones\nPermanentes bajo la dirección superior de su Jefatura de Misión y la dependencia funcional de la AECID.",
+      "Las Oficinas de la cooperación española son unidades adscritas orgánica y funcionalmente a la AECID.",
+      "Las Oficinas de la cooperación española son unidades adscritas funcionalmente a las Embajadas y Representaciones\nPermanentes bajo la dirección superior de su Jefatura de Misión y la dependencia orgánica de la AECID.",
+      "Las Oficinas de la cooperación española son unidades adscritas orgánicamente y funcionalmente a las Embajadas y\nRepresentaciones Permanentes."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con la Constitución Española de 1978, en materia de legislación sobre productos farmacéuticos, ¿qué\ncompetencia tiene el Estado?",
+    "answer": "Competencia exclusiva.",
+    "options": [
+      "Competencia exclusiva.",
+      "Ninguna, es competencia exclusiva de las Comunidades Autónomas.",
+      "El Estado establecerá la legislación básica sin perjuicio de las facultades de las Comunidades Autónomas de establecer\nnormas adicionales.",
+      "Competencia compartida con las Comunidades Autónomas."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Qué requisito establece el artículo 1.5 del Código Civil para la aplicación directa de las normas contenidas en tratados\ninternacionales?\n",
+    "answer": "Su publicación íntegra en el \"Boletín Oficial del Estado\".",
+    "options": [
+      "Su firma por el Jefe del Estado.",
+      "Su firma por la persona titular del departamento ministerial competente en materia de Asuntos Exteriores.",
+      "Su ratificación por las Cortes Generales.",
+      "Su publicación íntegra en el \"Boletín Oficial del Estado\"."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Qué órgano eleva el Plan Anual Normativo al Consejo de Ministros, según el literal del artículo 25 de la Ley 50/1997, de 27 de noviembre, del Gobierno?\n",
+    "answer": "El Ministro de la Presidencia.",
+    "options": [
+      "El Ministro de la Presidencia.",
+      "La Secretaría General Técnica del Ministerio de Justicia.\n",
+      "El Abogado General del Estado.",
+      "La Ministra de Hacienda."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el artículo 82 de la Constitución Española de 1978, las Cortes Generales podrán delegar en el Gobierno la potestad\nde dictar normas con rango de ley sobre materias determinadas. Cuando se trate de refundir varios textos legales en uno\nsolo, la delegación legislativa deberá otorgarse mediante:\n",
+    "answer": "Una ley ordinaria.\n",
+    "options": [
+      "Una ley orgánica.",
+      "Una ley ordinaria.\n",
+      "Una ley de bases.",
+      "Un reglamento."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cuáles de los siguientes principios generales del Derecho aparecen en el artículo 9.3 de la Constitución Española de 1978?",
+    "answer": "La publicidad de las normas, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+    "options": [
+      "La eficacia y la jerarquía.",
+      "La buena fe y la equidad.",
+      "La autonomía y la solidaridad.",
+      "La publicidad de las normas, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el artículo 94 de la Constitución Española de 1978, la prestación del consentimiento del Estado para obligarse\nrequerirá, en los casos de tratados de carácter político, la previa autorización de:",
+    "answer": "Las Cortes Generales.",
+    "options": [
+      "Las Cortes Generales.",
+      "El Congreso, exclusivamente.",
+      "El Senado, exclusivamente.",
+      "El Tribunal Constitucional, previa consulta del Gobierno."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De conformidad con el artículo 41 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿qué fecha se debe tomar en consideración cuando la notificación a un interesado sea practicada por diversos cauces?\n",
+    "answer": "La de aquella que se hubiera producido en primer lugar.",
+    "options": [
+      "La de aquella que se hubiera producido en primer lugar.",
+      "La de aquella que se hubiera producido por correo postal.",
+      "La de aquella que se hubiera producido por medios electrónicos.",
+      "La de aquella que se hubiera producido en último lugar."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "El artículo 34.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, dispone que en los contratos del\nsector público podrán incluirse cualesquiera pactos, cláusulas y condiciones, siempre que no sean contrarios:",
+    "answer": "Al interés público, al ordenamiento jurídico y a los principios de buena administración.",
+    "options": [
+      "Al orden público, a la ley y a la buena fe.",
+      "Al interés público, al ordenamiento jurídico y a los principios de buena administración.",
+      "A los principios generales del derecho, a la ley y al interés público.",
+      "A las leyes, a la moral y al orden público."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según lo dispuesto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿qué tipo de contrato sería la\nadquisición y el arrendamiento de equipos y sistemas de telecomunicaciones o para el tratamiento de la información, sus\ndispositivos y programas, y la cesión del derecho de uso de estos últimos, en cualquiera de sus modalidades de puesta\na disposición, a excepción de los contratos de adquisición de programas de ordenador desarrollados a medida?\n",
+    "answer": "Contrato de suministro.",
+    "options": [
+      "Contrato mixto.\n",
+      "Contrato de suministro.",
+      "Contrato de concesión de servicios.\n",
+      "Contrato de servicios."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿En qué expedientes de contratación de obras se dispensa del requisito previo de disponibilidad de los terrenos, de\nconformidad con el artículo 236.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público?",
+    "answer": "En los de infraestructuras hidráulicas, de transporte y de carreteras.",
+    "options": [
+      "En los de infraestructuras aeroportuarias, ferroviarias y viales.",
+      "En los de infraestructuras hidráulicas, de transporte y de carreteras.",
+      "En los de infraestructuras agrarias, medioambientales y de equipamientos de núcleos rurales.",
+      "En los de infraestructuras portuarias, aeroportuarias y de carreteras."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cuál es el orden jurisdiccional competente para las cuestiones relacionadas con la preparación y adjudicación de los\ncontratos privados de las Administraciones Públicas, de acuerdo con el artículo 27 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público?\n",
+    "answer": "Orden jurisdiccional contencioso-administrativo.",
+    "options": [
+      "Orden jurisdiccional contencioso-administrativo.",
+      "Orden jurisdiccional social.",
+      "Orden jurisdiccional civil.",
+      "Orden jurisdiccional penal.\n"
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Las subvenciones a los grupos parlamentarios de las Cámaras de las Cortes Generales, según el artículo 4 de la Ley\n38/2003, de 17 de noviembre, General de Subvenciones, ¿están incluidas en el ámbito de aplicación de dicha ley?",
+    "answer": "Están explícitamente excluidas del ámbito de aplicación.",
+    "options": [
+      "Están explícitamente excluidas del ámbito de aplicación.",
+      "Están explícitamente incluidas en el ámbito de aplicación.",
+      "Los grupos parlamentarios de las Cámaras de las Cortes Generales no tienen acceso a ningún tipo de subvenciones, si bien\nla Ley permite el acceso a los grupos parlamentarios de las cámaras regionales.",
+      "Están explícitamente incluidas en el ámbito de aplicación de la Ley 38/2003 sólo las de los grupos parlamentarios con\nrepresentación en más de la mitad de las Comunidades Autónomas."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según la Ley de 16 de diciembre de 1954 sobre expropiación forzosa, en el procedimiento especial para la expropiación de bienes de valor artístico, histórico y arqueológico, el justo precio de los bienes se determinará por:",
+    "answer": "Una Comisión compuesta por académicos.",
+    "options": [
+      "El Director General de Patrimonio.",
+      "El Ministro de Educación y Formación Profesional.",
+      "El Jurado Provincial de Expropiación.",
+      "Una Comisión compuesta por académicos."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "La Ley de 16 de diciembre de 1954, sobre expropiación forzosa, establece que, para la expropiación de bienes de la Iglesia,\nse observará el régimen establecido al efecto en:\n",
+    "answer": "El Concordato vigente.",
+    "options": [
+      "El Tratado de Letrán.",
+      "La Ley Orgánica 7/1980, de 5 de julio, de Libertad Religiosa.",
+      "El Concordato vigente.",
+      "La Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "La Ley 23/1982, de 16 de junio, reguladora del Patrimonio Nacional, en su artículo cuarto relaciona una serie de bienes\nque integran el Patrimonio Nacional. Indique cuál de los siguientes NO se halla incluido explícitamente en esta relación:",
+    "answer": "La Alhambra y el Generalife.",
+    "options": [
+      "Los Palacios Reales de la Granja y de Riofrío y sus terrenos anexos.",
+      "El Palacio Real de Oriente y el Parque de Campo del Moro.\n",
+      "El Palacio de la Almudaina con sus jardines, sito en Palma de Mallorca.",
+      "La Alhambra y el Generalife."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Qué informe es preceptivo para los procedimientos de responsabilidad patrimonial por funcionamiento anormal de la Administración de Justicia, según el artículo 81.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas?\n",
+    "answer": "El del Consejo General del Poder Judicial.",
+    "options": [
+      "El de la Abogacía del Estado.",
+      "El del Consejo General del Poder Judicial.",
+      "El del Consejo de Estado.",
+      "El de la Secretaría General Técnica del Ministerio de Justicia."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el artículo 67 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones\nPúblicas, para el derecho a reclamar en procedimientos de responsabilidad patrimonial en caso de daños de carácter\nfísico o psíquico a las personas, el plazo empezará a computarse desde:",
+    "answer": "La curación o la determinación del alcance de las secuelas.",
+    "options": [
+      "La fecha que se determine en las diligencias policiales y/o judiciales.",
+      "La curación o la determinación del alcance de las secuelas.",
+      "La fecha de la primera revisión médica.",
+      "La fecha en que se sufrió el accidente."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Qué consecuencia establece el artículo 68.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común\nde las Administraciones Públicas, cuando un interesado no responde al requerimiento administrativo de subsanación o mejora de su solicitud?",
+    "answer": "Se resuelve el desistimiento de la solicitud.",
+    "options": [
+      "El procedimiento continúa en sus siguientes fases.",
+      "La Administración notifica un segundo requerimiento de subsanación o mejora de la solicitud.",
+      "Se resuelve el desistimiento de la solicitud.",
+      "La Administración declara el archivo de las actuaciones.\n"
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Indique la respuesta correcta sobre el sentido del silencio administrativo, de conformidad con el artículo 106 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, para la revisión de disposiciones y actos nulos:",
+    "answer": "Si el procedimiento se hubiera iniciado a solicitud de interesado, se podrá entender la misma desestimada por silencio\nadministrativo.",
+    "options": [
+      "Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de seis meses desde su inicio sin dictarse\nresolución se podrá entender desestimada por silencio administrativo.",
+      "Si el procedimiento se hubiera iniciado a solicitud de interesado, se podrá entender la misma desestimada por silencio\nadministrativo.",
+      "Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de tres meses desde su inicio sin dictarse\nresolución producirá la caducidad del mismo.",
+      "Si el procedimiento se hubiera iniciado a solicitud de interesado, se podrá entender la misma estimada por silencio\nadministrativo."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Qué consecuencia establece el artículo 115.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común\nde las Administraciones Públicas, cuando un recurrente no califica su recurso o erra en dicha calificación?",
+    "answer": "La Administración tramita el recurso, siempre que deduzca su verdadero carácter.",
+    "options": [
+      "La Administración tramita el recurso, siempre que deduzca su verdadero carácter.",
+      "La Administración declara la caducidad del procedimiento.",
+      "La Administración declara el archivo de las actuaciones.",
+      "La Administración inadmite a trámite el recurso, por incumplimiento de los requisitos para su interposición."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cuál de las siguientes causas de inadmisión de un recurso administrativo es INCORRECTA, según el artículo 116 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas?\n",
+    "answer": "La existencia de otro recurso con identidad sustancial o íntima conexión.",
+    "options": [
+      "La carencia manifiesta de fundamento.",
+      "La existencia de otro recurso con identidad sustancial o íntima conexión.",
+      "El transcurso del plazo de interposición.",
+      "La falta de legitimación del recurrente.\n"
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, ¿qué órgano es competente de las impugnaciones contra actos de las Juntas Electorales de Zona y de las formuladas en materia de proclamación de candidaturas y candidatos efectuada por cualquiera de las Juntas Electorales, en los términos previstos en la legislación electoral?\n",
+    "answer": "Juzgados de lo Contencioso-administrativo.",
+    "options": [
+      "Juzgados de lo Contencioso-administrativo.",
+      "Sala de lo Contencioso-administrativo de la Audiencia Nacional.\n",
+      "Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia.",
+      "Juzgados Centrales de lo Contencioso-administrativo."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Indique cuál de las siguientes afirmaciones sobre la pérdida de la condición de funcionario es FALSA:",
+    "answer": "La pérdida de la nacionalidad española determina automáticamente la pérdida de la condición de funcionario.",
+    "options": [
+      "La pena principal o accesoria de inhabilitación especial para cargo público, cuando hubiera adquirido firmeza la sentencia\nque la imponga, produce la pérdida de la condición de funcionario respecto de aquellos empleos o cargos especificados en\nla sentencia.",
+      "La jubilación total, ya sea voluntaria, forzosa o por declaración de incapacidad permanente para el ejercicio de las funciones\npropias del cuerpo o escala, es causa de pérdida de la condición de funcionario.",
+      "La renuncia a la condición de funcionario no inhabilita para ingresar de nuevo en la Administración Pública a través del\nprocedimiento de selección establecido.",
+      "La pérdida de la nacionalidad española determina automáticamente la pérdida de la condición de funcionario."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cuál de las siguientes circunstancias NO está prevista en el texto refundido de la Ley del Estatuto Básico del Empleado\nPúblico en relación con el nombramiento de los funcionarios interinos?",
+    "answer": "La cobertura transitoria de plazas de nueva creación para personal funcionario de carrera, únicamente durante el tiempo en\nel que las personas aprobadas realizan el curso selectivo.",
+    "options": [
+      "La existencia de plazas vacantes cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de tres\naños.",
+      "La cobertura transitoria de plazas de nueva creación para personal funcionario de carrera, únicamente durante el tiempo en\nel que las personas aprobadas realizan el curso selectivo.",
+      "La ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años, ampliable hasta\ndoce meses más por las leyes de Función Pública.",
+      "La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "En el régimen disciplinario del personal al servicio de las Administraciones Públicas regulado en el texto refundido de la Ley del Estatuto Básico del Empleado Público, las infracciones muy graves prescriben:",
+    "answer": "A los tres años desde que se hubiera cometido la falta o desde el cese de su comisión cuando se trate de faltas continuadas.",
+    "options": [
+      "A los tres años desde que se hubiera cometido la falta o desde el cese de su comisión cuando se trate de faltas continuadas.",
+      "A los cuatro años desde que se hubiera cometido la falta o desde el cese de su comisión cuando se trate de faltas continuadas.",
+      "A los cinco años desde que se hubiera cometido la falta o desde el cese de su comisión cuando se trate de faltas continuadas.",
+      "Las infracciones muy graves no prescriben.\n"
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con el artículo 47 bis del texto refundido de la Ley del Estatuto Básico del Empleado Público, el personal público que preste sus servicios mediante teletrabajo:",
+    "answer": "Tendrá los mismos deberes y derechos, individuales y colectivos, que el resto del personal que preste sus servicios en\nmodalidad presencial, incluyendo la normativa de prevención de riesgos laborales que resulte aplicable, salvo aquellos que\nsean inherentes a la realización de la prestación del servicio de manera presencial.\n",
+    "options": [
+      "Tendrá deberes y derechos, individuales y colectivos, diferentes a los del resto del personal que preste sus servicios en\nmodalidad presencial.",
+      "Tendrá los mismos deberes y derechos que el resto del personal que preste sus servicios en modalidad presencial, incluyendo\nla normativa de prevención de riesgos laborales que resulte aplicable, salvo aquellos que sean inherentes a la realización de\nla prestación del servicio de manera presencial y excluyendo los derechos de tipo colectivo.\n",
+      "Tendrá una adaptación de los deberes y derechos, individuales y colectivos, del resto del personal que preste sus servicios\nen modalidad presencial, sin incluir en todo caso la normativa de prevención de riesgos laborales que resulte aplicable.",
+      "Tendrá los mismos deberes y derechos, individuales y colectivos, que el resto del personal que preste sus servicios en\nmodalidad presencial, incluyendo la normativa de prevención de riesgos laborales que resulte aplicable, salvo aquellos que\nsean inherentes a la realización de la prestación del servicio de manera presencial.\n"
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con el Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo, los procesos de selección:",
+    "answer": "Se desarrollarán de manera que la realización de las pruebas, salvo por razones justificadas, se lleve a cabo de forma\nterritorializada, teniendo especialmente en cuenta los territorios no peninsulares, y se guiarán por los principios de agilidad y\neficiencia.",
+    "options": [
+      "Se desarrollarán de manera que la realización de las pruebas, salvo por razones justificadas, se lleve a cabo de forma\nterritorializada, teniendo especialmente en cuenta los territorios no peninsulares, y se guiarán por los principios de agilidad y\neficiencia.",
+      "Se desarrollarán de manera que la realización de las pruebas se lleve a cabo de forma centralizada, en Madrid, y se guiarán\npor los principios de agilidad y eficiencia.",
+      "Se desarrollarán de manera que la realización de las pruebas, salvo por razones justificadas, se lleve a cabo de forma\ntelemática, teniendo especialmente en cuenta los territorios no peninsulares, y se guiarán por los principios de agilidad y\neficiencia.",
+      "Se desarrollarán de manera que la realización de las pruebas, salvo por razones justificadas, se lleve a cabo de forma\nterritorializada, excluyendo a los territorios no peninsulares, y se guiarán por los principios de agilidad y eficiencia."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con la Orden TDF/380/2024, de 26 de abril, sobre planificación estratégica de los recursos humanos de la\nAdministración del Estado, ¿cuándo deberán aprobarse los planes específicos?",
+    "answer": "En el primer trimestre del año.",
+    "options": [
+      "Dicha Orden NO prevé la existencia de planes específicos.\n",
+      "En el primer trimestre del año.",
+      "Con carácter bienal.",
+      "En el último trimestre del año.\n"
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el artículo 18 del texto refundido de la Ley del Estatuto Básico del Empleado Público, los requisitos para la promoción interna de los funcionarios de carrera son:",
+    "answer": "Poseer los requisitos para el ingreso, tener una antigüedad de, al menos, dos años de servicio activo en el inferior Subgrupo,\no Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo y superar las correspondientes pruebas\nselectivas.",
+    "options": [
+      "Poseer los requisitos para el ingreso, tener una antigüedad de, al menos, tres años de servicio activo en el inferior Subgrupo,\no Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo y superar las correspondientes pruebas\nselectivas.",
+      "Poseer los requisitos para el ingreso, tener una antigüedad de, al menos, tres años de servicio activo en el inferior Subgrupo,\no Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo y participar en las correspondientes\npruebas selectivas.\n",
+      "Poseer los requisitos para el ingreso, tener una antigüedad de, al menos, dos años de servicio activo en el inferior Subgrupo,\no Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo y participar en las correspondientes\npruebas selectivas.",
+      "Poseer los requisitos para el ingreso, tener una antigüedad de, al menos, dos años de servicio activo en el inferior Subgrupo,\no Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo y superar las correspondientes pruebas\nselectivas."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con la Orden TDF/379/2024, de 26 de abril, para la regulación de especialidades de los procedimientos de provisión de puestos del personal directivo público profesional y las herramientas para su gestión en el marco de lo dispuesto en el Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo, en las solicitudes para puestos de personal directivo público profesional NO se incluirá:\n",
+    "answer": "Una carta de recomendación del superior jerárquico.",
+    "options": [
+      "Una justificación por escrito de la idoneidad de la persona candidata para el puesto al que aspira, en relación con los requisitos\nexigidos para el desempeño del puesto.",
+      "La cumplimentación de un cuestionario de autoevaluación dirigido a valorar las competencias directivas.",
+      "Un curriculum vitae en formato normalizado.",
+      "Una carta de recomendación del superior jerárquico."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Una persona funcionaria de carrera de la Administración General del Estado que sea designada para formar parte del\nConsejo General del Poder Judicial pasará a la situación administrativa de:\n",
+    "answer": "Servicios especiales.\n",
+    "options": [
+      "Excedencia.",
+      "Servicio en otras Administraciones Públicas.\n",
+      "Suspensión de funciones.",
+      "Servicios especiales.\n"
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cuál de las siguientes actividades NO está exceptuada del régimen de incompatibilidades de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas?",
+    "answer": "La participación diaria en coloquios y programas en cualquier medio de comunicación social.",
+    "options": [
+      "La colaboración y la asistencia ocasional a Congresos, seminarios, conferencias o cursos de carácter profesional.\n",
+      "La producción y creación literaria, artística, científica y técnica, así como las publicaciones derivadas de aquéllas, siempre\nque no se originen como consecuencia de una relación de empleo o de prestación de servicios.\n",
+      "La participación en Tribunales calificadores de pruebas selectivas para ingreso en las Administraciones Públicas.",
+      "La participación diaria en coloquios y programas en cualquier medio de comunicación social."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el artículo 22 del texto refundido de la Ley de Estatuto Básico del Empleado Público, ¿cuántas pagas\nextraordinarias, y de qué importe, tienen los funcionarios de carrera?",
+    "answer": "Dos pagas extraordinarias al año, cada una por el importe de una mensualidad de las retribuciones básicas y de la totalidad\nde las retribuciones complementarias, salvo aquellas que retribuyan el grado de interés, iniciativa o esfuerzo con que el\nfuncionario desempeña su trabajo y el rendimiento o resultados obtenidos, y las que retribuyan los servicios extraordinarios\nprestados fuera de la jornada normal de trabajo.",
+    "options": [
+      "Dos pagas extraordinarias al año, de idéntico importe al de la mensualidad ordinaria.",
+      "Dos pagas extraordinarias al año, cada una por el importe de una mensualidad de las retribuciones básicas.",
+      "Tres pagas extraordinarias al año, cada una por el importe de una mensualidad de las retribuciones básicas.",
+      "Dos pagas extraordinarias al año, cada una por el importe de una mensualidad de las retribuciones básicas y de la totalidad\nde las retribuciones complementarias, salvo aquellas que retribuyan el grado de interés, iniciativa o esfuerzo con que el\nfuncionario desempeña su trabajo y el rendimiento o resultados obtenidos, y las que retribuyan los servicios extraordinarios\nprestados fuera de la jornada normal de trabajo."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "La última revisión del importe de la indemnización por uso de vehículo particular:",
+    "answer": "Se produjo en 2023 y lo actualizó a 0,26 euros por kilómetro recorrido por el uso de automóviles.",
+    "options": [
+      "Se produjo en 2014 y lo actualizó a 0,14 euros por kilómetro recorrido por el uso de automóviles.",
+      "Se produjo en 2023 y lo actualizó a 0,26 euros por kilómetro recorrido por el uso de automóviles.",
+      "Se produjo en 2005 y lo actualizó a 0,19 euros por kilómetro recorrido por el uso de automóviles.",
+      "Se produjo en 2023 y supuso la eliminación de la indemnización del Real Decreto 462/2002, de 24 de mayo, sobre\nindemnizaciones por razón del servicio."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cuál de los siguientes colectivos está incluido en el ámbito de aplicación del IV Convenio colectivo único para el personal laboral de la Administración General del Estado?",
+    "answer": "El personal de la Administración de Justicia no transferida.",
+    "options": [
+      "El personal de la Administración de Justicia no transferida.",
+      "El personal laboral que presta servicios en el exterior.",
+      "El personal cuya relación de servicios se derive de un contrato regulado por la normativa de contratación administrativa o\naquél incluido en los instrumentos excluidos por la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.\n",
+      "El personal de alta dirección contemplado en el artículo 2.1.a) del texto refundido de la Ley del Estatuto de los Trabajadores\ny demás normas legales de aplicación."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con lo dispuesto en el IV Convenio colectivo único para el personal laboral de la Administración General del\nEstado, la Comisión Negociadora estará compuesta por:",
+    "answer": "30 miembros con voz y voto.",
+    "options": [
+      "30 miembros con voz y voto.",
+      "20 miembros con voz y voto.",
+      "15 miembros con voz y voto.\n",
+      "25 miembros con voz y voto."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿qué se entiende por negociación colectiva?",
+    "answer": "El derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública.",
+    "options": [
+      "El derecho a participar, a través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u\norganismos que legalmente se determine.",
+      "El derecho a negociar la determinación de condiciones de trabajo de, únicamente, el personal laboral de la Administración\nPública.",
+      "El derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública.",
+      "El derecho a elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre\nlas Administraciones Públicas y sus empleados."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De acuerdo con el Real Decreto 375/2003, de 28 de marzo, por el que se aprueba el Reglamento General del Mutualismo Administrativo, ¿qué mutualistas quedan exceptuados de la obligación de cotizar?",
+    "answer": "Los funcionarios que se encuentren en la situación de excedencia para atender al cuidado de hijos o familiares.",
+    "options": [
+      "Los funcionarios que estén en excedencia forzosa.",
+      "Los funcionarios que estén en servicios en comunidades autónomas.",
+      "Los funcionarios que estén en expectativa de destino.",
+      "Los funcionarios que se encuentren en la situación de excedencia para atender al cuidado de hijos o familiares."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Señale la afirmación correcta sobre las pruebas selectivas de acceso de las personas con discapacidad al empleo público:",
+    "answer": "Las pruebas selectivas tendrán idéntico contenido para todos los aspirantes, independientemente del turno por el que se opte, sin perjuicio de las adaptaciones previstas en el artículo 8 del Real Decreto 2271/2004, de 3 de diciembre, por el que se\nregula el acceso al empleo público y la provisión de puestos de trabajo de las personas con discapacidad.",
+    "options": [
+      "Las pruebas selectivas tendrán distinto contenido y grado de evaluación para los aspirantes, según el turno por el que se\nopte, sin perjuicio de las adaptaciones previstas en el artículo 8 del Real Decreto 2271/2004, de 3 de diciembre, por el que\nse regula el acceso al empleo público y la provisión de puestos de trabajo de las personas con discapacidad.",
+      "Las adaptaciones previstas en el artículo 8 del Real Decreto 2271/2004, de 3 de diciembre, por el que se regula el acceso al\nempleo público y la provisión de puestos de trabajo de las personas con discapacidad, se otorgarán de manera automática\núnicamente a los aspirantes que opten por el turno de cupo de reserva.",
+      "Las pruebas selectivas tendrán idéntico contenido para todos los aspirantes, independientemente del turno por el que se opte, sin perjuicio de las adaptaciones previstas en el artículo 8 del Real Decreto 2271/2004, de 3 de diciembre, por el que se\nregula el acceso al empleo público y la provisión de puestos de trabajo de las personas con discapacidad.",
+      "Las adaptaciones previstas en el artículo 8 del Real Decreto 2271/2004, de 3 de diciembre, por el que se regula el acceso al\nempleo público y la provisión de puestos de trabajo de las personas con discapacidad, se otorgarán de forma automática\ncuando sean solicitadas por los aspirantes."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo, el acceso de las personas con discapacidad al empleo público, tanto como personal funcionario como laboral, se inspirará en:",
+    "answer": "Los principios de igualdad de oportunidades, no discriminación y accesibilidad universal.",
+    "options": [
+      "Los principios de descentralización, no discriminación e igualdad.",
+      "Los principios de igualdad de oportunidades, no discriminación y proporcionalidad.",
+      "Los principios de neutralidad, accesibilidad y seguridad.",
+      "Los principios de igualdad de oportunidades, no discriminación y accesibilidad universal."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿A quién le corresponde la elaboración de los Presupuestos Generales del Estado en España según el artículo 134 de la\nConstitución Española de 1978?",
+    "answer": "Al Gobierno.",
+    "options": [
+      "Al Gobierno.",
+      "Al Congreso de los Diputados.",
+      "Al Senado.\n",
+      "Al Tribunal Constitucional.\n"
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el artículo 19 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, en caso de apreciar riesgo de incumplimiento del objetivo de estabilidad presupuestaria de una Comunidad Autónoma, se formulará advertencia motivada sobre tal situación. ¿De qué plazo dispone la Administración advertida para adoptar las medidas necesarias para evitar este riesgo?",
+    "answer": "Un mes.",
+    "options": [
+      "Seis meses.",
+      "Tres meses.",
+      "Un año.",
+      "Un mes."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cuál es el órgano competente para la confección de los escenarios presupuestarios plurianuales, según el artículo 28 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria?\n",
+    "answer": "El Ministerio de Hacienda.",
+    "options": [
+      "El Consejo de Estado.",
+      "El Consejo de Ministros.\n",
+      "El Ministerio de Hacienda.",
+      "La Intervención General de la Administración del Estado."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Indique cuál de los siguientes gastos NO se imputará al Capítulo 1 del Presupuesto de Gastos:",
+    "answer": "Las dietas.",
+    "options": [
+      "Las dietas.",
+      "Las retribuciones del personal.",
+      "Las retribuciones en especie.",
+      "El transporte colectivo del personal."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "En la aplicación presupuestaria 13.91.111N.223:\n",
+    "answer": "El 13 se refiere a la Sección, el 91 se refiere al Servicio, el 111N se refiere al programa de gasto y el 223 al concepto.",
+    "options": [
+      "El 13 se refiere a la Sección, el 91 se refiere al Servicio, el 111N se refiere al programa de gasto y el 223 al concepto.",
+      "El 13 se refiere a la Sección, el 91 se refiere al programa de gasto, el 111N se refiere al capítulo y el 223 al concepto.",
+      "El 13 se refiere al Servicio, el 91 se refiere a la Sección, el 111N se refiere al programa de gasto y el 223 al concepto.",
+      "El 13 se refiere a la Sección, el 91 se refiere al Servicio, el 111N se refiere al programa de gasto y el 223 al subconcepto."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Qué tipo de modificación presupuestaria permite imputar a créditos del ejercicio corriente obligaciones derivadas de\ncompromisos de gastos debidamente adquiridos en ejercicios anteriores?",
+    "answer": "Incorporaciones de créditos.",
+    "options": [
+      "Incorporaciones de créditos.",
+      "Ampliaciones de créditos.\n",
+      "Gastos plurianuales.",
+      "Generaciones de créditos.\n"
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el artículo 56 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, ¿a quién corresponde la competencia para autorizar créditos extraordinarios en el presupuesto de un organismo autónomo cuando la cuantía es de 750.000 € y supone el 16 % del correspondiente capítulo de su presupuesto inicial de gastos?",
+    "answer": "Al Ministro de Hacienda.",
+    "options": [
+      "Al Ministro de Hacienda.",
+      "Al Presidente del organismo.",
+      "Al Director del organismo.\n",
+      "Al Presidente del Gobierno."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el artículo 56 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, para un crédito extraordinario o suplemento de crédito de un organismo autónomo que se destinara a atender obligaciones de ejercicios anteriores, para las que no se anulara crédito en el ejercicio de procedencia, ¿cuál sería el procedimiento inicial para su tramitación?",
+    "answer": "Se remitirá un proyecto de Ley a las Cortes Generales.",
+    "options": [
+      "Se solicitará autorización al Ministerio de Hacienda para su aprobación.",
+      "Se remitirá un proyecto de Ley a las Cortes Generales.",
+      "Se solicitará autorización al Consejo de Ministros, previa audiencia del Presidente/Director del organismo.",
+      "Tal supuesto no está contemplado en la Ley 47/2003, de 26 de noviembre, General Presupuestaria."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el artículo 140 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, ¿qué órgano ejerce el control externo de la gestión económica-financiera del sector público estatal?",
+    "answer": "El Tribunal de Cuentas",
+    "options": [
+      "El Consejo de política fiscal y financiera.",
+      "El Tribunal de Cuentas",
+      "La Intervención General de la Administración del Estado.",
+      "El Tribunal Económico-Administrativo Central."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según la Ley 47/2003, de 26 de noviembre, General Presupuestaria, ¿cuál de las siguientes actuaciones NO debe incluir el control financiero permanente?",
+    "answer": "Revisión y aprobación de los Presupuestos Generales del Estado.",
+    "options": [
+      "En los departamentos ministeriales y entidades gestoras y servicios comunes de la Seguridad Social, verificar, mediante\ntécnicas de auditoría, que los datos e información con trascendencia económica proporcionados por los órganos gestores\ncomo soporte de la información contable, reflejan razonablemente las operaciones derivadas de su actividad.",
+      "Seguimiento de la ejecución presupuestaria y verificación del cumplimiento de los objetivos asignados a los programas de los\ncentros gestores del gasto y verificación del balance de resultados e informe de gestión.",
+      "Comprobación de la planificación, gestión y situación de la tesorería.",
+      "Revisión y aprobación de los Presupuestos Generales del Estado."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "En la Orden de 1 de febrero de 1996, por la que se aprueban los documentos contables a utilizar por la Administración General del Estado, se menciona el documento contable A206. Indique a qué operación se refiere:",
+    "answer": "Cancelación de autorizaciones (Anticipos de Tesorería).",
+    "options": [
+      "Autorización sobre crédito comprometido.",
+      "Autorización sobre crédito retenido.",
+      "Autorización sobre crédito disponible.",
+      "Cancelación de autorizaciones (Anticipos de Tesorería)."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el artículo 79 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, una vez aprobada una propuesta de pagos presupuestarios y librarse fondos con el carácter de \"a justificar\" y aportados los documentos justificativos correspondientes de esa operación, indique en qué plazo se llevará a cabo la aprobación o reparo de la cuenta por la autoridad competente:",
+    "answer": "Los dos meses siguientes a la fecha de aportación de los documentos justificativos.",
+    "options": [
+      "Los dos meses siguientes a la fecha de libramiento de los fondos.",
+      "Los dos meses siguientes a la fecha de aportación de los documentos justificativos.",
+      "Los tres meses siguientes a la fecha de aportación de los documentos justificativos.",
+      "Los tres meses siguientes a la fecha de libramiento de los fondos."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según la Ley 47/2003, de 26 de noviembre, General Presupuestaria, ¿cómo se estructura la clasificación económica de los estados de ingresos en los Presupuestos Generales del Estado?\n",
+    "answer": "Agrupa los ingresos, separando los corrientes, los de capital, y las operaciones financieras.",
+    "options": [
+      "Diferencia únicamente entre impuestos directos e indirectos.",
+      "Separa los ingresos de la Administración General del Estado de los organismos autónomos.",
+      "Agrupa los ingresos, separando únicamente entre ingresos corrientes y de capital.",
+      "Agrupa los ingresos, separando los corrientes, los de capital, y las operaciones financieras."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Según el artículo 26 de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, el establecimiento o modificación de la cuantía de los precios públicos se hará:",
+    "answer": "Por Orden del Departamento ministerial del que dependa el órgano que ha de percibirlos y a propuesta de éste.",
+    "options": [
+      "Directamente por los organismos públicos, previa autorización del Presidente/Director del mismo.\n",
+      "Por Orden del Departamento ministerial del que dependa el órgano que ha de percibirlos y a propuesta de éste.",
+      "Por Orden del Ministerio de Hacienda y a propuesta del Departamento ministerial del que dependa el órgano que ha de\npercibirlos.",
+      "Directamente por los organismos públicos, previa propuesta del Ministerio de Hacienda, sin autorización."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Los impuestos directos y cotizaciones sociales se imputarán:",
+    "answer": "Al Capítulo 1 del presupuesto de ingresos.",
+    "options": [
+      "Al Capítulo 1 del presupuesto de ingresos.",
+      "Al Capítulo 3 del presupuesto de ingresos.",
+      "Al Capítulo 7 del presupuesto de ingresos.",
+      "Al Capítulo 5 del presupuesto de ingresos."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Indique la respuesta correcta, de conformidad con el artículo 21 del texto refundido de la Ley del Estatuto Básico del Empleado Público:",
+    "answer": "Las cuantías de las retribuciones básicas y el incremento de las cuantías globales de las retribuciones complementarias de\nlos funcionarios, así como el incremento de la masa salarial del personal laboral deberán reflejarse para cada ejercicio\npresupuestario en la correspondiente ley de presupuestos.",
+    "options": [
+      "Las cuantías de las retribuciones complementarias y el incremento de las cuantías globales de las retribuciones básicas de\nlos funcionarios y del personal laboral deberán reflejarse para cada ejercicio presupuestario en la correspondiente Orden del\nMinisterio de Hacienda sobre la confección de nóminas anuales.",
+      "Las cuantías de las retribuciones básicas y complementarias de los funcionarios y su repercusión en su masa salarial deberán\nreflejarse para cada ejercicio presupuestario en la correspondiente ley de presupuestos.\n",
+      "Las cuantías de las retribuciones complementarias y el incremento de las cuantías globales de las retribuciones básicas de\nlos funcionarios y del personal laboral deberán reflejarse para cada ejercicio presupuestario en la correspondiente ley de\npresupuestos.",
+      "Las cuantías de las retribuciones básicas y el incremento de las cuantías globales de las retribuciones complementarias de\nlos funcionarios, así como el incremento de la masa salarial del personal laboral deberán reflejarse para cada ejercicio\npresupuestario en la correspondiente ley de presupuestos."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "¿Cuáles de los siguientes planes NO están previstos en la Orden TDF/380/2024, de 26 de abril, sobre planificación estratégica de los recursos humanos de la Administración del Estado?",
+    "answer": "Planes departamentales de análisis de RPT.",
+    "options": [
+      "Planes de ámbito general de función pública.",
+      "Planes de reestructuración de sectores concretos.",
+      "Planes departamentales de análisis de RPT.",
+      "Planes específicos."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "La Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, hace referencia a un órgano que aunará el conjunto de la información estadística disponible en materia de extranjería, inmigración, protección internacional y nacionalidad, con independencia de la Administración Pública responsable de su elaboración. Indique cuál:",
+    "answer": "Observatorio Permanente de la Inmigración.",
+    "options": [
+      "Observatorio Permanente de la Inmigración.",
+      "Foro para la Integración Social de los Inmigrantes.",
+      "Comisión Multilateral para la Inmigración.",
+      "Consejo General para la Inmigración."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "Indique cuál de los siguientes costes sí es susceptible de revisión de precios en los contratos de las entidades del Sector Público, siempre que se cumplan todos los requisitos y de acuerdo con el artículo 103 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público:",
+    "answer": "Los costes de mano de obra de los contratos distintos de los de obra.",
+    "options": [
+      "El beneficio industrial.",
+      "Los costes de mano de obra de los contratos distintos de los de obra.",
+      "Los costes financieros.\n",
+      "Los costes asociados a amortizaciones."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "De conformidad con el artículo 234 del Tratado de Funcionamiento de la Unión Europea, el Parlamento Europeo es competente para aprobar una moción de censura contra la Comisión:\n",
+    "answer": "Transcurridos tres días desde la fecha de su presentación y por mayoría de dos tercios de los votos emitidos que representen,\na su vez, la mayoría de los diputados que componen el Parlamento Europeo.",
+    "options": [
+      "Transcurridos tres días desde la fecha de su presentación y por mayoría simple.\n",
+      "Transcurridos tres días desde la fecha de su presentación y por mayoría absoluta.",
+      "Transcurridos tres días desde la fecha de su presentación y por mayoría de tres quintos de los votos emitidos que representen,\na su vez, la mayoría de los diputados que componen el Parlamento Europeo.",
+      "Transcurridos tres días desde la fecha de su presentación y por mayoría de dos tercios de los votos emitidos que representen,\na su vez, la mayoría de los diputados que componen el Parlamento Europeo."
+    ],
+    "subject": "GACE",
+    "topic": 2024
+  },
+  {
+    "question": "En la Orden de 1 de febrero de 1996, por la que se aprueban los documentos contables a utilizar por la Administración General del Estado, se menciona el documento contable CA. Indique a qué operación se refiere:",
+    "answer": "Certificaciones anticipadas.",
+    "options": [
+      "Certificaciones anticipadas.",
+      "Compromisos de gasto anticipados.\n",
+      "Compromisos anticipados.",
+      "Certificaciones ejercicios anteriores."
+    ],
+    "subject": "GACE",
+    "topic": 2024
   }
 ]
