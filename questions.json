@@ -6851,5 +6851,485 @@
     ],
     "subject": "OE",
     "topic": 6
+  },
+  {
+    "question": "La Ley de Régimen Jurídico del Sector Público señala en su art. 54 que la Administración General del Estado actúa y se organiza de acuerdo con los principios establecidos en el artículo 3, así como los de:",
+    "answer": "Descentralización funcional y desconcentración funcional y territorial.",
+    "options": [
+      "Objetividad y responsabilidad.",
+      "Austeridad e integridad.",
+      "Descentralización funcional y desconcentración funcional y territorial.",
+      "Jerarquía y eficacia."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "La Administración General del Estado, según el art. 57 de la Ley 40/2015, de 1 de octubre, se organiza en:",
+    "answer": "Presidencia del Gobierno y en Ministerios.",
+    "options": [
+      "Presidencia del Gobierno y en Ministerios.",
+      "Ministerios.",
+      "Secretarías de Estado.",
+      "Municipios."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "¿Cuál de los siguientes órganos no puede nombrar a un subdirector general?:",
+    "answer": "El Director General",
+    "options": [
+      "El Secretario de Estado.",
+      "El Subsecretario",
+      "El Director General",
+      "El Ministro."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Los Ministerios contarán en todo caso:",
+    "answer": "Con una Subsecretaría",
+    "options": [
+      "Con una Subsecretaría",
+      "Con una Secretaría General",
+      "Con una Secretaría de Estado.",
+      "Con Direcciones Generales."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Las Direcciones Generales se crean, modifican y suprimen por:",
+    "answer": "Real Decreto del Consejo de Ministros a iniciativa del Ministro interesado y a\npropuesta del Ministro de Hacienda y Administraciones Públicas (actualmente\nMinisterio para la Transformación Digital y de la Función Pública).",
+    "options": [
+      "Real Decreto del Presidente del Gobierno",
+      "Real Decreto del Consejo de Ministros a iniciativa del Ministro interesado y a\npropuesta del Ministro de Hacienda y Administraciones Públicas (actualmente\nMinisterio para la Transformación Digital y de la Función Pública).",
+      "Por Real Decreto del Consejo de Ministros, a iniciativa del Presidente del\nGobierno.",
+      "Orden Ministerial"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "De conformidad con la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado, en caso de que el nombramiento de un Director General recaiga en una persona que no reúna la condición de funcionario por permitirlo el RD de estructura del Departamento en atención a las características específicas de las funciones de la Dirección General:",
+    "answer": "Deberá motivarse mediante memoria razonada la concurrencia de las especiales\ncaracterísticas que justifiquen esa circunstancia excepcional.",
+    "options": [
+      "Deberá solicitarse el previo informe favorable del Ministerio de Hacienda y\nAdministraciones Públicas (actualmente Ministerio para la Transformación\nDigital y de la Función Pública).",
+      "Deberá motivarse mediante memoria razonada la concurrencia de las especiales\ncaracterísticas que justifiquen esa circunstancia excepcional.",
+      "Deberá solicitarse autorización a la Oficina de Conflictos de Intereses con\ncarácter previo al nombramiento en que concurran las especiales características\nque justifiquen esa circunstancia excepcional.",
+      "Deberá solicitarse al Consejo de Transparencia y Buen Gobierno informe que\nacredite motivadamente la concurrencia de las especiales características que\njustifiquen esa circunstancia excepcional."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "El nombramiento de los Secretarios de Estado se lleva a cabo por:",
+    "answer": "Real Decreto del Consejo de Ministros a propuesta del Presidente del Gobierno\no del miembro del Gobierno a cuyo Departamento pertenezcan.",
+    "options": [
+      "Real Decreto del Consejo de Ministros a propuesta del Presidente del Gobierno\no del miembro del Gobierno a cuyo Departamento pertenezcan.",
+      "Acuerdo del Consejo de Ministros a propuesta del miembro del Gobierno a cuyo\nDepartamento pertenezcan.",
+      "Orden del Ministro a cuyo Departamento pertenezcan",
+      "Real decreto del Presidente del Gobierno a propuesta del miembro del Gobierno\na cuyo Departamento pertenezcan."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "No tienen la condición de alto cargo:",
+    "answer": "Los Subdirectores Generales y asimilados",
+    "options": [
+      "Los Subdirectores Generales y asimilados",
+      "Los Subsecretarios",
+      "Los Secretarios Generales Técnicos y los Directores Generales.",
+      "Los Delegados del Gobierno en las Comunidades Autónomas."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Son nombrados por RD del Consejo de Ministros a propuesta del titular del Ministerio entre funcionarios pertenecientes al subgrupo A1:",
+    "answer": "Los Subsecretarios y Secretarios Generales Técnicos.",
+    "options": [
+      "Los Subsecretarios y Secretarios Generales Técnicos.",
+      "Los Subsecretarios, Secretarios Generales Técnicos y Subdirectores Generales",
+      "Los Subsecretarios, Secretarios Generales y Subdirectores Generales.",
+      "Los Subsecretarios y Secretarios Generales."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Se crean, modifican y suprimen por Real Decreto del Consejo de Ministros, a iniciativa del Ministro interesado y a propuesta del Ministro de Hacienda y Administraciones Públicas (actualmente Ministerio para la Transformación Digital y de la Función Pública):",
+    "answer": "Las Subsecretarías, Secretarías Generales, Secretaría Generales\nTécnicas, Direcciones Generales y Subdirecciones Generales.",
+    "options": [
+      "Los Ministerios y Secretarías de Estado.",
+      "Las unidades que no tengan la consideración de órganos",
+      "Los órganos de nivel inferior a Subdirector General.",
+      "Las Subsecretarías, Secretarías Generales, Secretaría Generales\nTécnicas, Direcciones Generales y Subdirecciones Generales."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Señale la respuesta correcta en relación con los Ministros y Secretarios de Estado:",
+    "answer": "Ambos tienen la consideración de alto cargo.",
+    "options": [
+      "Ambos tienen la consideración de alto cargo.",
+      "Ambos nombrados por el Rey.",
+      "El Ministro es órgano superior y el Secretario de Estado es órgano directivo.",
+      "Ambos tienen la consideración de órganos directivos."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Los Secretarios Generales tienen categoría de:",
+    "answer": "Subsecretario.",
+    "options": [
+      "Subsecretario.",
+      "Subdirector General.",
+      "Secretario de Estado.",
+      "Director General."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Ejercer la potestad disciplinaria del personal del Departamento por faltas graves o\nmuy graves, salvo la separación del servicio corresponde:",
+    "answer": "A los Subsecretarios.",
+    "options": [
+      "A los Subsecretarios.",
+      "A los Secretarios Generales.",
+      "Al Ministro.",
+      "A los Secretarios de Estado."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Son órganos superiores de los Departamentos Ministeriales:",
+    "answer": "Los Ministros y los Secretarios de Estado",
+    "options": [
+      "Los Ministros y los Secretarios de Estado",
+      "El Consejo de Ministros, las Comisiones Delegadas del Gobierno y los Ministros.",
+      "Los Ministros, los Secretarios de Estado, Subsecretarios y Directores Generales",
+      "Los Ministros, los Secretarios de Estado, Subsecretarios y Secretarios Generales."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "El artículo 54 LRJSP señala que las competencias en materia de organización\nadministrativa, régimen de personal, procedimientos e inspección de servicios, no atribuidas específicamente conforme a una Ley a ningún otro órgano de la Administración General del Estado, ni al Gobierno, corresponderán:",
+    "answer": "Al Ministerio para la Transformación Digital y de la Función Pública",
+    "options": [
+      "A la Presidencia del Gobierno.",
+      "A la Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Al Ministerio de Política Territorial y Memoria Democrática.",
+      "Al Ministerio para la Transformación Digital y de la Función Pública"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "De acuerdo con la LRJSP, los órganos de gestión de una o varias áreas funcionalmente homogéneas de actividad administrativa son:",
+    "answer": "Las Direcciones Generales.",
+    "options": [
+      "Las Direcciones Generales.",
+      "Los Ministerios.",
+      "Las Secretarías Generales.",
+      "Las Subsecretarías."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Respecto de los Subdirectores Generales:",
+    "answer": "Son nombrados y cesados por el Ministro, Secretario de Estado o Subsecretario\ndel que dependan.",
+    "options": [
+      "Son nombrados y cesados por el Ministro o Secretario de Estado del que\ndependan.",
+      "Son nombrados y cesados por el Secretario de Estado o Subsecretario del que\ndependan.",
+      "Son nombrados y cesados por el Ministro del que dependan",
+      "Son nombrados y cesados por el Ministro, Secretario de Estado o Subsecretario\ndel que dependan."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Serán en todo caso elegidos entre funcionarios del grupo A1:",
+    "answer": "Los Subsecretarios.",
+    "options": [
+      "Los Secretarios de Estado.",
+      "Los Subsecretarios.",
+      "Los Secretarios Generales.",
+      "Los Ministros."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "En relación con la ordenación jerárquica de los órganos ministeriales indique la respuesta correcta:",
+    "answer": "Los Secretarios Generales tienen categoría de Subsecretario",
+    "options": [
+      "Los Secretarios Generales Técnicos tienen categoría de Subsecretario.",
+      "Los Secretarios Generales Técnicos tienen categoría de Secretarios Generales.",
+      "Los Secretarios Generales y los Secretarios Generales Técnicos tienen categoría\nde Director General.",
+      "Los Secretarios Generales tienen categoría de Subsecretario"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "¿Cómo se crea un Ministerio?:",
+    "answer": "Por Real Decreto del Presidente del Gobierno",
+    "options": [
+      "Por Real Decreto del Presidente del Gobierno",
+      "Por ley.",
+      "Por Orden",
+      "Por Real Decreto del Consejo de Ministros."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Las unidades administrativas que no tengan la consideración de órgano:",
+    "answer": "Se establecen mediante las relaciones de puestos de trabajo",
+    "options": [
+      "Se establecen mediante las relaciones de puestos de trabajo",
+      "Se establecen mediante orden ministerial",
+      "Se establecen mediante RD del Presidente del Gobierno",
+      "Se establecen mediante RD del Consejo de Ministros"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "¿A quién corresponde convocar y resolver pruebas selectivas del personal funcionario y laboral?:",
+    "answer": "Al Subsecretario.",
+    "options": [
+      "Al Subsecretario.",
+      "Al Presidente del Gobierno.",
+      "Al Ministro correspondiente.",
+      "Al Consejo de Ministros."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Tiene categoría de Director General:",
+    "answer": "El Secretario General Técnico",
+    "options": [
+      "El Subdelegado del Gobierno.",
+      "El Secretario General Técnico",
+      "El Secretario General.",
+      "El Delegado del Gobierno"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Los titulares de los órganos superiores y directivos son nombrados (art. 55.11 de la Ley 40/2015, de 1 de octubre):",
+    "answer": "Atendiendo a criterios de competencia profesional y experiencia.",
+    "options": [
+      "Atendiendo a criterios de competencia profesional y experiencia.",
+      "Atendiendo a criterios de experiencia y profesionalidad.",
+      "Atendiendo a criterios de experiencia y antigüedad",
+      "Atendiendo a criterios de responsabilidad en la gestión y gestión territorial\nintegrada."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Los órganos directivos de la organización central de la Administración General del Estado se ordenan jerárquicamente entre sí de la siguiente forma:",
+    "answer": "Subsecretario, Director general y Subdirector general",
+    "options": [
+      "Subsecretario, Secretario General y Subdirector general",
+      "Secretario de estado, Director general y Subdirector general",
+      "Subsecretario, Director general y Secretario General Técnico",
+      "Subsecretario, Director general y Subdirector general"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "¿Cómo se denomina el órgano que tiene atribuida directamente la responsabilidad de la ejecución de la acción del Gobierno en un sector de actividad específica de un\nDepartamento o de la Presidencia del Gobierno?:",
+    "answer": "Secretaría de Estado",
+    "options": [
+      "Secretaría General Técnica.",
+      "Secretaría de Estado",
+      "Dirección General",
+      "Subdirección General"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Señale la afirmación correcta:",
+    "answer": "Los Subsecretarios ostentan la representación ordinaria del Ministerio y dirigen\nlos servicios comunes.",
+    "options": [
+      "Los Subsecretarios ostentan la representación ordinaria del Ministerio y dirigen\nlos servicios comunes.",
+      "Los Ministros ostentan la representación ordinaria del Ministerio y dirigen los\nservicios comunes.",
+      "Los Secretarios Generales Técnicos ostentan la representación ordinaria del\nMinisterio y dirigen los servicios comunes",
+      "Los Directores Generales ostentan la representación ordinaria del Ministerio y\ndirigen los servicios comunes"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "La creación, modificación y supresión de órganos de nivel inferior a Subdirección General, se llevará a cabo por:",
+    "answer": "Orden del Ministro respectivo, previa autorización del Ministro de Hacienda y\nAdministraciones Públicas (actualmente Ministerio para la Transformación\nDigital y de la Función Pública).",
+    "options": [
+      "Real Decreto del Consejo de Ministros.",
+      "Orden del Ministro respectivo, previa autorización del Ministro de Hacienda y\nAdministraciones Públicas (actualmente Ministerio para la Transformación\nDigital y de la Función Pública).",
+      "Real Decreto del Presidente del Gobierno.",
+      "Relación de Puestos de Trabajo."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Las Administraciones Públicas deberán respetar, según el art. 3 de la Ley 40/2015, de 1 de octubre en su actuación y relaciones los siguientes principios:",
+    "answer": "Cooperación, Colaboración y Coordinación entre Administraciones Públicas",
+    "options": [
+      "Cooperación, Colaboración y Coordinación entre Administraciones Públicas",
+      "Desconcentración.",
+      "Descentralización.",
+      "Jerarquía."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "La 40/2015, de 1 de octubre, establece que los Secretarios Generales:",
+    "answer": "Tienen rango de subsecretario",
+    "options": [
+      "Habrán de designarse entre funcionarios de carrera",
+      "Son miembros del Gobierno",
+      "Son órganos superiores",
+      "Tienen rango de subsecretario"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Según se desgaja del art. 3.3 de la Ley 40/2015, de 1 de octubre, la Administración General del Estado actúa:",
+    "answer": "Bajo la dirección del Gobierno de la Nación",
+    "options": [
+      "Bajo la dirección del Gobierno de la Nación",
+      "Bajo la dirección del Presidente del Gobierno",
+      "Bajo la supervisión del Ministro de la Presidencia",
+      "Bajo la dirección del responsable de cada departamento"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Los Ministerios contarán, en todo caso:",
+    "answer": "Con una Subsecretaría, y dependiendo de ella una Secretaría General Técnica,\npara la gestión de los servicios comunes",
+    "options": [
+      "Con una Subsecretaría, y dependiendo de ella una Secretaría General Técnica,\npara la gestión de los servicios comunes",
+      "Con una Secretaría de Estado, y dependiendo de ella una Secretaría General\nTécnica, para la gestión de los servicios periféricos integrados en las\nDelegaciones del Gobierno",
+      "Con una Subsecretaría, y dependiendo de ella una Secretaría General, para la\ngestión de los servicios comunes",
+      "Con una Subsecretaría, y dependiendo de ella una Secretaría General Técnica,\npara la gestión de los servicios periféricos integrados en las Delegaciones del\nGobierno."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Son órganos directivos de los Ministerios que tienen la consideración de alto cargo:",
+    "answer": "Subsecretario, Secretario General, Secretario General Técnico y Director\nGeneral",
+    "options": [
+      "Subsecretario, Secretario General Técnico, Director General y Subdirector\nGeneral",
+      "Subsecretario, Director General y Subdirector General",
+      "Subsecretario, Secretario General, Secretario General Técnico, Director General\ny Subdirector General",
+      "Subsecretario, Secretario General, Secretario General Técnico y Director\nGeneral"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "En relación con los Subdirectores generales, la 40/2015, de 1 de octubre, establece que:",
+    "answer": "Los nombramientos habrán de efectuarse entre funcionarios de carrera del\nEstado, o de otras Administraciones, cuando así lo prevean las normas de\naplicación, pertenecientes al Subgrupo A1.",
+    "options": [
+      "Los nombramientos habrán de efectuarse entre funcionarios de carrera del\nEstado, de las Comunidades Autónomas o de las Entidades locales,\npertenecientes al Subgrupo A1",
+      "Los nombramientos habrán de efectuarse entre funcionarios de carrera del\nEstado, de las Comunidades Autónomas o de las Entidades locales,\npertenecientes al Subgrupo A1, salvo que el Real Decreto de estructura permita\nque, en atención a las características específicas de las funciones de la Dirección\nGeneral, su titular no reúna dicha condición de funcionario, debiendo motivarse mediante memoria razonada la concurrencia de las especiales características que\njustifiquen esa circunstancia excepcional.",
+      "Los nombramientos habrán de efectuarse entre personas con cualificación y\nexperiencia en el desempeño de puestos de responsabilidad en la gestión pública\no privada.",
+      "Los nombramientos habrán de efectuarse entre funcionarios de carrera del\nEstado, o de otras Administraciones, cuando así lo prevean las normas de\naplicación, pertenecientes al Subgrupo A1."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Señale qué afirmación es incorrecta:",
+    "answer": "El Secretario General Técnico no tiene la condición de alto cargo",
+    "options": [
+      "El Secretario General Técnico no tiene la condición de alto cargo",
+      "La SGT es un órgano directivo",
+      "La SGT es un órgano de existencia obligatoria en cada Departamento.",
+      "La SGT depende de la Subsecretaría del Ministerio respectivo"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "El Secretario de Estado será nombrado entre aquellos que cumplan los siguientes requisitos:",
+    "answer": "Persona idónea, siendo idóneo quién reúne honorabilidad y la debida formación\ny experiencia en la materia, en función de su cargo.",
+    "options": [
+      "Persona con cualificación y experiencia en el desempeño de puestos de\nresponsabilidad en la gestión pública o privada",
+      "Español, mayor de edad, disfrutar de los derechos de sufragio activo y pasivo,\nasí como no estar inhabilitado para ejercer empleo o cargo público por sentencia\njudicial firme y reunir el resto de requisitos de idoneidad previstos en la Ley\n3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la\nAdministración General del Estado.",
+      "Funcionario de carrera perteneciente al Subgrupo A1.",
+      "Persona idónea, siendo idóneo quién reúne honorabilidad y la debida formación\ny experiencia en la materia, en función de su cargo."
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "Señale la respuesta correcta en relación con lo dispuesto en la LRJSP:",
+    "answer": "Los Subdirectores Generales serán nombrados entre funcionarios de carrera del\nSubgrupo A1",
+    "options": [
+      "Los Secretarios de Estado son nombrados entre funcionarios de carrera del\nSubgrupo A1.",
+      "Los Directores Generales serán nombrados entre personas con cualificación y\nexperiencia en el desempeño de puestos de responsabilidad en la gestión pública\no privada.",
+      "Los Secretarios Generales Técnicos serán nombrados entre funcionarios de\ncarrera del Subgrupo A1, salvo que el Real Decreto de estructura del\nDepartamento permita que, en atención a las características específicas de las\nfunciones de la Dirección General, su titular no reúna dicha condición de\nfuncionario.",
+      "Los Subdirectores Generales serán nombrados entre funcionarios de carrera del\nSubgrupo A1"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "En relación a la ordenación jerárquica de los órganos ministeriales señale la respuesta correcta conforme a lo dispuesto en el artículo 60 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+    "answer": "Los Ministros son los jefes superiores del Departamento y superiores\njerárquicos directos de los Secretarios de Estado y Subsecretarios.",
+    "options": [
+      "Los órganos directivos se ordenan jerárquicamente entre sí de la siguiente\nforma: Subsecretario, Director General y Secretario General Técnico.",
+      "Los Ministros son los jefes superiores del Departamento y superiores\njerárquicos directos de los Secretarios de Estado, Secretarios Generales y Subsecretarios.",
+      "Los Ministros son los jefes superiores del Departamento y superiores\njerárquicos directos de los Secretarios de Estado y Subsecretarios.",
+      "Los Secretarios Generales tienen la categoría de Director General"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "¿Qué órgano tiene la competencia para imponer la sanción de separación del servicio por falta muy grave?:",
+    "answer": "El Ministro del Departamento",
+    "options": [
+      "El Ministro del Departamento",
+      "Un Director General",
+      "La Comisión Superior de Personal",
+      "El Subsecretario"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
+  },
+  {
+    "question": "De acuerdo con el artículo 68 de la LRJSP ¿es posible que los ministerios compartan la gestión de servicios comunes?:",
+    "answer": "Sí, mediante Real Decreto",
+    "options": [
+      "Sí, mediante Real Decreto",
+      "No, al tratarse de servicios comunes dependientes de cada subsecretaría.",
+      "Sí, previo informe preceptivo favorable del Ministerio para la Transformación\nDigital y de la Función Pública.",
+      "Sí, por orden ministerial conjunta de los ministerios afectados"
+    ],
+    "subject": "OE",
+    "topic": "8.1"
   }
 ]
