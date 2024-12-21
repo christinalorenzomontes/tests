@@ -22,7 +22,7 @@ function startQuiz() {
     let subjectCheckboxes = document.querySelectorAll("input[name='subject']:checked");
     subjectCheckboxes.forEach(checkbox => {
         if (checkbox.value === "todas") {
-            selectedSubjects = ["PP", "OE", "GF", "DA"];
+            selectedSubjects = ["PP", "OE", "GF", "DA", "GACE", "ADVO"];
         } else {
             selectedSubjects.push(checkbox.value);
         }
